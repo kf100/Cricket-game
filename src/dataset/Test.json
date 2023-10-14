@@ -1,0 +1,7260 @@
+{
+    "batting":[
+      {
+        "Player": "SR Tendulkar (IND)",
+        "Matches": 200,
+        "Runs": 15921,
+        "Highest Runs": 248,
+        "Average": 53.78,
+        "Centuries": 51,
+        "Fifties": 68,
+        "Ducks": 14
+      },
+      {
+        "Player": "RT Ponting (AUS)",
+        "Matches": 168,
+        "Runs": 13378,
+        "Highest Runs": 257,
+        "Average": 51.85,
+        "Centuries": 41,
+        "Fifties": 62,
+        "Ducks": 17
+      },
+      {
+        "Player": "JH Kallis (ICC/SA)",
+        "Matches": 166,
+        "Runs": 13289,
+        "Highest Runs": 224,
+        "Average": 55.37,
+        "Centuries": 45,
+        "Fifties": 58,
+        "Ducks": 16
+      },
+      {
+        "Player": "R Dravid (ICC/IND)",
+        "Matches": 164,
+        "Runs": 13288,
+        "Highest Runs": 270,
+        "Average": 52.31,
+        "Centuries": 36,
+        "Fifties": 63,
+        "Ducks": 8
+      },
+      {
+        "Player": "AN Cook (ENG)",
+        "Matches": 161,
+        "Runs": 12472,
+        "Highest Runs": 294,
+        "Average": 45.35,
+        "Centuries": 33,
+        "Fifties": 57,
+        "Ducks": 9
+      },
+      {
+        "Player": "KC Sangakkara (SL)",
+        "Matches": 134,
+        "Runs": 12400,
+        "Highest Runs": 319,
+        "Average": 57.4,
+        "Centuries": 38,
+        "Fifties": 52,
+        "Ducks": 11
+      },
+      {
+        "Player": "BC Lara (ICC/WI)",
+        "Matches": 131,
+        "Runs": 11953,
+        "Highest Runs": 400,
+        "Average": 52.88,
+        "Centuries": 34,
+        "Fifties": 48,
+        "Ducks": 17
+      },
+      {
+        "Player": "S Chanderpaul (WI)",
+        "Matches": 164,
+        "Runs": 11867,
+        "Highest Runs": 203,
+        "Average": 51.37,
+        "Centuries": 30,
+        "Fifties": 66,
+        "Ducks": 15
+      },
+      {
+        "Player": "DPMD Jayawardene (SL)",
+        "Matches": 149,
+        "Runs": 11814,
+        "Highest Runs": 374,
+        "Average": 49.84,
+        "Centuries": 34,
+        "Fifties": 50,
+        "Ducks": 15
+      },
+      {
+        "Player": "JE Root (ENG)",
+        "Matches": 135,
+        "Runs": 11416,
+        "Highest Runs": 254,
+        "Average": 50.29,
+        "Centuries": 30,
+        "Fifties": 60,
+        "Ducks": 12
+      },
+      {
+        "Player": "AR Border (AUS)",
+        "Matches": 156,
+        "Runs": 11174,
+        "Highest Runs": 205,
+        "Average": 50.56,
+        "Centuries": 27,
+        "Fifties": 63,
+        "Ducks": 11
+      },
+      {
+        "Player": "SR Waugh (AUS)",
+        "Matches": 168,
+        "Runs": 10927,
+        "Highest Runs": 200,
+        "Average": 51.06,
+        "Centuries": 32,
+        "Fifties": 50,
+        "Ducks": 22
+      },
+      {
+        "Player": "SM Gavaskar (IND)",
+        "Matches": 125,
+        "Runs": 10122,
+        "Highest Runs": 236,
+        "Average": 51.12,
+        "Centuries": 34,
+        "Fifties": 45,
+        "Ducks": 12
+      },
+      {
+        "Player": "Younis Khan (PAK)",
+        "Matches": 118,
+        "Runs": 10099,
+        "Highest Runs": 313,
+        "Average": 52.05,
+        "Centuries": 34,
+        "Fifties": 33,
+        "Ducks": 19
+      },
+      {
+        "Player": "SPD Smith (AUS)",
+        "Matches": 102,
+        "Runs": 9320,
+        "Highest Runs": 239,
+        "Average": 58.61,
+        "Centuries": 32,
+        "Fifties": 39,
+        "Ducks": 9
+      },
+      {
+        "Player": "HM Amla (SA)",
+        "Matches": 124,
+        "Runs": 9282,
+        "Highest Runs": 311,
+        "Average": 46.64,
+        "Centuries": 28,
+        "Fifties": 41,
+        "Ducks": 13
+      },
+      {
+        "Player": "GC Smith (ICC/SA)",
+        "Matches": 117,
+        "Runs": 9265,
+        "Highest Runs": 277,
+        "Average": 48.25,
+        "Centuries": 27,
+        "Fifties": 38,
+        "Ducks": 11
+      },
+      {
+        "Player": "GA Gooch (ENG)",
+        "Matches": 118,
+        "Runs": 8900,
+        "Highest Runs": 333,
+        "Average": 42.58,
+        "Centuries": 20,
+        "Fifties": 46,
+        "Ducks": 13
+      },
+      {
+        "Player": "Javed Miandad (PAK)",
+        "Matches": 124,
+        "Runs": 8832,
+        "Highest Runs": 280,
+        "Average": 52.57,
+        "Centuries": 23,
+        "Fifties": 43,
+        "Ducks": 6
+      },
+      {
+        "Player": "Inzamam-ul-Haq (ICC/PAK)",
+        "Matches": 120,
+        "Runs": 8830,
+        "Highest Runs": 329,
+        "Average": 49.6,
+        "Centuries": 25,
+        "Fifties": 46,
+        "Ducks": 15
+      },
+      {
+        "Player": "VVS Laxman (IND)",
+        "Matches": 134,
+        "Runs": 8781,
+        "Highest Runs": 281,
+        "Average": 45.97,
+        "Centuries": 17,
+        "Fifties": 56,
+        "Ducks": 14
+      },
+      {
+        "Player": "AB de Villiers (SA)",
+        "Matches": 114,
+        "Runs": 8765,
+        "Highest Runs": 278,
+        "Average": 50.66,
+        "Centuries": 22,
+        "Fifties": 46,
+        "Ducks": 8
+      },
+      {
+        "Player": "V Kohli (IND)",
+        "Matches": 111,
+        "Runs": 8676,
+        "Highest Runs": 254,
+        "Average": 49.29,
+        "Centuries": 29,
+        "Fifties": 29,
+        "Ducks": 14
+      },
+      {
+        "Player": "MJ Clarke (AUS)",
+        "Matches": 115,
+        "Runs": 8643,
+        "Highest Runs": 329,
+        "Average": 49.1,
+        "Centuries": 28,
+        "Fifties": 27,
+        "Ducks": 9
+      },
+      {
+        "Player": "ML Hayden (AUS)",
+        "Matches": 103,
+        "Runs": 8625,
+        "Highest Runs": 380,
+        "Average": 50.73,
+        "Centuries": 30,
+        "Fifties": 29,
+        "Ducks": 14
+      },
+      {
+        "Player": "V Sehwag (ICC/IND)",
+        "Matches": 104,
+        "Runs": 8586,
+        "Highest Runs": 319,
+        "Average": 49.34,
+        "Centuries": 23,
+        "Fifties": 32,
+        "Ducks": 16
+      },
+      {
+        "Player": "IVA Richards (WI)",
+        "Matches": 121,
+        "Runs": 8540,
+        "Highest Runs": 291,
+        "Average": 50.23,
+        "Centuries": 24,
+        "Fifties": 45,
+        "Ducks": 10
+      },
+      {
+        "Player": "DA Warner (AUS)",
+        "Matches": 109,
+        "Runs": 8487,
+        "Highest Runs": 335,
+        "Average": 44.43,
+        "Centuries": 25,
+        "Fifties": 36,
+        "Ducks": 12
+      },
+      {
+        "Player": "AJ Stewart (ENG)",
+        "Matches": 133,
+        "Runs": 8463,
+        "Highest Runs": 190,
+        "Average": 39.54,
+        "Centuries": 15,
+        "Fifties": 45,
+        "Ducks": 14
+      },
+      {
+        "Player": "DI Gower (ENG)",
+        "Matches": 117,
+        "Runs": 8231,
+        "Highest Runs": 215,
+        "Average": 44.25,
+        "Centuries": 18,
+        "Fifties": 39,
+        "Ducks": 7
+      },
+      {
+        "Player": "KP Pietersen (ENG)",
+        "Matches": 104,
+        "Runs": 8181,
+        "Highest Runs": 227,
+        "Average": 47.28,
+        "Centuries": 23,
+        "Fifties": 35,
+        "Ducks": 10
+      },
+      {
+        "Player": "KS Williamson (NZ)",
+        "Matches": 94,
+        "Runs": 8124,
+        "Highest Runs": 251,
+        "Average": 54.89,
+        "Centuries": 28,
+        "Fifties": 33,
+        "Ducks": 10
+      },
+      {
+        "Player": "G Boycott (ENG)",
+        "Matches": 108,
+        "Runs": 8114,
+        "Highest Runs": 246,
+        "Average": 47.72,
+        "Centuries": 22,
+        "Fifties": 42,
+        "Ducks": 10
+      },
+      {
+        "Player": "GS Sobers (WI)",
+        "Matches": 93,
+        "Runs": 8032,
+        "Highest Runs": 365,
+        "Average": 57.78,
+        "Centuries": 26,
+        "Fifties": 30,
+        "Ducks": 12
+      },
+      {
+        "Player": "ME Waugh (AUS)",
+        "Matches": 128,
+        "Runs": 8029,
+        "Highest Runs": 153,
+        "Average": 41.81,
+        "Centuries": 20,
+        "Fifties": 47,
+        "Ducks": 19
+      },
+      {
+        "Player": "MA Atherton (ENG)",
+        "Matches": 115,
+        "Runs": 7728,
+        "Highest Runs": 185,
+        "Average": 37.69,
+        "Centuries": 16,
+        "Fifties": 46,
+        "Ducks": 20
+      },
+      {
+        "Player": "IR Bell (ENG)",
+        "Matches": 118,
+        "Runs": 7727,
+        "Highest Runs": 235,
+        "Average": 42.69,
+        "Centuries": 22,
+        "Fifties": 46,
+        "Ducks": 14
+      },
+      {
+        "Player": "JL Langer (AUS)",
+        "Matches": 105,
+        "Runs": 7696,
+        "Highest Runs": 250,
+        "Average": 45.27,
+        "Centuries": 23,
+        "Fifties": 30,
+        "Ducks": 11
+      },
+      {
+        "Player": "LRPL Taylor (NZ)",
+        "Matches": 112,
+        "Runs": 7683,
+        "Highest Runs": 290,
+        "Average": 44.66,
+        "Centuries": 19,
+        "Fifties": 35,
+        "Ducks": 14
+      },
+      {
+        "Player": "MC Cowdrey (ENG)",
+        "Matches": 114,
+        "Runs": 7624,
+        "Highest Runs": 182,
+        "Average": 44.06,
+        "Centuries": 22,
+        "Fifties": 38,
+        "Ducks": 9
+      },
+      {
+        "Player": "CG Greenidge (WI)",
+        "Matches": 108,
+        "Runs": 7558,
+        "Highest Runs": 226,
+        "Average": 44.72,
+        "Centuries": 19,
+        "Fifties": 34,
+        "Ducks": 11
+      },
+      {
+        "Player": "Mohammad Yousuf (PAK)",
+        "Matches": 90,
+        "Runs": 7530,
+        "Highest Runs": 223,
+        "Average": 52.29,
+        "Centuries": 24,
+        "Fifties": 33,
+        "Ducks": 11
+      },
+      {
+        "Player": "MA Taylor (AUS)",
+        "Matches": 104,
+        "Runs": 7525,
+        "Highest Runs": 334,
+        "Average": 43.49,
+        "Centuries": 19,
+        "Fifties": 40,
+        "Ducks": 5
+      },
+      {
+        "Player": "CH Lloyd (WI)",
+        "Matches": 110,
+        "Runs": 7515,
+        "Highest Runs": 242,
+        "Average": 46.67,
+        "Centuries": 19,
+        "Fifties": 39,
+        "Ducks": 4
+      },
+      {
+        "Player": "DL Haynes (WI)",
+        "Matches": 116,
+        "Runs": 7487,
+        "Highest Runs": 184,
+        "Average": 42.29,
+        "Centuries": 18,
+        "Fifties": 39,
+        "Ducks": 10
+      },
+      {
+        "Player": "DC Boon (AUS)",
+        "Matches": 107,
+        "Runs": 7422,
+        "Highest Runs": 200,
+        "Average": 43.65,
+        "Centuries": 21,
+        "Fifties": 32,
+        "Ducks": 16
+      },
+      {
+        "Player": "AD Mathews (SL)",
+        "Matches": 106,
+        "Runs": 7361,
+        "Highest Runs": 200,
+        "Average": 45.43,
+        "Centuries": 15,
+        "Fifties": 40,
+        "Ducks": 5
+      },
+      {
+        "Player": "G Kirsten (SA)",
+        "Matches": 101,
+        "Runs": 7289,
+        "Highest Runs": 275,
+        "Average": 45.27,
+        "Centuries": 21,
+        "Fifties": 34,
+        "Ducks": 13
+      },
+      {
+        "Player": "WR Hammond (ENG)",
+        "Matches": 85,
+        "Runs": 7249,
+        "Highest Runs": 336,
+        "Average": 58.45,
+        "Centuries": 22,
+        "Fifties": 24,
+        "Ducks": 4
+      },
+      {
+        "Player": "CH Gayle (WI)",
+        "Matches": 103,
+        "Runs": 7214,
+        "Highest Runs": 333,
+        "Average": 42.18,
+        "Centuries": 15,
+        "Fifties": 37,
+        "Ducks": 15
+      },
+      {
+        "Player": "SC Ganguly (IND)",
+        "Matches": 113,
+        "Runs": 7212,
+        "Highest Runs": 239,
+        "Average": 42.17,
+        "Centuries": 16,
+        "Fifties": 35,
+        "Ducks": 13
+      },
+      {
+        "Player": "CA Pujara (IND)",
+        "Matches": 103,
+        "Runs": 7195,
+        "Highest Runs": 206,
+        "Average": 43.6,
+        "Centuries": 19,
+        "Fifties": 35,
+        "Ducks": 12
+      },
+      {
+        "Player": "SP Fleming (NZ)",
+        "Matches": 111,
+        "Runs": 7172,
+        "Highest Runs": 274,
+        "Average": 40.06,
+        "Centuries": 9,
+        "Fifties": 46,
+        "Ducks": 16
+      },
+      {
+        "Player": "Azhar Ali (PAK)",
+        "Matches": 97,
+        "Runs": 7142,
+        "Highest Runs": 302,
+        "Average": 42.26,
+        "Centuries": 19,
+        "Fifties": 35,
+        "Ducks": 19
+      },
+      {
+        "Player": "GS Chappell (AUS)",
+        "Matches": 87,
+        "Runs": 7110,
+        "Highest Runs": 247,
+        "Average": 53.86,
+        "Centuries": 24,
+        "Fifties": 31,
+        "Ducks": 12
+      },
+      {
+        "Player": "AJ Strauss (ENG)",
+        "Matches": 100,
+        "Runs": 7037,
+        "Highest Runs": 177,
+        "Average": 40.91,
+        "Centuries": 21,
+        "Fifties": 27,
+        "Ducks": 15
+      },
+      {
+        "Player": "DG Bradman (AUS)",
+        "Matches": 52,
+        "Runs": 6996,
+        "Highest Runs": 334,
+        "Average": 99.94,
+        "Centuries": 29,
+        "Fifties": 13,
+        "Ducks": 7
+      },
+      {
+        "Player": "ST Jayasuriya (SL)",
+        "Matches": 110,
+        "Runs": 6973,
+        "Highest Runs": 340,
+        "Average": 40.07,
+        "Centuries": 14,
+        "Fifties": 31,
+        "Ducks": 15
+      },
+      {
+        "Player": "L Hutton (ENG)",
+        "Matches": 79,
+        "Runs": 6971,
+        "Highest Runs": 364,
+        "Average": 56.67,
+        "Centuries": 19,
+        "Fifties": 33,
+        "Ducks": 5
+      },
+      {
+        "Player": "DB Vengsarkar (IND)",
+        "Matches": 116,
+        "Runs": 6868,
+        "Highest Runs": 166,
+        "Average": 42.13,
+        "Centuries": 17,
+        "Fifties": 35,
+        "Ducks": 15
+      },
+      {
+        "Player": "KF Barrington (ENG)",
+        "Matches": 82,
+        "Runs": 6806,
+        "Highest Runs": 256,
+        "Average": 58.67,
+        "Centuries": 20,
+        "Fifties": 35,
+        "Ducks": 5
+      },
+      {
+        "Player": "GP Thorpe (ENG)",
+        "Matches": 100,
+        "Runs": 6744,
+        "Highest Runs": 200,
+        "Average": 44.66,
+        "Centuries": 16,
+        "Fifties": 39,
+        "Ducks": 12
+      },
+      {
+        "Player": "FDM Karunaratne (SL)",
+        "Matches": 88,
+        "Runs": 6631,
+        "Highest Runs": 244,
+        "Average": 40.93,
+        "Centuries": 16,
+        "Fifties": 34,
+        "Ducks": 12
+      },
+      {
+        "Player": "BB McCullum (NZ)",
+        "Matches": 101,
+        "Runs": 6453,
+        "Highest Runs": 302,
+        "Average": 38.64,
+        "Centuries": 12,
+        "Fifties": 31,
+        "Ducks": 14
+      },
+      {
+        "Player": "PA de Silva (SL)",
+        "Matches": 93,
+        "Runs": 6361,
+        "Highest Runs": 267,
+        "Average": 42.97,
+        "Centuries": 20,
+        "Fifties": 22,
+        "Ducks": 7
+      },
+      {
+        "Player": "MEK Hussey (AUS)",
+        "Matches": 79,
+        "Runs": 6235,
+        "Highest Runs": 195,
+        "Average": 51.52,
+        "Centuries": 19,
+        "Fifties": 29,
+        "Ducks": 12
+      },
+      {
+        "Player": "RB Kanhai (WI)",
+        "Matches": 79,
+        "Runs": 6227,
+        "Highest Runs": 256,
+        "Average": 47.53,
+        "Centuries": 15,
+        "Fifties": 28,
+        "Ducks": 7
+      },
+      {
+        "Player": "M Azharuddin (IND)",
+        "Matches": 99,
+        "Runs": 6215,
+        "Highest Runs": 199,
+        "Average": 45.03,
+        "Centuries": 22,
+        "Fifties": 21,
+        "Ducks": 5
+      },
+      {
+        "Player": "HH Gibbs (SA)",
+        "Matches": 90,
+        "Runs": 6167,
+        "Highest Runs": 228,
+        "Average": 41.95,
+        "Centuries": 14,
+        "Fifties": 26,
+        "Ducks": 11
+      },
+      {
+        "Player": "RN Harvey (AUS)",
+        "Matches": 79,
+        "Runs": 6149,
+        "Highest Runs": 205,
+        "Average": 48.41,
+        "Centuries": 21,
+        "Fifties": 24,
+        "Ducks": 7
+      },
+      {
+        "Player": "BA Stokes (ENG)",
+        "Matches": 97,
+        "Runs": 6117,
+        "Highest Runs": 258,
+        "Average": 36.41,
+        "Centuries": 13,
+        "Fifties": 30,
+        "Ducks": 14
+      },
+      {
+        "Player": "GR Viswanath (IND)",
+        "Matches": 91,
+        "Runs": 6080,
+        "Highest Runs": 222,
+        "Average": 41.93,
+        "Centuries": 14,
+        "Fifties": 35,
+        "Ducks": 10
+      },
+      {
+        "Player": "RB Richardson (WI)",
+        "Matches": 86,
+        "Runs": 5949,
+        "Highest Runs": 194,
+        "Average": 44.39,
+        "Centuries": 16,
+        "Fifties": 27,
+        "Ducks": 8
+      },
+      {
+        "Player": "RR Sarwan (WI)",
+        "Matches": 87,
+        "Runs": 5842,
+        "Highest Runs": 291,
+        "Average": 40.01,
+        "Centuries": 15,
+        "Fifties": 31,
+        "Ducks": 12
+      },
+      {
+        "Player": "ME Trescothick (ENG)",
+        "Matches": 76,
+        "Runs": 5825,
+        "Highest Runs": 219,
+        "Average": 43.79,
+        "Centuries": 14,
+        "Fifties": 29,
+        "Ducks": 12
+      },
+      {
+        "Player": "DCS Compton (ENG)",
+        "Matches": 78,
+        "Runs": 5807,
+        "Highest Runs": 278,
+        "Average": 50.06,
+        "Centuries": 17,
+        "Fifties": 28,
+        "Ducks": 10
+      },
+      {
+        "Player": "JM Bairstow (ENG)",
+        "Matches": 95,
+        "Runs": 5804,
+        "Highest Runs": 167,
+        "Average": 37.2,
+        "Centuries": 12,
+        "Fifties": 26,
+        "Ducks": 16
+      },
+      {
+        "Player": "Saleem Malik (PAK)",
+        "Matches": 103,
+        "Runs": 5768,
+        "Highest Runs": 237,
+        "Average": 43.69,
+        "Centuries": 15,
+        "Fifties": 29,
+        "Ducks": 12
+      },
+      {
+        "Player": "N Hussain (ENG)",
+        "Matches": 96,
+        "Runs": 5764,
+        "Highest Runs": 207,
+        "Average": 37.18,
+        "Centuries": 14,
+        "Fifties": 33,
+        "Ducks": 14
+      },
+      {
+        "Player": "CL Hooper (WI)",
+        "Matches": 102,
+        "Runs": 5762,
+        "Highest Runs": 233,
+        "Average": 36.46,
+        "Centuries": 13,
+        "Fifties": 27,
+        "Ducks": 13
+      },
+      {
+        "Player": "MP Vaughan (ENG)",
+        "Matches": 82,
+        "Runs": 5719,
+        "Highest Runs": 197,
+        "Average": 41.44,
+        "Centuries": 18,
+        "Fifties": 18,
+        "Ducks": 9
+      },
+      {
+        "Player": "AC Gilchrist (AUS)",
+        "Matches": 96,
+        "Runs": 5570,
+        "Highest Runs": 204,
+        "Average": 47.6,
+        "Centuries": 17,
+        "Fifties": 26,
+        "Ducks": 14
+      },
+      {
+        "Player": "Mushfiqur Rahim (BAN)",
+        "Matches": 86,
+        "Runs": 5553,
+        "Highest Runs": 219,
+        "Average": 38.29,
+        "Centuries": 10,
+        "Fifties": 26,
+        "Ducks": 12
+      },
+      {
+        "Player": "MV Boucher (ICC/SA)",
+        "Matches": 147,
+        "Runs": 5515,
+        "Highest Runs": 125,
+        "Average": 30.3,
+        "Centuries": 5,
+        "Fifties": 35,
+        "Ducks": 17
+      },
+      {
+        "Player": "MS Atapattu (SL)",
+        "Matches": 90,
+        "Runs": 5502,
+        "Highest Runs": 249,
+        "Average": 39.02,
+        "Centuries": 16,
+        "Fifties": 17,
+        "Ducks": 22
+      },
+      {
+        "Player": "TM Dilshan (SL)",
+        "Matches": 87,
+        "Runs": 5492,
+        "Highest Runs": 193,
+        "Average": 40.98,
+        "Centuries": 16,
+        "Fifties": 23,
+        "Ducks": 14
+      },
+      {
+        "Player": "KC Brathwaite (WI)",
+        "Matches": 87,
+        "Runs": 5479,
+        "Highest Runs": 212,
+        "Average": 34.89,
+        "Centuries": 12,
+        "Fifties": 29,
+        "Ducks": 16
+      },
+      {
+        "Player": "TT Samaraweera (SL)",
+        "Matches": 81,
+        "Runs": 5462,
+        "Highest Runs": 231,
+        "Average": 48.76,
+        "Centuries": 14,
+        "Fifties": 30,
+        "Ducks": 11
+      },
+      {
+        "Player": "MD Crowe (NZ)",
+        "Matches": 77,
+        "Runs": 5444,
+        "Highest Runs": 299,
+        "Average": 45.36,
+        "Centuries": 17,
+        "Fifties": 18,
+        "Ducks": 9
+      },
+      {
+        "Player": "JB Hobbs (ENG)",
+        "Matches": 61,
+        "Runs": 5410,
+        "Highest Runs": 211,
+        "Average": 56.94,
+        "Centuries": 15,
+        "Fifties": 28,
+        "Ducks": 4
+      },
+      {
+        "Player": "KD Walters (AUS)",
+        "Matches": 74,
+        "Runs": 5357,
+        "Highest Runs": 250,
+        "Average": 48.26,
+        "Centuries": 15,
+        "Fifties": 33,
+        "Ducks": 4
+      },
+      {
+        "Player": "IM Chappell (AUS)",
+        "Matches": 75,
+        "Runs": 5345,
+        "Highest Runs": 196,
+        "Average": 42.42,
+        "Centuries": 14,
+        "Fifties": 26,
+        "Ducks": 11
+      },
+      {
+        "Player": "JG Wright (NZ)",
+        "Matches": 82,
+        "Runs": 5334,
+        "Highest Runs": 185,
+        "Average": 37.82,
+        "Centuries": 12,
+        "Fifties": 23,
+        "Ducks": 7
+      },
+      {
+        "Player": "MJ Slater (AUS)",
+        "Matches": 74,
+        "Runs": 5312,
+        "Highest Runs": 219,
+        "Average": 42.83,
+        "Centuries": 14,
+        "Fifties": 21,
+        "Ducks": 9
+      },
+      {
+        "Player": "LD Chandimal (SL)",
+        "Matches": 76,
+        "Runs": 5295,
+        "Highest Runs": 206,
+        "Average": 43.4,
+        "Centuries": 14,
+        "Fifties": 25,
+        "Ducks": 5
+      },
+      {
+        "Player": "N Kapil Dev (IND)",
+        "Matches": 131,
+        "Runs": 5248,
+        "Highest Runs": 163,
+        "Average": 31.05,
+        "Centuries": 8,
+        "Fifties": 27,
+        "Ducks": 16
+      },
+      {
+        "Player": "WM Lawry (AUS)",
+        "Matches": 67,
+        "Runs": 5234,
+        "Highest Runs": 210,
+        "Average": 47.15,
+        "Centuries": 13,
+        "Fifties": 27,
+        "Ducks": 6
+      },
+      {
+        "Player": "Misbah-ul-Haq (PAK)",
+        "Matches": 75,
+        "Runs": 5222,
+        "Highest Runs": 161,
+        "Average": 46.62,
+        "Centuries": 10,
+        "Fifties": 39,
+        "Ducks": 9
+      },
+      {
+        "Player": "IT Botham (ENG)",
+        "Matches": 102,
+        "Runs": 5200,
+        "Highest Runs": 208,
+        "Average": 33.54,
+        "Centuries": 14,
+        "Fifties": 22,
+        "Ducks": 14
+      },
+      {
+        "Player": "TWM Latham (NZ)",
+        "Matches": 74,
+        "Runs": 5150,
+        "Highest Runs": 264,
+        "Average": 41.53,
+        "Centuries": 13,
+        "Fifties": 27,
+        "Ducks": 10
+      },
+      {
+        "Player": "D Elgar (SA)",
+        "Matches": 84,
+        "Runs": 5146,
+        "Highest Runs": 199,
+        "Average": 37.28,
+        "Centuries": 13,
+        "Fifties": 23,
+        "Ducks": 13
+      },
+      {
+        "Player": "JH Edrich (ENG)",
+        "Matches": 77,
+        "Runs": 5138,
+        "Highest Runs": 310,
+        "Average": 43.54,
+        "Centuries": 12,
+        "Fifties": 24,
+        "Ducks": 6
+      },
+      {
+        "Player": "Tamim Iqbal (BAN)",
+        "Matches": 70,
+        "Runs": 5134,
+        "Highest Runs": 206,
+        "Average": 38.89,
+        "Centuries": 10,
+        "Fifties": 31,
+        "Ducks": 11
+      },
+      {
+        "Player": "A Ranatunga (SL)",
+        "Matches": 93,
+        "Runs": 5105,
+        "Highest Runs": 135,
+        "Average": 35.69,
+        "Centuries": 4,
+        "Fifties": 38,
+        "Ducks": 12
+      },
+      {
+        "Player": "AM Rahane (IND)",
+        "Matches": 85,
+        "Runs": 5077,
+        "Highest Runs": 188,
+        "Average": 38.46,
+        "Centuries": 12,
+        "Fifties": 26,
+        "Ducks": 10
+      },
+      {
+        "Player": "Zaheer Abbas (PAK)",
+        "Matches": 78,
+        "Runs": 5062,
+        "Highest Runs": 274,
+        "Average": 44.79,
+        "Centuries": 12,
+        "Fifties": 20,
+        "Ducks": 10
+      },
+      {
+        "Player": "UT Khawaja (AUS)",
+        "Matches": 66,
+        "Runs": 5004,
+        "Highest Runs": 195,
+        "Average": 47.2,
+        "Centuries": 15,
+        "Fifties": 24,
+        "Ducks": 6
+      },
+      {
+        "Player": "TW Graveney (ENG)",
+        "Matches": 79,
+        "Runs": 4882,
+        "Highest Runs": 258,
+        "Average": 44.38,
+        "Centuries": 11,
+        "Fifties": 20,
+        "Ducks": 8
+      },
+      {
+        "Player": "MS Dhoni (IND)",
+        "Matches": 90,
+        "Runs": 4876,
+        "Highest Runs": 224,
+        "Average": 38.09,
+        "Centuries": 6,
+        "Fifties": 33,
+        "Ducks": 10
+      },
+      {
+        "Player": "RB Simpson (AUS)",
+        "Matches": 62,
+        "Runs": 4869,
+        "Highest Runs": 311,
+        "Average": 46.81,
+        "Centuries": 10,
+        "Fifties": 27,
+        "Ducks": 8
+      },
+      {
+        "Player": "A Flower (ZIM)",
+        "Matches": 63,
+        "Runs": 4794,
+        "Highest Runs": 232,
+        "Average": 51.54,
+        "Centuries": 12,
+        "Fifties": 27,
+        "Ducks": 5
+      },
+      {
+        "Player": "IR Redpath (AUS)",
+        "Matches": 66,
+        "Runs": 4737,
+        "Highest Runs": 171,
+        "Average": 43.45,
+        "Centuries": 8,
+        "Fifties": 31,
+        "Ducks": 9
+      },
+      {
+        "Player": "NJ Astle (NZ)",
+        "Matches": 81,
+        "Runs": 4702,
+        "Highest Runs": 222,
+        "Average": 37.02,
+        "Centuries": 11,
+        "Fifties": 24,
+        "Ducks": 11
+      },
+      {
+        "Player": "Asad Shafiq (PAK)",
+        "Matches": 77,
+        "Runs": 4660,
+        "Highest Runs": 137,
+        "Average": 38.19,
+        "Centuries": 12,
+        "Fifties": 27,
+        "Ducks": 13
+      },
+      {
+        "Player": "AJ Lamb (ENG)",
+        "Matches": 79,
+        "Runs": 4656,
+        "Highest Runs": 142,
+        "Average": 36.09,
+        "Centuries": 14,
+        "Fifties": 18,
+        "Ducks": 9
+      },
+      {
+        "Player": "H Sutcliffe (ENG)",
+        "Matches": 54,
+        "Runs": 4555,
+        "Highest Runs": 194,
+        "Average": 60.73,
+        "Centuries": 16,
+        "Fifties": 23,
+        "Ducks": 2
+      },
+      {
+        "Player": "DJ Cullinan (SA)",
+        "Matches": 70,
+        "Runs": 4554,
+        "Highest Runs": 275,
+        "Average": 44.21,
+        "Centuries": 14,
+        "Fifties": 20,
+        "Ducks": 10
+      },
+      {
+        "Player": "HP Tillakaratne (SL)",
+        "Matches": 83,
+        "Runs": 4545,
+        "Highest Runs": 204,
+        "Average": 42.87,
+        "Centuries": 11,
+        "Fifties": 20,
+        "Ducks": 9
+      },
+      {
+        "Player": "PBH May (ENG)",
+        "Matches": 66,
+        "Runs": 4537,
+        "Highest Runs": 285,
+        "Average": 46.77,
+        "Centuries": 13,
+        "Fifties": 22,
+        "Ducks": 8
+      },
+      {
+        "Player": "DL Vettori (ICC/NZ)",
+        "Matches": 113,
+        "Runs": 4531,
+        "Highest Runs": 140,
+        "Average": 30,
+        "Centuries": 6,
+        "Fifties": 23,
+        "Ducks": 20
+      },
+      {
+        "Player": "ER Dexter (ENG)",
+        "Matches": 62,
+        "Runs": 4502,
+        "Highest Runs": 205,
+        "Average": 47.89,
+        "Centuries": 9,
+        "Fifties": 27,
+        "Ducks": 6
+      },
+      {
+        "Player": "ED Weekes (WI)",
+        "Matches": 48,
+        "Runs": 4455,
+        "Highest Runs": 207,
+        "Average": 58.61,
+        "Centuries": 15,
+        "Fifties": 19,
+        "Ducks": 6
+      },
+      {
+        "Player": "Shakib Al Hasan (BAN)",
+        "Matches": 66,
+        "Runs": 4454,
+        "Highest Runs": 217,
+        "Average": 39.07,
+        "Centuries": 5,
+        "Fifties": 31,
+        "Ducks": 5
+      },
+      {
+        "Player": "KJ Hughes (AUS)",
+        "Matches": 70,
+        "Runs": 4415,
+        "Highest Runs": 213,
+        "Average": 37.41,
+        "Centuries": 9,
+        "Fifties": 22,
+        "Ducks": 10
+      },
+      {
+        "Player": "MW Gatting (ENG)",
+        "Matches": 79,
+        "Runs": 4409,
+        "Highest Runs": 207,
+        "Average": 35.55,
+        "Centuries": 10,
+        "Fifties": 21,
+        "Ducks": 16
+      },
+      {
+        "Player": "DR Martyn (AUS)",
+        "Matches": 67,
+        "Runs": 4406,
+        "Highest Runs": 165,
+        "Average": 46.37,
+        "Centuries": 13,
+        "Fifties": 23,
+        "Ducks": 7
+      },
+      {
+        "Player": "AI Kallicharran (WI)",
+        "Matches": 66,
+        "Runs": 4399,
+        "Highest Runs": 187,
+        "Average": 44.43,
+        "Centuries": 12,
+        "Fifties": 21,
+        "Ducks": 10
+      },
+      {
+        "Player": "APE Knott (ENG)",
+        "Matches": 95,
+        "Runs": 4389,
+        "Highest Runs": 135,
+        "Average": 32.75,
+        "Centuries": 5,
+        "Fifties": 30,
+        "Ducks": 8
+      },
+      {
+        "Player": "M Amarnath (IND)",
+        "Matches": 69,
+        "Runs": 4378,
+        "Highest Runs": 138,
+        "Average": 42.5,
+        "Centuries": 11,
+        "Fifties": 24,
+        "Ducks": 12
+      },
+      {
+        "Player": "IA Healy (AUS)",
+        "Matches": 119,
+        "Runs": 4356,
+        "Highest Runs": 161,
+        "Average": 27.39,
+        "Centuries": 4,
+        "Fifties": 22,
+        "Ducks": 18
+      },
+      {
+        "Player": "RC Fredericks (WI)",
+        "Matches": 59,
+        "Runs": 4334,
+        "Highest Runs": 169,
+        "Average": 42.49,
+        "Centuries": 8,
+        "Fifties": 26,
+        "Ducks": 7
+      },
+      {
+        "Player": "MA Butcher (ENG)",
+        "Matches": 71,
+        "Runs": 4288,
+        "Highest Runs": 173,
+        "Average": 34.58,
+        "Centuries": 8,
+        "Fifties": 23,
+        "Ducks": 10
+      },
+      {
+        "Player": "PD Collingwood (ENG)",
+        "Matches": 68,
+        "Runs": 4259,
+        "Highest Runs": 206,
+        "Average": 40.56,
+        "Centuries": 10,
+        "Fifties": 20,
+        "Ducks": 6
+      },
+      {
+        "Player": "RA Smith (ENG)",
+        "Matches": 62,
+        "Runs": 4236,
+        "Highest Runs": 175,
+        "Average": 43.67,
+        "Centuries": 9,
+        "Fifties": 28,
+        "Ducks": 8
+      },
+      {
+        "Player": "SM Katich (AUS)",
+        "Matches": 56,
+        "Runs": 4188,
+        "Highest Runs": 157,
+        "Average": 45.03,
+        "Centuries": 10,
+        "Fifties": 25,
+        "Ducks": 4
+      },
+      {
+        "Player": "F du Plessis (SA)",
+        "Matches": 69,
+        "Runs": 4163,
+        "Highest Runs": 199,
+        "Average": 40.02,
+        "Centuries": 10,
+        "Fifties": 21,
+        "Ducks": 9
+      },
+      {
+        "Player": "G Gambhir (IND)",
+        "Matches": 58,
+        "Runs": 4154,
+        "Highest Runs": 206,
+        "Average": 41.95,
+        "Centuries": 9,
+        "Fifties": 22,
+        "Ducks": 7
+      },
+      {
+        "Player": "Mudassar Nazar (PAK)",
+        "Matches": 76,
+        "Runs": 4114,
+        "Highest Runs": 231,
+        "Average": 38.09,
+        "Centuries": 10,
+        "Fifties": 17,
+        "Ducks": 7
+      },
+      {
+        "Player": "MJ Prior (ENG)",
+        "Matches": 79,
+        "Runs": 4099,
+        "Highest Runs": 131,
+        "Average": 40.18,
+        "Centuries": 7,
+        "Fifties": 28,
+        "Ducks": 13
+      },
+      {
+        "Player": "Saeed Anwar (PAK)",
+        "Matches": 55,
+        "Runs": 4052,
+        "Highest Runs": 188,
+        "Average": 45.52,
+        "Centuries": 11,
+        "Fifties": 25,
+        "Ducks": 8
+      },
+      {
+        "Player": "BKG Mendis (SL)",
+        "Matches": 60,
+        "Runs": 3988,
+        "Highest Runs": 245,
+        "Average": 36.58,
+        "Centuries": 9,
+        "Fifties": 17,
+        "Ducks": 12
+      },
+      {
+        "Player": "M Vijay (IND)",
+        "Matches": 61,
+        "Runs": 3982,
+        "Highest Runs": 167,
+        "Average": 38.28,
+        "Centuries": 12,
+        "Fifties": 15,
+        "Ducks": 8
+      },
+      {
+        "Player": "Majid Khan (PAK)",
+        "Matches": 63,
+        "Runs": 3931,
+        "Highest Runs": 167,
+        "Average": 38.92,
+        "Centuries": 8,
+        "Fifties": 19,
+        "Ducks": 9
+      },
+      {
+        "Player": "MN Samuels (WI)",
+        "Matches": 71,
+        "Runs": 3917,
+        "Highest Runs": 260,
+        "Average": 32.64,
+        "Centuries": 7,
+        "Fifties": 24,
+        "Ducks": 14
+      },
+      {
+        "Player": "Hanif Mohammad (PAK)",
+        "Matches": 55,
+        "Runs": 3915,
+        "Highest Runs": 337,
+        "Average": 43.98,
+        "Centuries": 12,
+        "Fifties": 15,
+        "Ducks": 5
+      },
+      {
+        "Player": "FMM Worrell (WI)",
+        "Matches": 51,
+        "Runs": 3860,
+        "Highest Runs": 261,
+        "Average": 49.48,
+        "Centuries": 9,
+        "Fifties": 22,
+        "Ducks": 11
+      },
+      {
+        "Player": "A Flintoff (ENG/ICC)",
+        "Matches": 79,
+        "Runs": 3845,
+        "Highest Runs": 167,
+        "Average": 31.77,
+        "Centuries": 5,
+        "Fifties": 26,
+        "Ducks": 17
+      },
+      {
+        "Player": "IJL Trott (ENG)",
+        "Matches": 52,
+        "Runs": 3835,
+        "Highest Runs": 226,
+        "Average": 44.08,
+        "Centuries": 9,
+        "Fifties": 19,
+        "Ducks": 8
+      },
+      {
+        "Player": "RJ Shastri (IND)",
+        "Matches": 80,
+        "Runs": 3830,
+        "Highest Runs": 206,
+        "Average": 35.79,
+        "Centuries": 11,
+        "Fifties": 12,
+        "Ducks": 9
+      },
+      {
+        "Player": "Imran Khan (PAK)",
+        "Matches": 88,
+        "Runs": 3807,
+        "Highest Runs": 136,
+        "Average": 37.69,
+        "Centuries": 6,
+        "Fifties": 18,
+        "Ducks": 8
+      },
+      {
+        "Player": "CL Walcott (WI)",
+        "Matches": 44,
+        "Runs": 3798,
+        "Highest Runs": 220,
+        "Average": 56.68,
+        "Centuries": 15,
+        "Fifties": 14,
+        "Ducks": 1
+      },
+      {
+        "Player": "Mominul Haque (BAN)",
+        "Matches": 57,
+        "Runs": 3791,
+        "Highest Runs": 181,
+        "Average": 38.68,
+        "Centuries": 12,
+        "Fifties": 16,
+        "Ducks": 13
+      },
+      {
+        "Player": "BJ Watling (NZ)",
+        "Matches": 75,
+        "Runs": 3790,
+        "Highest Runs": 205,
+        "Average": 37.52,
+        "Centuries": 8,
+        "Fifties": 19,
+        "Ducks": 10
+      },
+      {
+        "Player": "M Labuschagne (AUS)",
+        "Matches": 43,
+        "Runs": 3789,
+        "Highest Runs": 215,
+        "Average": 53.36,
+        "Centuries": 11,
+        "Fifties": 16,
+        "Ducks": 4
+      },
+      {
+        "Player": "SM Pollock (SA)",
+        "Matches": 108,
+        "Runs": 3781,
+        "Highest Runs": 111,
+        "Average": 32.31,
+        "Centuries": 2,
+        "Fifties": 16,
+        "Ducks": 9
+      },
+      {
+        "Player": "Babar Azam (PAK)",
+        "Matches": 49,
+        "Runs": 3772,
+        "Highest Runs": 196,
+        "Average": 47.74,
+        "Centuries": 9,
+        "Fifties": 26,
+        "Ducks": 7
+      },
+      {
+        "Player": "SR Watson (AUS)",
+        "Matches": 59,
+        "Runs": 3731,
+        "Highest Runs": 176,
+        "Average": 35.19,
+        "Centuries": 4,
+        "Fifties": 24,
+        "Ducks": 6
+      },
+      {
+        "Player": "WJ Cronje (SA)",
+        "Matches": 68,
+        "Runs": 3714,
+        "Highest Runs": 135,
+        "Average": 36.41,
+        "Centuries": 6,
+        "Fifties": 23,
+        "Ducks": 11
+      },
+      {
+        "Player": "RG Sharma (IND)",
+        "Matches": 52,
+        "Runs": 3677,
+        "Highest Runs": 212,
+        "Average": 46.54,
+        "Centuries": 10,
+        "Fifties": 16,
+        "Ducks": 4
+      },
+      {
+        "Player": "AG Prince (SA)",
+        "Matches": 66,
+        "Runs": 3665,
+        "Highest Runs": 162,
+        "Average": 41.64,
+        "Centuries": 11,
+        "Fifties": 11,
+        "Ducks": 7
+      },
+      {
+        "Player": "SCJ Broad (ENG)",
+        "Matches": 167,
+        "Runs": 3662,
+        "Highest Runs": 169,
+        "Average": 18.03,
+        "Centuries": 1,
+        "Fifties": 13,
+        "Ducks": 39
+      },
+      {
+        "Player": "Mohammad Hafeez (PAK)",
+        "Matches": 55,
+        "Runs": 3652,
+        "Highest Runs": 224,
+        "Average": 37.64,
+        "Centuries": 10,
+        "Fifties": 12,
+        "Ducks": 8
+      },
+      {
+        "Player": "Mushtaq Mohammad (PAK)",
+        "Matches": 57,
+        "Runs": 3643,
+        "Highest Runs": 201,
+        "Average": 39.17,
+        "Centuries": 10,
+        "Fifties": 19,
+        "Ducks": 4
+      },
+      {
+        "Player": "RW Marsh (AUS)",
+        "Matches": 96,
+        "Runs": 3633,
+        "Highest Runs": 132,
+        "Average": 26.51,
+        "Centuries": 3,
+        "Fifties": 16,
+        "Ducks": 12
+      },
+      {
+        "Player": "DM Jones (AUS)",
+        "Matches": 52,
+        "Runs": 3631,
+        "Highest Runs": 216,
+        "Average": 46.55,
+        "Centuries": 11,
+        "Fifties": 14,
+        "Ducks": 11
+      },
+      {
+        "Player": "PR Umrigar (IND)",
+        "Matches": 59,
+        "Runs": 3631,
+        "Highest Runs": 223,
+        "Average": 42.22,
+        "Centuries": 12,
+        "Fifties": 14,
+        "Ducks": 5
+      },
+      {
+        "Player": "DL Amiss (ENG)",
+        "Matches": 50,
+        "Runs": 3612,
+        "Highest Runs": 262,
+        "Average": 46.3,
+        "Centuries": 11,
+        "Fifties": 11,
+        "Ducks": 10
+      },
+      {
+        "Player": "AW Greig (ENG)",
+        "Matches": 58,
+        "Runs": 3599,
+        "Highest Runs": 148,
+        "Average": 40.43,
+        "Centuries": 8,
+        "Fifties": 20,
+        "Ducks": 5
+      },
+      {
+        "Player": "Asif Iqbal (PAK)",
+        "Matches": 58,
+        "Runs": 3575,
+        "Highest Runs": 175,
+        "Average": 38.85,
+        "Centuries": 11,
+        "Fifties": 12,
+        "Ducks": 9
+      },
+      {
+        "Player": "DM Bravo (WI)",
+        "Matches": 56,
+        "Runs": 3538,
+        "Highest Runs": 218,
+        "Average": 36.47,
+        "Centuries": 8,
+        "Fifties": 17,
+        "Ducks": 5
+      },
+      {
+        "Player": "AR Morris (AUS)",
+        "Matches": 46,
+        "Runs": 3533,
+        "Highest Runs": 206,
+        "Average": 46.48,
+        "Centuries": 12,
+        "Fifties": 12,
+        "Ducks": 4
+      },
+      {
+        "Player": "EH Hendren (ENG)",
+        "Matches": 51,
+        "Runs": 3525,
+        "Highest Runs": 205,
+        "Average": 47.63,
+        "Centuries": 7,
+        "Fifties": 21,
+        "Ducks": 4
+      },
+      {
+        "Player": "B Mitchell (SA)",
+        "Matches": 42,
+        "Runs": 3471,
+        "Highest Runs": 189,
+        "Average": 48.88,
+        "Centuries": 8,
+        "Fifties": 21,
+        "Ducks": 3
+      },
+      {
+        "Player": "GW Flower (ZIM)",
+        "Matches": 67,
+        "Runs": 3457,
+        "Highest Runs": 201,
+        "Average": 29.54,
+        "Centuries": 6,
+        "Fifties": 15,
+        "Ducks": 16
+      },
+      {
+        "Player": "BE Congdon (NZ)",
+        "Matches": 61,
+        "Runs": 3448,
+        "Highest Runs": 176,
+        "Average": 32.22,
+        "Centuries": 7,
+        "Fifties": 19,
+        "Ducks": 9
+      },
+      {
+        "Player": "JR Reid (NZ)",
+        "Matches": 58,
+        "Runs": 3428,
+        "Highest Runs": 142,
+        "Average": 33.28,
+        "Centuries": 6,
+        "Fifties": 22,
+        "Ducks": 5
+      },
+      {
+        "Player": "C Hill (AUS)",
+        "Matches": 49,
+        "Runs": 3412,
+        "Highest Runs": 191,
+        "Average": 39.21,
+        "Centuries": 7,
+        "Fifties": 19,
+        "Ducks": 9
+      },
+      {
+        "Player": "GA Hick (ENG)",
+        "Matches": 65,
+        "Runs": 3383,
+        "Highest Runs": 178,
+        "Average": 31.32,
+        "Centuries": 6,
+        "Fifties": 18,
+        "Ducks": 11
+      },
+      {
+        "Player": "GM Wood (AUS)",
+        "Matches": 59,
+        "Runs": 3374,
+        "Highest Runs": 172,
+        "Average": 31.83,
+        "Centuries": 9,
+        "Fifties": 13,
+        "Ducks": 9
+      },
+      {
+        "Player": "PJL Dujon (WI)",
+        "Matches": 81,
+        "Runs": 3322,
+        "Highest Runs": 139,
+        "Average": 31.94,
+        "Centuries": 5,
+        "Fifties": 16,
+        "Ducks": 8
+      },
+      {
+        "Player": "CL Cairns (NZ)",
+        "Matches": 62,
+        "Runs": 3320,
+        "Highest Runs": 158,
+        "Average": 33.53,
+        "Centuries": 5,
+        "Fifties": 22,
+        "Ducks": 7
+      },
+      {
+        "Player": "Ijaz Ahmed (PAK)",
+        "Matches": 60,
+        "Runs": 3315,
+        "Highest Runs": 211,
+        "Average": 37.67,
+        "Centuries": 12,
+        "Fifties": 12,
+        "Ducks": 7
+      },
+      {
+        "Player": "DM de Silva (SL)",
+        "Matches": 51,
+        "Runs": 3301,
+        "Highest Runs": 173,
+        "Average": 39.77,
+        "Centuries": 10,
+        "Fifties": 13,
+        "Ducks": 7
+      },
+      {
+        "Player": "Q de Kock (SA)",
+        "Matches": 54,
+        "Runs": 3300,
+        "Highest Runs": 141,
+        "Average": 38.82,
+        "Centuries": 6,
+        "Fifties": 22,
+        "Ducks": 7
+      },
+      {
+        "Player": "FE Woolley (ENG)",
+        "Matches": 64,
+        "Runs": 3283,
+        "Highest Runs": 154,
+        "Average": 36.07,
+        "Centuries": 5,
+        "Fifties": 23,
+        "Ducks": 13
+      },
+      {
+        "Player": "KWR Fletcher (ENG)",
+        "Matches": 59,
+        "Runs": 3272,
+        "Highest Runs": 216,
+        "Average": 39.9,
+        "Centuries": 7,
+        "Fifties": 19,
+        "Ducks": 6
+      },
+      {
+        "Player": "BJ Haddin (AUS)",
+        "Matches": 66,
+        "Runs": 3266,
+        "Highest Runs": 169,
+        "Average": 32.98,
+        "Centuries": 4,
+        "Fifties": 18,
+        "Ducks": 8
+      },
+      {
+        "Player": "ND McKenzie (SA)",
+        "Matches": 58,
+        "Runs": 3253,
+        "Highest Runs": 226,
+        "Average": 37.39,
+        "Centuries": 5,
+        "Fifties": 16,
+        "Ducks": 9
+      },
+      {
+        "Player": "CC Hunte (WI)",
+        "Matches": 44,
+        "Runs": 3245,
+        "Highest Runs": 260,
+        "Average": 45.06,
+        "Centuries": 8,
+        "Fifties": 13,
+        "Ducks": 5
+      },
+      {
+        "Player": "VL Manjrekar (IND)",
+        "Matches": 55,
+        "Runs": 3208,
+        "Highest Runs": 189,
+        "Average": 39.12,
+        "Centuries": 7,
+        "Fifties": 15,
+        "Ducks": 11
+      },
+      {
+        "Player": "NS Sidhu (IND)",
+        "Matches": 51,
+        "Runs": 3202,
+        "Highest Runs": 201,
+        "Average": 42.13,
+        "Centuries": 9,
+        "Fifties": 15,
+        "Ducks": 9
+      },
+      {
+        "Player": "R Ashwin (IND)",
+        "Matches": 94,
+        "Runs": 3185,
+        "Highest Runs": 124,
+        "Average": 27.22,
+        "Centuries": 5,
+        "Fifties": 14,
+        "Ducks": 6
+      },
+      {
+        "Player": "HA Gomes (WI)",
+        "Matches": 60,
+        "Runs": 3171,
+        "Highest Runs": 143,
+        "Average": 39.63,
+        "Centuries": 9,
+        "Fifties": 13,
+        "Ducks": 5
+      },
+      {
+        "Player": "VT Trumper (AUS)",
+        "Matches": 48,
+        "Runs": 3163,
+        "Highest Runs": 214,
+        "Average": 39.04,
+        "Centuries": 8,
+        "Fifties": 13,
+        "Ducks": 7
+      },
+      {
+        "Player": "SK Warne (AUS)",
+        "Matches": 145,
+        "Runs": 3154,
+        "Highest Runs": 99,
+        "Average": 17.32,
+        "Centuries": 0,
+        "Fifties": 12,
+        "Ducks": 34
+      },
+      {
+        "Player": "Sir RJ Hadlee (NZ)",
+        "Matches": 86,
+        "Runs": 3124,
+        "Highest Runs": 151,
+        "Average": 27.16,
+        "Centuries": 2,
+        "Fifties": 15,
+        "Ducks": 12
+      },
+      {
+        "Player": "CD McMillan (NZ)",
+        "Matches": 55,
+        "Runs": 3116,
+        "Highest Runs": 142,
+        "Average": 38.46,
+        "Centuries": 6,
+        "Fifties": 19,
+        "Ducks": 7
+      },
+      {
+        "Player": "CC McDonald (AUS)",
+        "Matches": 47,
+        "Runs": 3107,
+        "Highest Runs": 170,
+        "Average": 39.32,
+        "Centuries": 5,
+        "Fifties": 17,
+        "Ducks": 2
+      },
+      {
+        "Player": "BF Butcher (WI)",
+        "Matches": 44,
+        "Runs": 3104,
+        "Highest Runs": 209,
+        "Average": 43.11,
+        "Centuries": 7,
+        "Fifties": 16,
+        "Ducks": 3
+      },
+      {
+        "Player": "MM Ali (ENG)",
+        "Matches": 68,
+        "Runs": 3094,
+        "Highest Runs": 155,
+        "Average": 28.12,
+        "Centuries": 5,
+        "Fifties": 15,
+        "Ducks": 15
+      },
+      {
+        "Player": "WPUJC Vaas (SL)",
+        "Matches": 111,
+        "Runs": 3089,
+        "Highest Runs": 100,
+        "Average": 24.32,
+        "Centuries": 1,
+        "Fifties": 13,
+        "Ducks": 12
+      },
+      {
+        "Player": "AL Hassett (AUS)",
+        "Matches": 43,
+        "Runs": 3073,
+        "Highest Runs": 198,
+        "Average": 46.56,
+        "Centuries": 10,
+        "Fifties": 11,
+        "Ducks": 1
+      },
+      {
+        "Player": "CG Borde (IND)",
+        "Matches": 55,
+        "Runs": 3061,
+        "Highest Runs": 177,
+        "Average": 35.59,
+        "Centuries": 5,
+        "Fifties": 18,
+        "Ducks": 13
+      },
+      {
+        "Player": "Habibul Bashar (BAN)",
+        "Matches": 50,
+        "Runs": 3026,
+        "Highest Runs": 113,
+        "Average": 30.87,
+        "Centuries": 3,
+        "Fifties": 24,
+        "Ducks": 7
+      },
+      {
+        "Player": "Sarfaraz Ahmed (PAK)",
+        "Matches": 53,
+        "Runs": 3024,
+        "Highest Runs": 118,
+        "Average": 38.27,
+        "Centuries": 4,
+        "Fifties": 21,
+        "Ducks": 4
+      },
+      {
+        "Player": "JC Adams (WI)",
+        "Matches": 54,
+        "Runs": 3012,
+        "Highest Runs": 208,
+        "Average": 41.26,
+        "Centuries": 6,
+        "Fifties": 14,
+        "Ducks": 7
+      },
+      {
+        "Player": "T Bavuma (SA)",
+        "Matches": 56,
+        "Runs": 2997,
+        "Highest Runs": 172,
+        "Average": 35.25,
+        "Centuries": 2,
+        "Fifties": 20,
+        "Ducks": 9
+      },
+      {
+        "Player": "Saeed Ahmed (PAK)",
+        "Matches": 41,
+        "Runs": 2991,
+        "Highest Runs": 172,
+        "Average": 40.41,
+        "Centuries": 5,
+        "Fifties": 16,
+        "Ducks": 2
+      },
+      {
+        "Player": "GM Turner (NZ)",
+        "Matches": 41,
+        "Runs": 2991,
+        "Highest Runs": 259,
+        "Average": 44.64,
+        "Centuries": 7,
+        "Fifties": 14,
+        "Ducks": 1
+      },
+      {
+        "Player": "Taufeeq Umar (PAK)",
+        "Matches": 44,
+        "Runs": 2963,
+        "Highest Runs": 236,
+        "Average": 37.98,
+        "Centuries": 7,
+        "Fifties": 14,
+        "Ducks": 6
+      },
+      {
+        "Player": "AD Nourse (SA)",
+        "Matches": 34,
+        "Runs": 2960,
+        "Highest Runs": 231,
+        "Average": 53.81,
+        "Centuries": 9,
+        "Fifties": 14,
+        "Ducks": 3
+      },
+      {
+        "Player": "KR Miller (AUS)",
+        "Matches": 55,
+        "Runs": 2958,
+        "Highest Runs": 147,
+        "Average": 36.97,
+        "Centuries": 7,
+        "Fifties": 13,
+        "Ducks": 5
+      },
+      {
+        "Player": "HM Nicholls (NZ)",
+        "Matches": 54,
+        "Runs": 2948,
+        "Highest Runs": 200,
+        "Average": 38.78,
+        "Centuries": 9,
+        "Fifties": 12,
+        "Ducks": 6
+      },
+      {
+        "Player": "HW Taylor (SA)",
+        "Matches": 42,
+        "Runs": 2936,
+        "Highest Runs": 176,
+        "Average": 40.77,
+        "Centuries": 7,
+        "Fifties": 17,
+        "Ducks": 2
+      },
+      {
+        "Player": "AH Jones (NZ)",
+        "Matches": 39,
+        "Runs": 2922,
+        "Highest Runs": 186,
+        "Average": 44.27,
+        "Centuries": 7,
+        "Fifties": 11,
+        "Ducks": 2
+      },
+      {
+        "Player": "Mahmudullah (BAN)",
+        "Matches": 50,
+        "Runs": 2914,
+        "Highest Runs": 150,
+        "Average": 33.49,
+        "Centuries": 5,
+        "Fifties": 16,
+        "Ducks": 11
+      },
+      {
+        "Player": "JC Buttler (ENG)",
+        "Matches": 57,
+        "Runs": 2907,
+        "Highest Runs": 152,
+        "Average": 31.94,
+        "Centuries": 2,
+        "Fifties": 18,
+        "Ducks": 9
+      },
+      {
+        "Player": "TM Head (AUS)",
+        "Matches": 42,
+        "Runs": 2904,
+        "Highest Runs": 175,
+        "Average": 45.37,
+        "Centuries": 6,
+        "Fifties": 16,
+        "Ducks": 3
+      },
+      {
+        "Player": "J Blackwood (WI)",
+        "Matches": 56,
+        "Runs": 2898,
+        "Highest Runs": 112,
+        "Average": 30.18,
+        "Centuries": 3,
+        "Fifties": 18,
+        "Ducks": 7
+      },
+      {
+        "Player": "D Ramdin (WI)",
+        "Matches": 74,
+        "Runs": 2898,
+        "Highest Runs": 166,
+        "Average": 25.87,
+        "Centuries": 4,
+        "Fifties": 15,
+        "Ducks": 9
+      },
+      {
+        "Player": "Wasim Akram (PAK)",
+        "Matches": 104,
+        "Runs": 2898,
+        "Highest Runs": 257,
+        "Average": 22.64,
+        "Centuries": 3,
+        "Fifties": 7,
+        "Ducks": 17
+      },
+      {
+        "Player": "SL Campbell (WI)",
+        "Matches": 52,
+        "Runs": 2882,
+        "Highest Runs": 208,
+        "Average": 32.38,
+        "Centuries": 4,
+        "Fifties": 18,
+        "Ducks": 7
+      },
+      {
+        "Player": "AC Parore (NZ)",
+        "Matches": 78,
+        "Runs": 2865,
+        "Highest Runs": 110,
+        "Average": 26.28,
+        "Centuries": 2,
+        "Fifties": 14,
+        "Ducks": 6
+      },
+      {
+        "Player": "WW Armstrong (AUS)",
+        "Matches": 50,
+        "Runs": 2863,
+        "Highest Runs": 159,
+        "Average": 38.68,
+        "Centuries": 6,
+        "Fifties": 8,
+        "Ducks": 6
+      },
+      {
+        "Player": "ADR Campbell (ZIM)",
+        "Matches": 60,
+        "Runs": 2858,
+        "Highest Runs": 103,
+        "Average": 27.21,
+        "Centuries": 2,
+        "Fifties": 18,
+        "Ducks": 10
+      },
+      {
+        "Player": "GR Marsh (AUS)",
+        "Matches": 50,
+        "Runs": 2854,
+        "Highest Runs": 138,
+        "Average": 33.18,
+        "Centuries": 4,
+        "Fifties": 15,
+        "Ducks": 3
+      },
+      {
+        "Player": "Ramiz Raja (PAK)",
+        "Matches": 57,
+        "Runs": 2833,
+        "Highest Runs": 122,
+        "Average": 31.83,
+        "Centuries": 2,
+        "Fifties": 22,
+        "Ducks": 7
+      },
+      {
+        "Player": "Aamer Sohail (PAK)",
+        "Matches": 47,
+        "Runs": 2823,
+        "Highest Runs": 205,
+        "Average": 35.28,
+        "Centuries": 5,
+        "Fifties": 13,
+        "Ducks": 6
+      },
+      {
+        "Player": "Wasim Raja (PAK)",
+        "Matches": 57,
+        "Runs": 2821,
+        "Highest Runs": 125,
+        "Average": 36.16,
+        "Centuries": 4,
+        "Fifties": 18,
+        "Ducks": 8
+      },
+      {
+        "Player": "KR Stackpole (AUS)",
+        "Matches": 43,
+        "Runs": 2807,
+        "Highest Runs": 207,
+        "Average": 37.42,
+        "Centuries": 7,
+        "Fifties": 14,
+        "Ducks": 5
+      },
+      {
+        "Player": "RA Jadeja (IND)",
+        "Matches": 67,
+        "Runs": 2804,
+        "Highest Runs": 175,
+        "Average": 36.41,
+        "Centuries": 3,
+        "Fifties": 19,
+        "Ducks": 6
+      },
+      {
+        "Player": "JO Holder (WI)",
+        "Matches": 64,
+        "Runs": 2797,
+        "Highest Runs": 202,
+        "Average": 29.44,
+        "Centuries": 3,
+        "Fifties": 12,
+        "Ducks": 9
+      },
+      {
+        "Player": "MAK Pataudi (IND)",
+        "Matches": 46,
+        "Runs": 2793,
+        "Highest Runs": 203,
+        "Average": 34.91,
+        "Centuries": 6,
+        "Fifties": 16,
+        "Ducks": 7
+      },
+      {
+        "Player": "KC Wessels (AUS/SA)",
+        "Matches": 40,
+        "Runs": 2788,
+        "Highest Runs": 179,
+        "Average": 41,
+        "Centuries": 6,
+        "Fifties": 15,
+        "Ducks": 5
+      },
+      {
+        "Player": "NCL O'Neill (AUS)",
+        "Matches": 42,
+        "Runs": 2779,
+        "Highest Runs": 181,
+        "Average": 45.55,
+        "Centuries": 6,
+        "Fifties": 15,
+        "Ducks": 6
+      },
+      {
+        "Player": "MH Richardson (NZ)",
+        "Matches": 38,
+        "Runs": 2776,
+        "Highest Runs": 145,
+        "Average": 44.77,
+        "Centuries": 4,
+        "Fifties": 19,
+        "Ducks": 1
+      },
+      {
+        "Player": "M Leyland (ENG)",
+        "Matches": 41,
+        "Runs": 2764,
+        "Highest Runs": 187,
+        "Average": 46.06,
+        "Centuries": 9,
+        "Fifties": 10,
+        "Ducks": 6
+      },
+      {
+        "Player": "SMH Kirmani (IND)",
+        "Matches": 88,
+        "Runs": 2759,
+        "Highest Runs": 102,
+        "Average": 27.04,
+        "Centuries": 2,
+        "Fifties": 12,
+        "Ducks": 7
+      },
+      {
+        "Player": "N Dickwella (SL)",
+        "Matches": 54,
+        "Runs": 2757,
+        "Highest Runs": 96,
+        "Average": 30.97,
+        "Centuries": 0,
+        "Fifties": 22,
+        "Ducks": 4
+      },
+      {
+        "Player": "GN Yallop (AUS)",
+        "Matches": 39,
+        "Runs": 2756,
+        "Highest Runs": 268,
+        "Average": 41.13,
+        "Centuries": 8,
+        "Fifties": 9,
+        "Ducks": 3
+      },
+      {
+        "Player": "SJ McCabe (AUS)",
+        "Matches": 39,
+        "Runs": 2748,
+        "Highest Runs": 232,
+        "Average": 48.21,
+        "Centuries": 6,
+        "Fifties": 13,
+        "Ducks": 4
+      },
+      {
+        "Player": "Moin Khan (PAK)",
+        "Matches": 69,
+        "Runs": 2741,
+        "Highest Runs": 137,
+        "Average": 28.55,
+        "Centuries": 4,
+        "Fifties": 15,
+        "Ducks": 5
+      },
+      {
+        "Player": "Mohammad Ashraful (BAN)",
+        "Matches": 61,
+        "Runs": 2737,
+        "Highest Runs": 190,
+        "Average": 24,
+        "Centuries": 6,
+        "Fifties": 8,
+        "Ducks": 16
+      },
+      {
+        "Player": "B Sutcliffe (NZ)",
+        "Matches": 42,
+        "Runs": 2727,
+        "Highest Runs": 230,
+        "Average": 40.1,
+        "Centuries": 5,
+        "Fifties": 15,
+        "Ducks": 5
+      },
+      {
+        "Player": "Mohsin Khan (PAK)",
+        "Matches": 48,
+        "Runs": 2709,
+        "Highest Runs": 200,
+        "Average": 37.1,
+        "Centuries": 7,
+        "Fifties": 9,
+        "Ducks": 3
+      },
+      {
+        "Player": "Shoaib Mohammad (PAK)",
+        "Matches": 45,
+        "Runs": 2705,
+        "Highest Runs": 203,
+        "Average": 44.34,
+        "Centuries": 7,
+        "Fifties": 13,
+        "Ducks": 6
+      },
+      {
+        "Player": "MG Burgess (NZ)",
+        "Matches": 50,
+        "Runs": 2684,
+        "Highest Runs": 119,
+        "Average": 31.2,
+        "Centuries": 5,
+        "Fifties": 14,
+        "Ducks": 5
+      },
+      {
+        "Player": "JV Coney (NZ)",
+        "Matches": 52,
+        "Runs": 2668,
+        "Highest Runs": 174,
+        "Average": 37.57,
+        "Centuries": 3,
+        "Fifties": 16,
+        "Ducks": 3
+      },
+      {
+        "Player": "Kamran Akmal (PAK)",
+        "Matches": 53,
+        "Runs": 2648,
+        "Highest Runs": 158,
+        "Average": 30.79,
+        "Centuries": 6,
+        "Fifties": 12,
+        "Ducks": 14
+      },
+      {
+        "Player": "KL Rahul (IND)",
+        "Matches": 47,
+        "Runs": 2642,
+        "Highest Runs": 199,
+        "Average": 33.44,
+        "Centuries": 7,
+        "Fifties": 13,
+        "Ducks": 7
+      }
+    ],
+    "bowling":[
+      {
+        "5": 67,
+        "Player": "M Muralidaran (ICC/SL)",
+        "Matches": 133,
+        "Wickets": 800,
+        "BBI": "9/51",
+        "Economy": 2.47
+      },
+      {
+        "5": 37,
+        "Player": "SK Warne (AUS)",
+        "Matches": 145,
+        "Wickets": 708,
+        "BBI": "8/71",
+        "Economy": 2.65
+      },
+      {
+        "5": 32,
+        "Player": "JM Anderson (ENG)",
+        "Matches": 183,
+        "Wickets": 690,
+        "BBI": "7/42",
+        "Economy": 2.78
+      },
+      {
+        "5": 35,
+        "Player": "A Kumble (IND)",
+        "Matches": 132,
+        "Wickets": 619,
+        "BBI": "10/74",
+        "Economy": 2.69
+      },
+      {
+        "5": 20,
+        "Player": "SCJ Broad (ENG)",
+        "Matches": 167,
+        "Wickets": 604,
+        "BBI": "8/15",
+        "Economy": 2.97
+      },
+      {
+        "5": 29,
+        "Player": "GD McGrath (AUS)",
+        "Matches": 124,
+        "Wickets": 563,
+        "BBI": "8/24",
+        "Economy": 2.49
+      },
+      {
+        "5": 22,
+        "Player": "CA Walsh (WI)",
+        "Matches": 132,
+        "Wickets": 519,
+        "BBI": "7/37",
+        "Economy": 2.53
+      },
+      {
+        "5": 23,
+        "Player": "NM Lyon (AUS)",
+        "Matches": 122,
+        "Wickets": 496,
+        "BBI": "8/50",
+        "Economy": 2.93
+      },
+      {
+        "5": 34,
+        "Player": "R Ashwin (IND)",
+        "Matches": 94,
+        "Wickets": 489,
+        "BBI": "7/59",
+        "Economy": 2.76
+      },
+      {
+        "5": 26,
+        "Player": "DW Steyn (SA)",
+        "Matches": 93,
+        "Wickets": 439,
+        "BBI": "7/51",
+        "Economy": 3.24
+      },
+      {
+        "5": 23,
+        "Player": "N Kapil Dev (IND)",
+        "Matches": 131,
+        "Wickets": 434,
+        "BBI": "9/83",
+        "Economy": 2.78
+      },
+      {
+        "5": 34,
+        "Player": "HMRKB Herath (SL)",
+        "Matches": 93,
+        "Wickets": 433,
+        "BBI": "9/127",
+        "Economy": 2.8
+      },
+      {
+        "5": 36,
+        "Player": "Sir RJ Hadlee (NZ)",
+        "Matches": 86,
+        "Wickets": 431,
+        "BBI": "9/52",
+        "Economy": 2.63
+      },
+      {
+        "5": 16,
+        "Player": "SM Pollock (SA)",
+        "Matches": 108,
+        "Wickets": 421,
+        "BBI": "7/87",
+        "Economy": 2.39
+      },
+      {
+        "5": 25,
+        "Player": "Harbhajan Singh (IND)",
+        "Matches": 103,
+        "Wickets": 417,
+        "BBI": "8/84",
+        "Economy": 2.84
+      },
+      {
+        "5": 25,
+        "Player": "Wasim Akram (PAK)",
+        "Matches": 104,
+        "Wickets": 414,
+        "BBI": "7/119",
+        "Economy": 2.59
+      },
+      {
+        "5": 22,
+        "Player": "CEL Ambrose (WI)",
+        "Matches": 98,
+        "Wickets": 405,
+        "BBI": "8/45",
+        "Economy": 2.3
+      },
+      {
+        "5": 18,
+        "Player": "M Ntini (SA)",
+        "Matches": 101,
+        "Wickets": 390,
+        "BBI": "7/37",
+        "Economy": 3.23
+      },
+      {
+        "5": 27,
+        "Player": "IT Botham (ENG)",
+        "Matches": 102,
+        "Wickets": 383,
+        "BBI": "8/34",
+        "Economy": 2.99
+      },
+      {
+        "5": 22,
+        "Player": "MD Marshall (WI)",
+        "Matches": 81,
+        "Wickets": 376,
+        "BBI": "7/22",
+        "Economy": 2.68
+      },
+      {
+        "5": 22,
+        "Player": "Waqar Younis (PAK)",
+        "Matches": 87,
+        "Wickets": 373,
+        "BBI": "7/76",
+        "Economy": 3.25
+      },
+      {
+        "5": 15,
+        "Player": "TG Southee (NZ)",
+        "Matches": 94,
+        "Wickets": 370,
+        "BBI": "7/64",
+        "Economy": 2.97
+      },
+      {
+        "5": 23,
+        "Player": "Imran Khan (PAK)",
+        "Matches": 88,
+        "Wickets": 362,
+        "BBI": "8/58",
+        "Economy": 2.54
+      },
+      {
+        "5": 20,
+        "Player": "DL Vettori (ICC/NZ)",
+        "Matches": 113,
+        "Wickets": 362,
+        "BBI": "7/87",
+        "Economy": 2.59
+      },
+      {
+        "5": 23,
+        "Player": "DK Lillee (AUS)",
+        "Matches": 70,
+        "Wickets": 355,
+        "BBI": "7/83",
+        "Economy": 2.75
+      },
+      {
+        "5": 12,
+        "Player": "WPUJC Vaas (SL)",
+        "Matches": 111,
+        "Wickets": 355,
+        "BBI": "7/71",
+        "Economy": 2.68
+      },
+      {
+        "5": 14,
+        "Player": "MA Starc (AUS)",
+        "Matches": 82,
+        "Wickets": 333,
+        "BBI": "6/50",
+        "Economy": 3.39
+      },
+      {
+        "5": 20,
+        "Player": "AA Donald (SA)",
+        "Matches": 72,
+        "Wickets": 330,
+        "BBI": "8/71",
+        "Economy": 2.83
+      },
+      {
+        "5": 16,
+        "Player": "RGD Willis (ENG)",
+        "Matches": 90,
+        "Wickets": 325,
+        "BBI": "8/43",
+        "Economy": 2.83
+      },
+      {
+        "5": 10,
+        "Player": "TA Boult (NZ)",
+        "Matches": 78,
+        "Wickets": 317,
+        "BBI": "6/30",
+        "Economy": 3
+      },
+      {
+        "5": 12,
+        "Player": "MG Johnson (AUS)",
+        "Matches": 73,
+        "Wickets": 313,
+        "BBI": "8/61",
+        "Economy": 3.33
+      },
+      {
+        "5": 11,
+        "Player": "Z Khan (IND)",
+        "Matches": 92,
+        "Wickets": 311,
+        "BBI": "7/87",
+        "Economy": 3.27
+      },
+      {
+        "5": 11,
+        "Player": "I Sharma (IND)",
+        "Matches": 105,
+        "Wickets": 311,
+        "BBI": "7/74",
+        "Economy": 3.15
+      },
+      {
+        "5": 10,
+        "Player": "B Lee (AUS)",
+        "Matches": 76,
+        "Wickets": 310,
+        "BBI": "5/30",
+        "Economy": 3.46
+      },
+      {
+        "5": 18,
+        "Player": "LR Gibbs (WI)",
+        "Matches": 79,
+        "Wickets": 309,
+        "BBI": "8/38",
+        "Economy": 1.98
+      },
+      {
+        "5": 8,
+        "Player": "M Morkel (SA)",
+        "Matches": 86,
+        "Wickets": 309,
+        "BBI": "6/23",
+        "Economy": 3.1
+      },
+      {
+        "5": 17,
+        "Player": "FS Trueman (ENG)",
+        "Matches": 67,
+        "Wickets": 307,
+        "BBI": "8/31",
+        "Economy": 2.61
+      },
+      {
+        "5": 17,
+        "Player": "DL Underwood (ENG)",
+        "Matches": 86,
+        "Wickets": 297,
+        "BBI": "8/51",
+        "Economy": 2.1
+      },
+      {
+        "5": 5,
+        "Player": "JH Kallis (ICC/SA)",
+        "Matches": 166,
+        "Wickets": 292,
+        "BBI": "6/54",
+        "Economy": 2.82
+      },
+      {
+        "5": 14,
+        "Player": "CJ McDermott (AUS)",
+        "Matches": 71,
+        "Wickets": 291,
+        "BBI": "8/97",
+        "Economy": 3.01
+      },
+      {
+        "5": 13,
+        "Player": "K Rabada (SA)",
+        "Matches": 60,
+        "Wickets": 280,
+        "BBI": "7/112",
+        "Economy": 3.37
+      },
+      {
+        "5": 12,
+        "Player": "RA Jadeja (IND)",
+        "Matches": 67,
+        "Wickets": 275,
+        "BBI": "7/42",
+        "Economy": 2.42
+      },
+      {
+        "5": 14,
+        "Player": "BS Bedi (IND)",
+        "Matches": 67,
+        "Wickets": 266,
+        "BBI": "7/98",
+        "Economy": 2.14
+      },
+      {
+        "5": 11,
+        "Player": "KAJ Roach (WI)",
+        "Matches": 79,
+        "Wickets": 265,
+        "BBI": "6/48",
+        "Economy": 3.1
+      },
+      {
+        "5": 15,
+        "Player": "Danish Kaneria (PAK)",
+        "Matches": 61,
+        "Wickets": 261,
+        "BBI": "7/77",
+        "Economy": 3.07
+      },
+      {
+        "5": 7,
+        "Player": "J Garner (WI)",
+        "Matches": 58,
+        "Wickets": 259,
+        "BBI": "6/56",
+        "Economy": 2.47
+      },
+      {
+        "5": 8,
+        "Player": "JN Gillespie (AUS)",
+        "Matches": 71,
+        "Wickets": 259,
+        "BBI": "7/37",
+        "Economy": 2.85
+      },
+      {
+        "5": 9,
+        "Player": "N Wagner (NZ)",
+        "Matches": 63,
+        "Wickets": 258,
+        "BBI": "7/39",
+        "Economy": 3.13
+      },
+      {
+        "5": 17,
+        "Player": "GP Swann (ENG)",
+        "Matches": 60,
+        "Wickets": 255,
+        "BBI": "6/65",
+        "Economy": 2.98
+      },
+      {
+        "5": 9,
+        "Player": "JB Statham (ENG)",
+        "Matches": 70,
+        "Wickets": 252,
+        "BBI": "7/39",
+        "Economy": 2.33
+      },
+      {
+        "5": 13,
+        "Player": "MA Holding (WI)",
+        "Matches": 60,
+        "Wickets": 249,
+        "BBI": "8/92",
+        "Economy": 2.79
+      },
+      {
+        "5": 16,
+        "Player": "R Benaud (AUS)",
+        "Matches": 63,
+        "Wickets": 248,
+        "BBI": "7/72",
+        "Economy": 2.1
+      },
+      {
+        "5": 7,
+        "Player": "MJ Hoggard (ENG)",
+        "Matches": 67,
+        "Wickets": 248,
+        "BBI": "7/61",
+        "Economy": 3.26
+      },
+      {
+        "5": 16,
+        "Player": "GD McKenzie (AUS)",
+        "Matches": 60,
+        "Wickets": 246,
+        "BBI": "8/71",
+        "Economy": 2.48
+      },
+      {
+        "5": 16,
+        "Player": "Yasir Shah (PAK)",
+        "Matches": 48,
+        "Wickets": 244,
+        "BBI": "8/41",
+        "Economy": 3.22
+      },
+      {
+        "5": 16,
+        "Player": "BS Chandrasekhar (IND)",
+        "Matches": 58,
+        "Wickets": 242,
+        "BBI": "8/79",
+        "Economy": 2.7
+      },
+      {
+        "5": 9,
+        "Player": "PJ Cummins (AUS)",
+        "Matches": 55,
+        "Wickets": 239,
+        "BBI": "6/23",
+        "Economy": 2.88
+      },
+      {
+        "5": 10,
+        "Player": "JR Hazlewood (AUS)",
+        "Matches": 63,
+        "Wickets": 238,
+        "BBI": "6/67",
+        "Economy": 2.81
+      },
+      {
+        "5": 15,
+        "Player": "Abdul Qadir (PAK)",
+        "Matches": 67,
+        "Wickets": 236,
+        "BBI": "9/56",
+        "Economy": 2.71
+      },
+      {
+        "5": 15,
+        "Player": "AV Bedser (ENG)",
+        "Matches": 51,
+        "Wickets": 236,
+        "BBI": "7/44",
+        "Economy": 2.21
+      },
+      {
+        "5": 10,
+        "Player": "J Srinath (IND)",
+        "Matches": 67,
+        "Wickets": 236,
+        "BBI": "8/86",
+        "Economy": 2.85
+      },
+      {
+        "5": 6,
+        "Player": "GS Sobers (WI)",
+        "Matches": 93,
+        "Wickets": 235,
+        "BBI": "6/73",
+        "Economy": 2.22
+      },
+      {
+        "5": 13,
+        "Player": "AR Caddick (ENG)",
+        "Matches": 62,
+        "Wickets": 234,
+        "BBI": "7/46",
+        "Economy": 3.09
+      },
+      {
+        "5": 10,
+        "Player": "CS Martin (NZ)",
+        "Matches": 71,
+        "Wickets": 233,
+        "BBI": "6/26",
+        "Economy": 3.37
+      },
+      {
+        "5": 19,
+        "Player": "Shakib Al Hasan (BAN)",
+        "Matches": 66,
+        "Wickets": 233,
+        "BBI": "7/36",
+        "Economy": 2.93
+      },
+      {
+        "5": 9,
+        "Player": "D Gough (ENG)",
+        "Matches": 58,
+        "Wickets": 229,
+        "BBI": "6/42",
+        "Economy": 3.3
+      },
+      {
+        "5": 6,
+        "Player": "Mohammed Shami (IND)",
+        "Matches": 64,
+        "Wickets": 229,
+        "BBI": "6/56",
+        "Economy": 3.3
+      },
+      {
+        "5": 12,
+        "Player": "RR Lindwall (AUS)",
+        "Matches": 61,
+        "Wickets": 228,
+        "BBI": "7/38",
+        "Economy": 2.3
+      },
+      {
+        "5": 3,
+        "Player": "A Flintoff (ENG/ICC)",
+        "Matches": 79,
+        "Wickets": 226,
+        "BBI": "5/58",
+        "Economy": 2.97
+      },
+      {
+        "5": 8,
+        "Player": "SJ Harmison (ENG/ICC)",
+        "Matches": 63,
+        "Wickets": 226,
+        "BBI": "7/12",
+        "Economy": 3.22
+      },
+      {
+        "5": 13,
+        "Player": "VD Philander (SA)",
+        "Matches": 64,
+        "Wickets": 224,
+        "BBI": "6/21",
+        "Economy": 2.63
+      },
+      {
+        "5": 8,
+        "Player": "PM Siddle (AUS)",
+        "Matches": 67,
+        "Wickets": 221,
+        "BBI": "6/54",
+        "Economy": 2.92
+      },
+      {
+        "5": 13,
+        "Player": "CL Cairns (NZ)",
+        "Matches": 62,
+        "Wickets": 218,
+        "BBI": "7/27",
+        "Economy": 3.28
+      },
+      {
+        "5": 21,
+        "Player": "CV Grimmett (AUS)",
+        "Matches": 37,
+        "Wickets": 216,
+        "BBI": "7/40",
+        "Economy": 2.16
+      },
+      {
+        "5": 7,
+        "Player": "HH Streak (ZIM)",
+        "Matches": 65,
+        "Wickets": 216,
+        "BBI": "6/73",
+        "Economy": 2.69
+      },
+      {
+        "5": 7,
+        "Player": "MG Hughes (AUS)",
+        "Matches": 53,
+        "Wickets": 212,
+        "BBI": "8/87",
+        "Economy": 2.93
+      },
+      {
+        "5": 12,
+        "Player": "SCG MacGill (AUS)",
+        "Matches": 44,
+        "Wickets": 208,
+        "BBI": "8/108",
+        "Economy": 3.22
+      },
+      {
+        "5": 13,
+        "Player": "Saqlain Mushtaq (PAK)",
+        "Matches": 49,
+        "Wickets": 208,
+        "BBI": "8/164",
+        "Economy": 2.64
+      },
+      {
+        "5": 5,
+        "Player": "MM Ali (ENG)",
+        "Matches": 68,
+        "Wickets": 204,
+        "BBI": "6/53",
+        "Economy": 3.62
+      },
+      {
+        "5": 11,
+        "Player": "AME Roberts (WI)",
+        "Matches": 47,
+        "Wickets": 202,
+        "BBI": "7/54",
+        "Economy": 2.78
+      },
+      {
+        "5": 8,
+        "Player": "JA Snow (ENG)",
+        "Matches": 49,
+        "Wickets": 202,
+        "BBI": "7/40",
+        "Economy": 2.68
+      },
+      {
+        "5": 8,
+        "Player": "JR Thomson (AUS)",
+        "Matches": 51,
+        "Wickets": 200,
+        "BBI": "6/46",
+        "Economy": 3.18
+      },
+      {
+        "5": 4,
+        "Player": "BA Stokes (ENG)",
+        "Matches": 97,
+        "Wickets": 197,
+        "BBI": "6/22",
+        "Economy": 3.3
+      },
+      {
+        "5": 9,
+        "Player": "JC Laker (ENG)",
+        "Matches": 46,
+        "Wickets": 193,
+        "BBI": "10/53",
+        "Economy": 2.04
+      },
+      {
+        "5": 9,
+        "Player": "WW Hall (WI)",
+        "Matches": 48,
+        "Wickets": 192,
+        "BBI": "7/69",
+        "Economy": 2.91
+      },
+      {
+        "5": 24,
+        "Player": "SF Barnes (ENG)",
+        "Matches": 27,
+        "Wickets": 189,
+        "BBI": "9/103",
+        "Economy": 2.36
+      },
+      {
+        "5": 10,
+        "Player": "EAS Prasanna (IND)",
+        "Matches": 49,
+        "Wickets": 189,
+        "BBI": "8/76",
+        "Economy": 2.4
+      },
+      {
+        "5": 14,
+        "Player": "AK Davidson (AUS)",
+        "Matches": 44,
+        "Wickets": 186,
+        "BBI": "7/93",
+        "Economy": 1.97
+      },
+      {
+        "5": 10,
+        "Player": "Mushtaq Ahmed (PAK)",
+        "Matches": 52,
+        "Wickets": 185,
+        "BBI": "7/56",
+        "Economy": 2.92
+      },
+      {
+        "5": 11,
+        "Player": "GF Lawson (AUS)",
+        "Matches": 46,
+        "Wickets": 180,
+        "BBI": "8/112",
+        "Economy": 2.96
+      },
+      {
+        "5": 10,
+        "Player": "Saeed Ajmal (PAK)",
+        "Matches": 35,
+        "Wickets": 178,
+        "BBI": "7/55",
+        "Economy": 2.58
+      },
+      {
+        "5": 12,
+        "Player": "Shoaib Akhtar (PAK)",
+        "Matches": 46,
+        "Wickets": 178,
+        "BBI": "6/11",
+        "Economy": 3.37
+      },
+      {
+        "5": 13,
+        "Player": "ARC Fraser (ENG)",
+        "Matches": 46,
+        "Wickets": 177,
+        "BBI": "8/53",
+        "Economy": 2.66
+      },
+      {
+        "5": 4,
+        "Player": "Sarfraz Nawaz (PAK)",
+        "Matches": 55,
+        "Wickets": 177,
+        "BBI": "9/86",
+        "Economy": 2.49
+      },
+      {
+        "5": 11,
+        "Player": "Taijul Islam (BAN)",
+        "Matches": 42,
+        "Wickets": 177,
+        "BBI": "8/39",
+        "Economy": 2.99
+      },
+      {
+        "5": 9,
+        "Player": "GAR Lock (ENG)",
+        "Matches": 49,
+        "Wickets": 174,
+        "BBI": "7/35",
+        "Economy": 2.03
+      },
+      {
+        "5": 8,
+        "Player": "Iqbal Qasim (PAK)",
+        "Matches": 50,
+        "Wickets": 171,
+        "BBI": "7/49",
+        "Economy": 2.21
+      },
+      {
+        "5": 4,
+        "Player": "RAS Lakmal (SL)",
+        "Matches": 70,
+        "Wickets": 171,
+        "BBI": "5/47",
+        "Economy": 3
+      },
+      {
+        "5": 14,
+        "Player": "TM Alderman (AUS)",
+        "Matches": 41,
+        "Wickets": 170,
+        "BBI": "6/47",
+        "Economy": 2.72
+      },
+      {
+        "5": 7,
+        "Player": "KR Miller (AUS)",
+        "Matches": 55,
+        "Wickets": 170,
+        "BBI": "7/60",
+        "Economy": 2.24
+      },
+      {
+        "5": 14,
+        "Player": "HJ Tayfield (SA)",
+        "Matches": 37,
+        "Wickets": 170,
+        "BBI": "9/113",
+        "Economy": 1.94
+      },
+      {
+        "5": 3,
+        "Player": "UT Yadav (IND)",
+        "Matches": 57,
+        "Wickets": 170,
+        "BBI": "6/88",
+        "Economy": 3.51
+      },
+      {
+        "5": 12,
+        "Player": "MS Panesar (ENG)",
+        "Matches": 50,
+        "Wickets": 167,
+        "BBI": "6/37",
+        "Economy": 2.78
+      },
+      {
+        "5": 6,
+        "Player": "ST Gabriel (WI)",
+        "Matches": 59,
+        "Wickets": 166,
+        "BBI": "8/62",
+        "Economy": 3.42
+      },
+      {
+        "5": 12,
+        "Player": "FH Edwards (WI)",
+        "Matches": 55,
+        "Wickets": 165,
+        "BBI": "7/87",
+        "Economy": 3.9
+      },
+      {
+        "5": 4,
+        "Player": "Umar Gul (PAK)",
+        "Matches": 47,
+        "Wickets": 163,
+        "BBI": "6/135",
+        "Economy": 3.47
+      },
+      {
+        "5": 8,
+        "Player": "MH Mankad (IND)",
+        "Matches": 44,
+        "Wickets": 162,
+        "BBI": "8/52",
+        "Economy": 2.13
+      },
+      {
+        "5": 6,
+        "Player": "IR Bishop (WI)",
+        "Matches": 43,
+        "Wickets": 161,
+        "BBI": "6/40",
+        "Economy": 2.78
+      },
+      {
+        "5": 8,
+        "Player": "MDK Perera (SL)",
+        "Matches": 43,
+        "Wickets": 161,
+        "BBI": "6/32",
+        "Economy": 3.2
+      },
+      {
+        "5": 7,
+        "Player": "WA Johnston (AUS)",
+        "Matches": 40,
+        "Wickets": 160,
+        "BBI": "6/44",
+        "Economy": 2.07
+      },
+      {
+        "5": 10,
+        "Player": "DK Morrison (NZ)",
+        "Matches": 48,
+        "Wickets": 160,
+        "BBI": "7/89",
+        "Economy": 3.3
+      },
+      {
+        "5": 9,
+        "Player": "KA Maharaj (SA)",
+        "Matches": 49,
+        "Wickets": 158,
+        "BBI": "9/129",
+        "Economy": 3.16
+      },
+      {
+        "5": 10,
+        "Player": "S Ramadhin (WI)",
+        "Matches": 43,
+        "Wickets": 158,
+        "BBI": "7/49",
+        "Economy": 1.97
+      },
+      {
+        "5": 8,
+        "Player": "JO Holder (WI)",
+        "Matches": 64,
+        "Wickets": 157,
+        "BBI": "6/42",
+        "Economy": 2.57
+      },
+      {
+        "5": 3,
+        "Player": "S Venkataraghavan (IND)",
+        "Matches": 57,
+        "Wickets": 156,
+        "BBI": "8/72",
+        "Economy": 2.27
+      },
+      {
+        "5": 7,
+        "Player": "MW Tate (ENG)",
+        "Matches": 39,
+        "Wickets": 155,
+        "BBI": "6/42",
+        "Economy": 1.94
+      },
+      {
+        "5": 7,
+        "Player": "FJ Titmus (ENG)",
+        "Matches": 53,
+        "Wickets": 153,
+        "BBI": "7/79",
+        "Economy": 1.95
+      },
+      {
+        "5": 9,
+        "Player": "Mehidy Hasan Miraz (BAN)",
+        "Matches": 39,
+        "Wickets": 151,
+        "BBI": "7/58",
+        "Economy": 3.12
+      },
+      {
+        "5": 2,
+        "Player": "RJ Shastri (IND)",
+        "Matches": 80,
+        "Wickets": 151,
+        "BBI": "5/75",
+        "Economy": 2.35
+      },
+      {
+        "5": 12,
+        "Player": "SP Gupte (IND)",
+        "Matches": 36,
+        "Wickets": 149,
+        "BBI": "9/102",
+        "Economy": 2.34
+      },
+      {
+        "5": 5,
+        "Player": "CR Woakes (ENG)",
+        "Matches": 48,
+        "Wickets": 149,
+        "BBI": "6/17",
+        "Economy": 3.03
+      },
+      {
+        "5": 6,
+        "Player": "JE Emburey (ENG)",
+        "Matches": 64,
+        "Wickets": 147,
+        "BBI": "7/78",
+        "Economy": 2.2
+      },
+      {
+        "5": 11,
+        "Player": "WJ O'Reilly (AUS)",
+        "Matches": 27,
+        "Wickets": 144,
+        "BBI": "7/54",
+        "Economy": 1.94
+      },
+      {
+        "5": 5,
+        "Player": "H Verity (ENG)",
+        "Matches": 40,
+        "Wickets": 144,
+        "BBI": "8/43",
+        "Economy": 1.88
+      },
+      {
+        "5": 5,
+        "Player": "AF Giles (ENG)",
+        "Matches": 54,
+        "Wickets": 143,
+        "BBI": "5/57",
+        "Economy": 2.86
+      },
+      {
+        "5": 4,
+        "Player": "CM Old (ENG)",
+        "Matches": 46,
+        "Wickets": 143,
+        "BBI": "7/50",
+        "Economy": 2.72
+      },
+      {
+        "5": 6,
+        "Player": "AW Greig (ENG)",
+        "Matches": 58,
+        "Wickets": 141,
+        "BBI": "8/86",
+        "Economy": 2.77
+      },
+      {
+        "5": 9,
+        "Player": "H Trumble (AUS)",
+        "Matches": 32,
+        "Wickets": 141,
+        "BBI": "8/65",
+        "Economy": 2.27
+      },
+      {
+        "5": 4,
+        "Player": "PAJ DeFreitas (ENG)",
+        "Matches": 44,
+        "Wickets": 140,
+        "BBI": "7/70",
+        "Economy": 2.86
+      },
+      {
+        "5": 13,
+        "Player": "Fazal Mahmood (PAK)",
+        "Matches": 34,
+        "Wickets": 139,
+        "BBI": "7/42",
+        "Economy": 2.09
+      },
+      {
+        "5": 8,
+        "Player": "AL Valentine (WI)",
+        "Matches": 36,
+        "Wickets": 139,
+        "BBI": "8/104",
+        "Economy": 1.95
+      },
+      {
+        "5": 6,
+        "Player": "GR Dilley (ENG)",
+        "Matches": 41,
+        "Wickets": 138,
+        "BBI": "6/38",
+        "Economy": 3
+      },
+      {
+        "5": 6,
+        "Player": "MHN Walker (AUS)",
+        "Matches": 34,
+        "Wickets": 138,
+        "BBI": "8/143",
+        "Economy": 2.25
+      },
+      {
+        "5": 4,
+        "Player": "PR Adams (SA)",
+        "Matches": 45,
+        "Wickets": 134,
+        "BBI": "7/128",
+        "Economy": 2.98
+      },
+      {
+        "5": 5,
+        "Player": "TE Bailey (ENG)",
+        "Matches": 61,
+        "Wickets": 132,
+        "BBI": "7/34",
+        "Economy": 2.38
+      },
+      {
+        "5": 6,
+        "Player": "AA Mallett (AUS)",
+        "Matches": 38,
+        "Wickets": 132,
+        "BBI": "8/59",
+        "Economy": 2.36
+      },
+      {
+        "5": 5,
+        "Player": "DG Cork (ENG)",
+        "Matches": 37,
+        "Wickets": 131,
+        "BBI": "7/43",
+        "Economy": 3.05
+      },
+      {
+        "5": 2,
+        "Player": "M Dillon (WI)",
+        "Matches": 38,
+        "Wickets": 131,
+        "BBI": "5/71",
+        "Economy": 3.03
+      },
+      {
+        "5": 6,
+        "Player": "BL Cairns (NZ)",
+        "Matches": 43,
+        "Wickets": 130,
+        "BBI": "7/74",
+        "Economy": 2.41
+      },
+      {
+        "5": 4,
+        "Player": "JE Taylor (WI)",
+        "Matches": 46,
+        "Wickets": 130,
+        "BBI": "6/47",
+        "Economy": 3.46
+      },
+      {
+        "5": 8,
+        "Player": "JJ Bumrah (IND)",
+        "Matches": 30,
+        "Wickets": 128,
+        "BBI": "6/27",
+        "Economy": 2.69
+      },
+      {
+        "5": 5,
+        "Player": "DE Malcolm (ENG)",
+        "Matches": 40,
+        "Wickets": 128,
+        "BBI": "9/57",
+        "Economy": 3.35
+      },
+      {
+        "5": 6,
+        "Player": "W Rhodes (ENG)",
+        "Matches": 58,
+        "Wickets": 127,
+        "BBI": "8/68",
+        "Economy": 2.49
+      },
+      {
+        "5": 6,
+        "Player": "B Yardley (AUS)",
+        "Matches": 33,
+        "Wickets": 126,
+        "BBI": "7/98",
+        "Economy": 2.68
+      },
+      {
+        "5": 3,
+        "Player": "CEH Croft (WI)",
+        "Matches": 27,
+        "Wickets": 125,
+        "BBI": "8/29",
+        "Economy": 2.83
+      },
+      {
+        "5": 2,
+        "Player": "PH Edmonds (ENG)",
+        "Matches": 51,
+        "Wickets": 125,
+        "BBI": "7/66",
+        "Economy": 2.13
+      },
+      {
+        "5": 5,
+        "Player": "ST Finn (ENG)",
+        "Matches": 36,
+        "Wickets": 125,
+        "BBI": "6/79",
+        "Economy": 3.55
+      },
+      {
+        "5": 5,
+        "Player": "Intikhab Alam (PAK)",
+        "Matches": 47,
+        "Wickets": 125,
+        "BBI": "7/52",
+        "Economy": 2.57
+      },
+      {
+        "5": 5,
+        "Player": "MJ Leach (ENG)",
+        "Matches": 35,
+        "Wickets": 124,
+        "BBI": "5/66",
+        "Economy": 3.03
+      },
+      {
+        "5": 3,
+        "Player": "EJ Chatfield (NZ)",
+        "Matches": 43,
+        "Wickets": 123,
+        "BBI": "6/73",
+        "Economy": 2.29
+      },
+      {
+        "5": 5,
+        "Player": "TL Goddard (SA)",
+        "Matches": 41,
+        "Wickets": 123,
+        "BBI": "6/53",
+        "Economy": 1.64
+      },
+      {
+        "5": 6,
+        "Player": "RM Hogg (AUS)",
+        "Matches": 38,
+        "Wickets": 123,
+        "BBI": "6/74",
+        "Economy": 2.75
+      },
+      {
+        "5": 3,
+        "Player": "A Nel (SA)",
+        "Matches": 36,
+        "Wickets": 123,
+        "BBI": "6/32",
+        "Economy": 3.08
+      },
+      {
+        "5": 4,
+        "Player": "DA Allen (ENG)",
+        "Matches": 39,
+        "Wickets": 122,
+        "BBI": "5/30",
+        "Economy": 2
+      },
+      {
+        "5": 3,
+        "Player": "R Illingworth (ENG)",
+        "Matches": 61,
+        "Wickets": 122,
+        "BBI": "6/29",
+        "Economy": 1.91
+      },
+      {
+        "5": 9,
+        "Player": "MA Noble (AUS)",
+        "Matches": 42,
+        "Wickets": 121,
+        "BBI": "7/17",
+        "Economy": 2.53
+      },
+      {
+        "5": 5,
+        "Player": "PCR Tufnell (ENG)",
+        "Matches": 42,
+        "Wickets": 121,
+        "BBI": "7/47",
+        "Economy": 2.42
+      },
+      {
+        "5": 4,
+        "Player": "Mohammad Amir (PAK)",
+        "Matches": 36,
+        "Wickets": 119,
+        "BBI": "6/44",
+        "Economy": 2.85
+      },
+      {
+        "5": 9,
+        "Player": "J Briggs (ENG)",
+        "Matches": 33,
+        "Wickets": 118,
+        "BBI": "8/11",
+        "Economy": 2.35
+      },
+      {
+        "5": 4,
+        "Player": "D Bishoo (WI)",
+        "Matches": 36,
+        "Wickets": 117,
+        "BBI": "8/49",
+        "Economy": 3.23
+      },
+      {
+        "5": 3,
+        "Player": "RO Collinge (NZ)",
+        "Matches": 35,
+        "Wickets": 116,
+        "BBI": "6/63",
+        "Economy": 2.64
+      },
+      {
+        "5": 9,
+        "Player": "PM Pollock (SA)",
+        "Matches": 28,
+        "Wickets": 116,
+        "BBI": "6/38",
+        "Economy": 2.58
+      },
+      {
+        "5": 6,
+        "Player": "GG Arnold (ENG)",
+        "Matches": 34,
+        "Wickets": 115,
+        "BBI": "6/45",
+        "Economy": 2.55
+      },
+      {
+        "5": 6,
+        "Player": "DR Doshi (IND)",
+        "Matches": 33,
+        "Wickets": 114,
+        "BBI": "6/102",
+        "Economy": 2.25
+      },
+      {
+        "5": 4,
+        "Player": "CL Hooper (WI)",
+        "Matches": 102,
+        "Wickets": 114,
+        "BBI": "5/26",
+        "Economy": 2.45
+      },
+      {
+        "5": 5,
+        "Player": "RJ Harris (AUS)",
+        "Matches": 27,
+        "Wickets": 113,
+        "BBI": "7/117",
+        "Economy": 2.78
+      },
+      {
+        "5": 4,
+        "Player": "MS Kasprowicz (AUS)",
+        "Matches": 38,
+        "Wickets": 113,
+        "BBI": "7/36",
+        "Economy": 3.12
+      },
+      {
+        "5": 7,
+        "Player": "PP Ojha (IND)",
+        "Matches": 24,
+        "Wickets": 113,
+        "BBI": "6/47",
+        "Economy": 2.68
+      },
+      {
+        "5": 5,
+        "Player": "BA Reid (AUS)",
+        "Matches": 27,
+        "Wickets": 113,
+        "BBI": "7/51",
+        "Economy": 2.67
+      },
+      {
+        "5": 9,
+        "Player": "GA Lohmann (ENG)",
+        "Matches": 18,
+        "Wickets": 112,
+        "BBI": "9/28",
+        "Economy": 1.88
+      },
+      {
+        "5": 4,
+        "Player": "BR Taylor (NZ)",
+        "Matches": 30,
+        "Wickets": 111,
+        "BBI": "7/74",
+        "Economy": 2.79
+      },
+      {
+        "5": 4,
+        "Player": "KD Ghavri (IND)",
+        "Matches": 39,
+        "Wickets": 109,
+        "BBI": "5/33",
+        "Economy": 3.11
+      },
+      {
+        "5": 3,
+        "Player": "VA Holder (WI)",
+        "Matches": 40,
+        "Wickets": 109,
+        "BBI": "6/28",
+        "Economy": 2.39
+      },
+      {
+        "5": 3,
+        "Player": "IWG Johnson (AUS)",
+        "Matches": 45,
+        "Wickets": 109,
+        "BBI": "7/44",
+        "Economy": 2.17
+      },
+      {
+        "5": 6,
+        "Player": "DVP Wright (ENG)",
+        "Matches": 34,
+        "Wickets": 108,
+        "BBI": "7/105",
+        "Economy": 3.11
+      },
+      {
+        "5": 3,
+        "Player": "PT Collins (WI)",
+        "Matches": 32,
+        "Wickets": 106,
+        "BBI": "6/53",
+        "Economy": 3.16
+      },
+      {
+        "5": 7,
+        "Player": "Mohammad Asif (PAK)",
+        "Matches": 23,
+        "Wickets": 106,
+        "BBI": "6/41",
+        "Economy": 2.99
+      },
+      {
+        "5": 4,
+        "Player": "Shaheen Shah Afridi (PAK)",
+        "Matches": 27,
+        "Wickets": 105,
+        "BBI": "6/51",
+        "Economy": 3.08
+      },
+      {
+        "5": 5,
+        "Player": "NAT Adcock (SA)",
+        "Matches": 26,
+        "Wickets": 104,
+        "BBI": "6/43",
+        "Economy": 2.06
+      },
+      {
+        "5": 5,
+        "Player": "PR Reiffel (AUS)",
+        "Matches": 35,
+        "Wickets": 104,
+        "BBI": "6/71",
+        "Economy": 2.62
+      },
+      {
+        "5": 4,
+        "Player": "MA Wood (ENG)",
+        "Matches": 31,
+        "Wickets": 104,
+        "BBI": "6/37",
+        "Economy": 3.27
+      },
+      {
+        "5": 7,
+        "Player": "G Giffen (AUS)",
+        "Matches": 31,
+        "Wickets": 103,
+        "BBI": "7/117",
+        "Economy": 2.62
+      },
+      {
+        "5": 3,
+        "Player": "PL Harris (SA)",
+        "Matches": 37,
+        "Wickets": 103,
+        "BBI": "6/127",
+        "Economy": 2.65
+      },
+      {
+        "5": 4,
+        "Player": "JG Bracewell (NZ)",
+        "Matches": 41,
+        "Wickets": 102,
+        "BBI": "6/32",
+        "Economy": 2.6
+      },
+      {
+        "5": 4,
+        "Player": "AN Connolly (AUS)",
+        "Matches": 29,
+        "Wickets": 102,
+        "BBI": "6/47",
+        "Economy": 2.28
+      },
+      {
+        "5": 5,
+        "Player": "JH Wardle (ENG)",
+        "Matches": 28,
+        "Wickets": 102,
+        "BBI": "7/36",
+        "Economy": 1.89
+      },
+      {
+        "5": 3,
+        "Player": "NS Yadav (IND)",
+        "Matches": 35,
+        "Wickets": 102,
+        "BBI": "5/76",
+        "Economy": 2.56
+      },
+      {
+        "5": 3,
+        "Player": "SL Malinga (SL)",
+        "Matches": 30,
+        "Wickets": 101,
+        "BBI": "5/50",
+        "Economy": 3.85
+      },
+      {
+        "5": 5,
+        "Player": "R Peel (ENG)",
+        "Matches": 20,
+        "Wickets": 101,
+        "BBI": "7/31",
+        "Economy": 1.97
+      },
+      {
+        "5": 11,
+        "Player": "CTB Turner (AUS)",
+        "Matches": 17,
+        "Wickets": 101,
+        "BBI": "7/43",
+        "Economy": 1.93
+      },
+      {
+        "5": 1,
+        "Player": "Abdul Razzaq (PAK)",
+        "Matches": 46,
+        "Wickets": 100,
+        "BBI": "5/35",
+        "Economy": 3.16
+      },
+      {
+        "5": 9,
+        "Player": "C Blythe (ENG)",
+        "Matches": 19,
+        "Wickets": 100,
+        "BBI": "8/59",
+        "Economy": 2.45
+      },
+      {
+        "5": 3,
+        "Player": "N Boje (SA)",
+        "Matches": 43,
+        "Wickets": 100,
+        "BBI": "5/62",
+        "Economy": 2.96
+      },
+      {
+        "5": 3,
+        "Player": "CRD Fernando (SL)",
+        "Matches": 40,
+        "Wickets": 100,
+        "BBI": "5/42",
+        "Economy": 3.67
+      },
+      {
+        "5": 7,
+        "Player": "Mohammad Rafique (BAN)",
+        "Matches": 33,
+        "Wickets": 100,
+        "BBI": "6/77",
+        "Economy": 2.79
+      },
+      {
+        "5": 5,
+        "Player": "RC Motz (NZ)",
+        "Matches": 32,
+        "Wickets": 100,
+        "BBI": "6/63",
+        "Economy": 2.68
+      },
+      {
+        "5": 7,
+        "Player": "IK Pathan (IND)",
+        "Matches": 29,
+        "Wickets": 100,
+        "BBI": "7/59",
+        "Economy": 3.28
+      },
+      {
+        "5": 2,
+        "Player": "Abdur Rehman (PAK)",
+        "Matches": 22,
+        "Wickets": 99,
+        "BBI": "6/25",
+        "Economy": 2.53
+      },
+      {
+        "5": 2,
+        "Player": "BW Hilfenhaus (AUS)",
+        "Matches": 27,
+        "Wickets": 99,
+        "BBI": "5/75",
+        "Economy": 2.78
+      },
+      {
+        "5": 6,
+        "Player": "AA Mailey (AUS)",
+        "Matches": 21,
+        "Wickets": 99,
+        "BBI": "9/121",
+        "Economy": 3.29
+      },
+      {
+        "5": 6,
+        "Player": "SB Doull (NZ)",
+        "Matches": 32,
+        "Wickets": 98,
+        "BBI": "7/65",
+        "Economy": 2.84
+      },
+      {
+        "5": 2,
+        "Player": "ST Jayasuriya (SL)",
+        "Matches": 110,
+        "Wickets": 98,
+        "BBI": "5/34",
+        "Economy": 2.46
+      },
+      {
+        "5": 3,
+        "Player": "W Voce (ENG)",
+        "Matches": 27,
+        "Wickets": 98,
+        "BBI": "7/70",
+        "Economy": 2.57
+      },
+      {
+        "5": 3,
+        "Player": "M Prabhakar (IND)",
+        "Matches": 39,
+        "Wickets": 96,
+        "BBI": "6/132",
+        "Economy": 2.87
+      },
+      {
+        "5": 7,
+        "Player": "BKV Prasad (IND)",
+        "Matches": 33,
+        "Wickets": 96,
+        "BBI": "6/33",
+        "Economy": 2.86
+      },
+      {
+        "5": 2,
+        "Player": "SR Clark (AUS)",
+        "Matches": 24,
+        "Wickets": 94,
+        "BBI": "5/32",
+        "Economy": 2.61
+      },
+      {
+        "5": 5,
+        "Player": "CC Griffith (WI)",
+        "Matches": 28,
+        "Wickets": 94,
+        "BBI": "6/36",
+        "Economy": 2.85
+      },
+      {
+        "5": 7,
+        "Player": "FR Spofforth (AUS)",
+        "Matches": 18,
+        "Wickets": 94,
+        "BBI": "7/44",
+        "Economy": 2.48
+      },
+      {
+        "5": 4,
+        "Player": "CD Collymore (WI)",
+        "Matches": 30,
+        "Wickets": 93,
+        "BBI": "7/57",
+        "Economy": 2.84
+      },
+      {
+        "5": 3,
+        "Player": "JW Gleeson (AUS)",
+        "Matches": 29,
+        "Wickets": 93,
+        "BBI": "5/61",
+        "Economy": 2.28
+      },
+      {
+        "5": 3,
+        "Player": "CC Lewis (ENG)",
+        "Matches": 32,
+        "Wickets": 93,
+        "BBI": "6/111",
+        "Economy": 3.05
+      },
+      {
+        "5": 3,
+        "Player": "DJ Nash (NZ)",
+        "Matches": 32,
+        "Wickets": 93,
+        "BBI": "6/27",
+        "Economy": 2.56
+      },
+      {
+        "5": 5,
+        "Player": "BP Patterson (WI)",
+        "Matches": 28,
+        "Wickets": 93,
+        "BBI": "5/24",
+        "Economy": 3.57
+      },
+      {
+        "5": 5,
+        "Player": "SLV Raju (IND)",
+        "Matches": 28,
+        "Wickets": 93,
+        "BBI": "6/12",
+        "Economy": 2.25
+      },
+      {
+        "5": 3,
+        "Player": "Tauseef Ahmed (PAK)",
+        "Matches": 34,
+        "Wickets": 93,
+        "BBI": "6/45",
+        "Economy": 2.27
+      },
+      {
+        "5": 4,
+        "Player": "KCG Benjamin (WI)",
+        "Matches": 26,
+        "Wickets": 92,
+        "BBI": "6/66",
+        "Economy": 3.25
+      },
+      {
+        "5": 3,
+        "Player": "SR Waugh (AUS)",
+        "Matches": 168,
+        "Wickets": 92,
+        "BBI": "5/28",
+        "Economy": 2.64
+      },
+      {
+        "5": 6,
+        "Player": "NJN Hawke (AUS)",
+        "Matches": 27,
+        "Wickets": 91,
+        "BBI": "7/105",
+        "Economy": 2.3
+      },
+      {
+        "5": 4,
+        "Player": "Mohammad Abbas (PAK)",
+        "Matches": 25,
+        "Wickets": 90,
+        "BBI": "5/33",
+        "Economy": 2.42
+      },
+      {
+        "5": 7,
+        "Player": "A Cotter (AUS)",
+        "Matches": 21,
+        "Wickets": 89,
+        "BBI": "7/148",
+        "Economy": 3.3
+      },
+      {
+        "5": 5,
+        "Player": "NA Foster (ENG)",
+        "Matches": 29,
+        "Wickets": 88,
+        "BBI": "8/107",
+        "Economy": 2.77
+      },
+      {
+        "5": 3,
+        "Player": "Maninder Singh (IND)",
+        "Matches": 35,
+        "Wickets": 88,
+        "BBI": "7/27",
+        "Economy": 2.4
+      },
+      {
+        "5": 4,
+        "Player": "RG Nadkarni (IND)",
+        "Matches": 41,
+        "Wickets": 88,
+        "BBI": "6/43",
+        "Economy": 1.67
+      },
+      {
+        "5": 11,
+        "Player": "T Richardson (ENG)",
+        "Matches": 14,
+        "Wickets": 88,
+        "BBI": "8/94",
+        "Economy": 2.96
+      },
+      {
+        "5": 3,
+        "Player": "WW Armstrong (AUS)",
+        "Matches": 50,
+        "Wickets": 87,
+        "BBI": "6/35",
+        "Economy": 2.18
+      },
+      {
+        "5": 6,
+        "Player": "SJ Benn (WI)",
+        "Matches": 26,
+        "Wickets": 87,
+        "BBI": "6/81",
+        "Economy": 2.78
+      },
+      {
+        "5": 5,
+        "Player": "SE Bond (NZ)",
+        "Matches": 18,
+        "Wickets": 87,
+        "BBI": "6/51",
+        "Economy": 3.41
+      },
+      {
+        "5": 0,
+        "Player": "M Hendrick (ENG)",
+        "Matches": 30,
+        "Wickets": 87,
+        "BBI": "4/28",
+        "Economy": 2.17
+      },
+      {
+        "5": 3,
+        "Player": "S Sreesanth (IND)",
+        "Matches": 27,
+        "Wickets": 87,
+        "BBI": "5/40",
+        "Economy": 3.62
+      },
+      {
+        "5": 2,
+        "Player": "DJ Bravo (WI)",
+        "Matches": 40,
+        "Wickets": 86,
+        "BBI": "6/55",
+        "Economy": 3.17
+      },
+      {
+        "5": 2,
+        "Player": "HJ Howarth (NZ)",
+        "Matches": 30,
+        "Wickets": 86,
+        "BBI": "5/34",
+        "Economy": 2.15
+      },
+      {
+        "5": 4,
+        "Player": "RL Chase (WI)",
+        "Matches": 49,
+        "Wickets": 85,
+        "BBI": "8/60",
+        "Economy": 3.45
+      },
+      {
+        "5": 5,
+        "Player": "PS de Villiers (SA)",
+        "Matches": 18,
+        "Wickets": 85,
+        "BBI": "6/23",
+        "Economy": 2.57
+      },
+      {
+        "5": 4,
+        "Player": "JM Gregory (AUS)",
+        "Matches": 24,
+        "Wickets": 85,
+        "BBI": "7/69",
+        "Economy": 2.84
+      },
+      {
+        "5": 1,
+        "Player": "AS Joseph (WI)",
+        "Matches": 30,
+        "Wickets": 85,
+        "BBI": "5/81",
+        "Economy": 3.52
+      },
+      {
+        "5": 2,
+        "Player": "Mohammad Sami (PAK)",
+        "Matches": 36,
+        "Wickets": 85,
+        "BBI": "5/36",
+        "Economy": 3.58
+      },
+      {
+        "5": 1,
+        "Player": "DBL Powell (WI)",
+        "Matches": 37,
+        "Wickets": 85,
+        "BBI": "5/25",
+        "Economy": 3.44
+      },
+      {
+        "5": 1,
+        "Player": "JR Reid (NZ)",
+        "Matches": 58,
+        "Wickets": 85,
+        "BBI": "6/60",
+        "Economy": 2.2
+      },
+      {
+        "5": 3,
+        "Player": "GP Wickramasinghe (SL)",
+        "Matches": 40,
+        "Wickets": 85,
+        "BBI": "6/60",
+        "Economy": 2.94
+      },
+      {
+        "5": 4,
+        "Player": "DJG Sammy (WI)",
+        "Matches": 38,
+        "Wickets": 84,
+        "BBI": "7/66",
+        "Economy": 2.9
+      },
+      {
+        "5": 3,
+        "Player": "CL Vincent (SA)",
+        "Matches": 25,
+        "Wickets": 84,
+        "BBI": "6/51",
+        "Economy": 2.69
+      },
+      {
+        "5": 2,
+        "Player": "WR Hammond (ENG)",
+        "Matches": 85,
+        "Wickets": 83,
+        "BBI": "5/36",
+        "Economy": 2.36
+      },
+      {
+        "5": 2,
+        "Player": "Wahab Riaz (PAK)",
+        "Matches": 27,
+        "Wickets": 83,
+        "BBI": "5/63",
+        "Economy": 3.42
+      },
+      {
+        "5": 4,
+        "Player": "FE Woolley (ENG)",
+        "Matches": 64,
+        "Wickets": 83,
+        "BBI": "7/76",
+        "Economy": 2.6
+      },
+      {
+        "5": 4,
+        "Player": "GA Faulkner (SA)",
+        "Matches": 25,
+        "Wickets": 82,
+        "BBI": "7/84",
+        "Economy": 3.09
+      },
+      {
+        "5": 3,
+        "Player": "JEC Franklin (NZ)",
+        "Matches": 31,
+        "Wickets": 82,
+        "BBI": "6/119",
+        "Economy": 3.5
+      },
+      {
+        "5": 5,
+        "Player": "GOB Allen (ENG)",
+        "Matches": 25,
+        "Wickets": 81,
+        "BBI": "7/80",
+        "Economy": 3.25
+      },
+      {
+        "5": 4,
+        "Player": "JL Pattinson (AUS)",
+        "Matches": 21,
+        "Wickets": 81,
+        "BBI": "5/27",
+        "Economy": 3.22
+      },
+      {
+        "5": 1,
+        "Player": "L Klusener (SA)",
+        "Matches": 49,
+        "Wickets": 80,
+        "BBI": "8/64",
+        "Economy": 2.64
+      },
+      {
+        "5": 5,
+        "Player": "RW Price (ZIM)",
+        "Matches": 22,
+        "Wickets": 80,
+        "BBI": "6/73",
+        "Economy": 2.82
+      }
+    ],
+    "fielding":[
+      {
+        "Player": "MV Boucher (ICC/SA)",
+        "Catches": 532
+      },
+      {
+        "Player": "AC Gilchrist (AUS)",
+        "Catches": 379
+      },
+      {
+        "Player": "IA Healy (AUS)",
+        "Catches": 366
+      },
+      {
+        "Player": "RW Marsh (AUS)",
+        "Catches": 343
+      },
+      {
+        "Player": "MS Dhoni (IND)",
+        "Catches": 256
+      },
+      {
+        "Player": "AJ Stewart (ENG)",
+        "Catches": 263
+      },
+      {
+        "Player": "BJ Watling (NZ)",
+        "Catches": 267
+      },
+      {
+        "Player": "PJL Dujon (WI)",
+        "Catches": 267
+      },
+      {
+        "Player": "BJ Haddin (AUS)",
+        "Catches": 262
+      },
+      {
+        "Player": "APE Knott (ENG)",
+        "Catches": 250
+      },
+      {
+        "Player": "MJ Prior (ENG)",
+        "Catches": 243
+      },
+      {
+        "Player": "JM Bairstow (ENG)",
+        "Catches": 239
+      },
+      {
+        "Player": "Q de Kock (SA)",
+        "Catches": 221
+      },
+      {
+        "Player": "Wasim Bari (PAK)",
+        "Catches": 201
+      },
+      {
+        "Player": "AB de Villiers (SA)",
+        "Catches": 222
+      },
+      {
+        "Player": "TG Evans (ENG)",
+        "Catches": 173
+      },
+      {
+        "Player": "RD Jacobs (WI)",
+        "Catches": 207
+      },
+      {
+        "Player": "D Ramdin (WI)",
+        "Catches": 205
+      },
+      {
+        "Player": "R Dravid (ICC/IND)",
+        "Catches": 210
+      },
+      {
+        "Player": "BB McCullum (NZ)",
+        "Catches": 198
+      },
+      {
+        "Player": "Kamran Akmal (PAK)",
+        "Catches": 184
+      },
+      {
+        "Player": "DPMD Jayawardene (SL)",
+        "Catches": 205
+      },
+      {
+        "Player": "AC Parore (NZ)",
+        "Catches": 197
+      },
+      {
+        "Player": "KC Sangakkara (SL)",
+        "Catches": 182
+      },
+      {
+        "Player": "JH Kallis (ICC/SA)",
+        "Catches": 200
+      },
+      {
+        "Player": "SMH Kirmani (IND)",
+        "Catches": 160
+      },
+      {
+        "Player": "RT Ponting (AUS)",
+        "Catches": 196
+      },
+      {
+        "Player": "DL Murray (WI)",
+        "Catches": 181
+      },
+      {
+        "Player": "ATW Grout (AUS)",
+        "Catches": 163
+      },
+      {
+        "Player": "JE Root (ENG)",
+        "Catches": 183
+      },
+      {
+        "Player": "ME Waugh (AUS)",
+        "Catches": 181
+      },
+      {
+        "Player": "Sarfaraz Ahmed (PAK)",
+        "Catches": 157
+      },
+      {
+        "Player": "IDS Smith (NZ)",
+        "Catches": 168
+      },
+      {
+        "Player": "AN Cook (ENG)",
+        "Catches": 175
+      },
+      {
+        "Player": "RW Taylor (ENG)",
+        "Catches": 167
+      },
+      {
+        "Player": "SP Fleming (NZ)",
+        "Catches": 171
+      },
+      {
+        "Player": "GC Smith (ICC/SA)",
+        "Catches": 169
+      },
+      {
+        "Player": "SPD Smith (AUS)",
+        "Catches": 168
+      },
+      {
+        "Player": "RC Russell (ENG)",
+        "Catches": 153
+      },
+      {
+        "Player": "BC Lara (ICC/WI)",
+        "Catches": 164
+      },
+      {
+        "Player": "LRPL Taylor (NZ)",
+        "Catches": 163
+      },
+      {
+        "Player": "N Dickwella (SL)",
+        "Catches": 134
+      },
+      {
+        "Player": "A Flower (ZIM)",
+        "Catches": 151
+      },
+      {
+        "Player": "TD Paine (AUS)",
+        "Catches": 150
+      },
+      {
+        "Player": "MA Taylor (AUS)",
+        "Catches": 157
+      },
+      {
+        "Player": "AR Border (AUS)",
+        "Catches": 156
+      },
+      {
+        "Player": "HAPW Jayawardene (SL)",
+        "Catches": 124
+      },
+      {
+        "Player": "JC Buttler (ENG)",
+        "Catches": 153
+      },
+      {
+        "Player": "DJ Richardson (SA)",
+        "Catches": 150
+      },
+      {
+        "Player": "Moin Khan (PAK)",
+        "Catches": 128
+      },
+      {
+        "Player": "JHB Waite (SA)",
+        "Catches": 124
+      },
+      {
+        "Player": "Younis Khan (PAK)",
+        "Catches": 139
+      },
+      {
+        "Player": "VVS Laxman (IND)",
+        "Catches": 135
+      },
+      {
+        "Player": "MJ Clarke (AUS)",
+        "Catches": 134
+      },
+      {
+        "Player": "GO Jones (ENG)",
+        "Catches": 128
+      },
+      {
+        "Player": "RR Pant (IND)",
+        "Catches": 119
+      },
+      {
+        "Player": "KS More (IND)",
+        "Catches": 110
+      },
+      {
+        "Player": "WAS Oldfield (AUS)",
+        "Catches": 78
+      },
+      {
+        "Player": "Rashid Latif (PAK)",
+        "Catches": 119
+      },
+      {
+        "Player": "ML Hayden (AUS)",
+        "Catches": 128
+      },
+      {
+        "Player": "Mushfiqur Rahim (BAN)",
+        "Catches": 110
+      },
+      {
+        "Player": "SK Warne (AUS)",
+        "Catches": 125
+      },
+      {
+        "Player": "HP Tillakaratne (SL)",
+        "Catches": 122
+      },
+      {
+        "Player": "GS Chappell (AUS)",
+        "Catches": 122
+      },
+      {
+        "Player": "IVA Richards (WI)",
+        "Catches": 122
+      },
+      {
+        "Player": "AJ Strauss (ENG)",
+        "Catches": 121
+      },
+      {
+        "Player": "IT Botham (ENG)",
+        "Catches": 120
+      },
+      {
+        "Player": "MC Cowdrey (ENG)",
+        "Catches": 120
+      },
+      {
+        "Player": "RS Kaluwitharana (SL)",
+        "Catches": 93
+      },
+      {
+        "Player": "CL Hooper (WI)",
+        "Catches": 115
+      },
+      {
+        "Player": "SR Tendulkar (IND)",
+        "Catches": 115
+      },
+      {
+        "Player": "JM Parks (ENG)",
+        "Catches": 103
+      },
+      {
+        "Player": "SR Waugh (AUS)",
+        "Catches": 112
+      },
+      {
+        "Player": "WR Hammond (ENG)",
+        "Catches": 110
+      },
+      {
+        "Player": "V Kohli (IND)",
+        "Catches": 110
+      },
+      {
+        "Player": "RB Simpson (AUS)",
+        "Catches": 110
+      },
+      {
+        "Player": "GS Sobers (WI)",
+        "Catches": 109
+      },
+      {
+        "Player": "HM Amla (SA)",
+        "Catches": 108
+      },
+      {
+        "Player": "SM Gavaskar (IND)",
+        "Catches": 108
+      },
+      {
+        "Player": "NR Mongia (IND)",
+        "Catches": 99
+      },
+      {
+        "Player": "JM Anderson (ENG)",
+        "Catches": 105
+      },
+      {
+        "Player": "M Azharuddin (IND)",
+        "Catches": 105
+      },
+      {
+        "Player": "IM Chappell (AUS)",
+        "Catches": 105
+      },
+      {
+        "Player": "GP Thorpe (ENG)",
+        "Catches": 105
+      },
+      {
+        "Player": "WP Saha (IND)",
+        "Catches": 92
+      },
+      {
+        "Player": "Saleem Yousuf (PAK)",
+        "Catches": 91
+      },
+      {
+        "Player": "GA Gooch (ENG)",
+        "Catches": 103
+      },
+      {
+        "Player": "JR Murray (WI)",
+        "Catches": 99
+      },
+      {
+        "Player": "AM Rahane (IND)",
+        "Catches": 102
+      },
+      {
+        "Player": "BA Stokes (ENG)",
+        "Catches": 102
+      },
+      {
+        "Player": "IR Bell (ENG)",
+        "Catches": 100
+      },
+      {
+        "Player": "DC Boon (AUS)",
+        "Catches": 99
+      },
+      {
+        "Player": "J Da Silva (WI)",
+        "Catches": 92
+      },
+      {
+        "Player": "GRA Langley (AUS)",
+        "Catches": 83
+      },
+      {
+        "Player": "LEG Ames (ENG)",
+        "Catches": 74
+      },
+      {
+        "Player": "PD Collingwood (ENG)",
+        "Catches": 96
+      },
+      {
+        "Player": "CH Gayle (WI)",
+        "Catches": 96
+      },
+      {
+        "Player": "CG Greenidge (WI)",
+        "Catches": 96
+      },
+      {
+        "Player": "KJ Wadsworth (NZ)",
+        "Catches": 92
+      },
+      {
+        "Player": "ME Trescothick (ENG)",
+        "Catches": 95
+      },
+      {
+        "Player": "AT Carey (AUS)",
+        "Catches": 87
+      },
+      {
+        "Player": "HH Gibbs (SA)",
+        "Catches": 94
+      },
+      {
+        "Player": "Javed Miandad (PAK)",
+        "Catches": 93
+      },
+      {
+        "Player": "LD Chandimal (SL)",
+        "Catches": 83
+      },
+      {
+        "Player": "Imtiaz Ahmed (PAK)",
+        "Catches": 77
+      },
+      {
+        "Player": "AFA Lilley (ENG)",
+        "Catches": 70
+      },
+      {
+        "Player": "D Elgar (SA)",
+        "Catches": 91
+      },
+      {
+        "Player": "V Sehwag (ICC/IND)",
+        "Catches": 91
+      },
+      {
+        "Player": "FCM Alexander (WI)",
+        "Catches": 85
+      },
+      {
+        "Player": "SO Dowrich (WI)",
+        "Catches": 85
+      },
+      {
+        "Player": "GA Hick (ENG)",
+        "Catches": 90
+      },
+      {
+        "Player": "CH Lloyd (WI)",
+        "Catches": 90
+      },
+      {
+        "Player": "RB Richardson (WI)",
+        "Catches": 90
+      },
+      {
+        "Player": "TM Dilshan (SL)",
+        "Catches": 88
+      },
+      {
+        "Player": "AW Greig (ENG)",
+        "Catches": 87
+      },
+      {
+        "Player": "Khaled Mashud (BAN)",
+        "Catches": 78
+      },
+      {
+        "Player": "TWM Latham (NZ)",
+        "Catches": 86
+      },
+      {
+        "Player": "MEK Hussey (AUS)",
+        "Catches": 85
+      },
+      {
+        "Player": "BKG Mendis (SL)",
+        "Catches": 85
+      },
+      {
+        "Player": "MS Wade (AUS)",
+        "Catches": 74
+      },
+      {
+        "Player": "DA Warner (AUS)",
+        "Catches": 85
+      },
+      {
+        "Player": "MA Atherton (ENG)",
+        "Catches": 83
+      },
+      {
+        "Player": "G Kirsten (SA)",
+        "Catches": 83
+      },
+      {
+        "Player": "IR Redpath (AUS)",
+        "Catches": 83
+      },
+      {
+        "Player": "FM Engineer (IND)",
+        "Catches": 66
+      },
+      {
+        "Player": "KS Williamson (NZ)",
+        "Catches": 82
+      },
+      {
+        "Player": "CO Browne (WI)",
+        "Catches": 79
+      },
+      {
+        "Player": "Inzamam-ul-Haq (ICC/PAK)",
+        "Catches": 81
+      },
+      {
+        "Player": "TW Graveney (ENG)",
+        "Catches": 80
+      },
+      {
+        "Player": "Litton Das (BAN)",
+        "Catches": 72
+      },
+      {
+        "Player": "TA Blundell (NZ)",
+        "Catches": 68
+      },
+      {
+        "Player": "ST Jayasuriya (SL)",
+        "Catches": 78
+      },
+      {
+        "Player": "DB Vengsarkar (IND)",
+        "Catches": 78
+      },
+      {
+        "Player": "Adnan Akmal (PAK)",
+        "Catches": 66
+      },
+      {
+        "Player": "Asad Shafiq (PAK)",
+        "Catches": 77
+      },
+      {
+        "Player": "PR Downton (ENG)",
+        "Catches": 70
+      },
+      {
+        "Player": "AJ Lamb (ENG)",
+        "Catches": 75
+      },
+      {
+        "Player": "DI Gower (ENG)",
+        "Catches": 74
+      },
+      {
+        "Player": "JL Langer (AUS)",
+        "Catches": 73
+      },
+      {
+        "Player": "AD Mathews (SL)",
+        "Catches": 73
+      },
+      {
+        "Player": "Mohammad Rizwan (PAK)",
+        "Catches": 70
+      },
+      {
+        "Player": "TG Southee (NZ)",
+        "Catches": 73
+      },
+      {
+        "Player": "H Strudwick (ENG)",
+        "Catches": 61
+      },
+      {
+        "Player": "M Muralidaran (ICC/SL)",
+        "Catches": 72
+      },
+      {
+        "Player": "PA Patel (IND)",
+        "Catches": 62
+      },
+      {
+        "Player": "SM Pollock (SA)",
+        "Catches": 72
+      },
+      {
+        "Player": "MD Crowe (NZ)",
+        "Catches": 71
+      },
+      {
+        "Player": "SC Ganguly (IND)",
+        "Catches": 71
+      },
+      {
+        "Player": "NJ Astle (NZ)",
+        "Catches": 70
+      },
+      {
+        "Player": "Majid Khan (PAK)",
+        "Catches": 70
+      },
+      {
+        "Player": "DJ Cullinan (SA)",
+        "Catches": 67
+      },
+      {
+        "Player": "N Hussain (ENG)",
+        "Catches": 67
+      },
+      {
+        "Player": "Azhar Ali (PAK)",
+        "Catches": 66
+      },
+      {
+        "Player": "S Chanderpaul (WI)",
+        "Catches": 66
+      },
+      {
+        "Player": "CA Pujara (IND)",
+        "Catches": 66
+      },
+      {
+        "Player": "R Benaud (AUS)",
+        "Catches": 65
+      },
+      {
+        "Player": "H Carter (AUS)",
+        "Catches": 44
+      },
+      {
+        "Player": "DL Haynes (WI)",
+        "Catches": 65
+      },
+      {
+        "Player": "Mohammad Yousuf (PAK)",
+        "Catches": 65
+      },
+      {
+        "Player": "Saleem Malik (PAK)",
+        "Catches": 65
+      },
+      {
+        "Player": "DJG Sammy (WI)",
+        "Catches": 65
+      },
+      {
+        "Player": "JV Coney (NZ)",
+        "Catches": 64
+      },
+      {
+        "Player": "DM de Silva (SL)",
+        "Catches": 64
+      },
+      {
+        "Player": "RN Harvey (AUS)",
+        "Catches": 64
+      },
+      {
+        "Player": "N Kapil Dev (IND)",
+        "Catches": 64
+      },
+      {
+        "Player": "FS Trueman (ENG)",
+        "Catches": 64
+      },
+      {
+        "Player": "CL Walcott (WI)",
+        "Catches": 53
+      },
+      {
+        "Player": "FE Woolley (ENG)",
+        "Catches": 64
+      },
+      {
+        "Player": "F du Plessis (SA)",
+        "Catches": 63
+      },
+      {
+        "Player": "BT Foakes (ENG)",
+        "Catches": 57
+      },
+      {
+        "Player": "KD Karthik (IND)",
+        "Catches": 57
+      },
+      {
+        "Player": "JJ Kelly (AUS)",
+        "Catches": 43
+      },
+      {
+        "Player": "PM Nevill (AUS)",
+        "Catches": 61
+      },
+      {
+        "Player": "GR Viswanath (IND)",
+        "Catches": 63
+      },
+      {
+        "Player": "RC Fredericks (WI)",
+        "Catches": 62
+      },
+      {
+        "Player": "JO Holder (WI)",
+        "Catches": 62
+      },
+      {
+        "Player": "DA Murray (WI)",
+        "Catches": 57
+      },
+      {
+        "Player": "KP Pietersen (ENG)",
+        "Catches": 62
+      },
+      {
+        "Player": "T Taibu (ZIM)",
+        "Catches": 57
+      },
+      {
+        "Player": "JM Blackham (AUS)",
+        "Catches": 37
+      },
+      {
+        "Player": "MA Butcher (ENG)",
+        "Catches": 61
+      },
+      {
+        "Player": "ADR Campbell (ZIM)",
+        "Catches": 60
+      },
+      {
+        "Player": "G Duckworth (ENG)",
+        "Catches": 45
+      },
+      {
+        "Player": "A Kumble (IND)",
+        "Catches": 60
+      },
+      {
+        "Player": "W Rhodes (ENG)",
+        "Catches": 60
+      },
+      {
+        "Player": "HB Taber (AUS)",
+        "Catches": 56
+      },
+      {
+        "Player": "MW Gatting (ENG)",
+        "Catches": 59
+      },
+      {
+        "Player": "WK Lees (NZ)",
+        "Catches": 52
+      },
+      {
+        "Player": "DT Lindsay (SA)",
+        "Catches": 57
+      },
+      {
+        "Player": "GAR Lock (ENG)",
+        "Catches": 59
+      },
+      {
+        "Player": "MS Atapattu (SL)",
+        "Catches": 58
+      },
+      {
+        "Player": "KF Barrington (ENG)",
+        "Catches": 58
+      },
+      {
+        "Player": "NM Lyon (AUS)",
+        "Catches": 58
+      },
+      {
+        "Player": "D Tallon (AUS)",
+        "Catches": 50
+      },
+      {
+        "Player": "DL Vettori (ICC/NZ)",
+        "Catches": 58
+      },
+      {
+        "Player": "L Hutton (ENG)",
+        "Catches": 57
+      },
+      {
+        "Player": "AL Logie (WI)",
+        "Catches": 57
+      },
+      {
+        "Player": "FDM Karunaratne (SL)",
+        "Catches": 56
+      },
+      {
+        "Player": "RS Mahanama (SL)",
+        "Catches": 56
+      },
+      {
+        "Player": "B Mitchell (SA)",
+        "Catches": 56
+      },
+      {
+        "Player": "SCJ Broad (ENG)",
+        "Catches": 55
+      },
+      {
+        "Player": "JT Murray (ENG)",
+        "Catches": 52
+      },
+      {
+        "Player": "KWR Fletcher (ENG)",
+        "Catches": 54
+      },
+      {
+        "Player": "SD Hope (WI)",
+        "Catches": 53
+      },
+      {
+        "Player": "BN Jarman (AUS)",
+        "Catches": 50
+      },
+      {
+        "Player": "ND McKenzie (SA)",
+        "Catches": 54
+      },
+      {
+        "Player": "KL Rahul (IND)",
+        "Catches": 54
+      },
+      {
+        "Player": "CMW Read (ENG)",
+        "Catches": 48
+      },
+      {
+        "Player": "GP Swann (ENG)",
+        "Catches": 54
+      },
+      {
+        "Player": "BA Young (NZ)",
+        "Catches": 54
+      },
+      {
+        "Player": "RR Sarwan (WI)",
+        "Catches": 53
+      },
+      {
+        "Player": "MJK Smith (ENG)",
+        "Catches": 53
+      },
+      {
+        "Player": "ED Solkar (IND)",
+        "Catches": 53
+      },
+      {
+        "Player": "JM Brearley (ENG)",
+        "Catches": 52
+      },
+      {
+        "Player": "A Flintoff (ENG/ICC)",
+        "Catches": 52
+      },
+      {
+        "Player": "LR Gibbs (WI)",
+        "Catches": 52
+      },
+      {
+        "Player": "WB Phillips (AUS)",
+        "Catches": 52
+      },
+      {
+        "Player": "RP Arnold (SL)",
+        "Catches": 51
+      },
+      {
+        "Player": "DM Bravo (WI)",
+        "Catches": 51
+      },
+      {
+        "Player": "HB Cameron (SA)",
+        "Catches": 39
+      },
+      {
+        "Player": "RW Chakabva (ZIM)",
+        "Catches": 46
+      },
+      {
+        "Player": "AE Dick (NZ)",
+        "Catches": 47
+      },
+      {
+        "Player": "AI Kallicharran (WI)",
+        "Catches": 51
+      },
+      {
+        "Player": "RG Sharma (IND)",
+        "Catches": 51
+      },
+      {
+        "Player": "NS Tamhane (IND)",
+        "Catches": 35
+      },
+      {
+        "Player": "Z Crawley (ENG)",
+        "Catches": 50
+      },
+      {
+        "Player": "MJ Guptill (NZ)",
+        "Catches": 50
+      },
+      {
+        "Player": "KJ Hughes (AUS)",
+        "Catches": 50
+      },
+      {
+        "Player": "RB Kanhai (WI)",
+        "Catches": 50
+      },
+      {
+        "Player": "Misbah-ul-Haq (PAK)",
+        "Catches": 50
+      },
+      {
+        "Player": "DCS Compton (ENG)",
+        "Catches": 49
+      },
+      {
+        "Player": "BM McMillan (SA)",
+        "Catches": 49
+      },
+      {
+        "Player": "OJ Pope (ENG)",
+        "Catches": 48
+      },
+      {
+        "Player": "SJ Rhodes (ENG)",
+        "Catches": 46
+      },
+      {
+        "Player": "M Vijay (IND)",
+        "Catches": 49
+      },
+      {
+        "Player": "ED Weekes (WI)",
+        "Catches": 49
+      },
+      {
+        "Player": "JC Adams (WI)",
+        "Catches": 48
+      },
+      {
+        "Player": "CS Baugh (WI)",
+        "Catches": 43
+      },
+      {
+        "Player": "TL Goddard (SA)",
+        "Catches": 48
+      },
+      {
+        "Player": "Mudassar Nazar (PAK)",
+        "Catches": 48
+      },
+      {
+        "Player": "Taufeeq Umar (PAK)",
+        "Catches": 48
+      },
+      {
+        "Player": "M Amarnath (IND)",
+        "Catches": 47
+      },
+      {
+        "Player": "SL Campbell (WI)",
+        "Catches": 47
+      },
+      {
+        "Player": "JL Hendriks (WI)",
+        "Catches": 42
+      },
+      {
+        "Player": "UT Khawaja (AUS)",
+        "Catches": 47
+      },
+      {
+        "Player": "AG Prince (SA)",
+        "Catches": 47
+      },
+      {
+        "Player": "A Ranatunga (SL)",
+        "Catches": 47
+      },
+      {
+        "Player": "SJ Rixon (AUS)",
+        "Catches": 42
+      },
+      {
+        "Player": "KR Stackpole (AUS)",
+        "Catches": 47
+      },
+      {
+        "Player": "AL Wadekar (IND)",
+        "Catches": 46
+      }
+    ],
+    "partnership":[
+      {
+        "Player": "R Dravid and SR Tendulkar (IND)",
+        "Total Partnership Runs": 6920,
+        "Highest Partnership Runs": 249,
+        "Centuries": 20,
+        "Fifties": 29
+      },
+      {
+        "Player": "DPMD Jayawardene and KC Sangakkara (SL)",
+        "Total Partnership Runs": 6554,
+        "Highest Partnership Runs": 624,
+        "Centuries": 19,
+        "Fifties": 27
+      },
+      {
+        "Player": "CG Greenidge and DL Haynes (WI)",
+        "Total Partnership Runs": 6482,
+        "Highest Partnership Runs": 298,
+        "Centuries": 16,
+        "Fifties": 26
+      },
+      {
+        "Player": "ML Hayden and JL Langer (AUS)",
+        "Total Partnership Runs": 6081,
+        "Highest Partnership Runs": 255,
+        "Centuries": 14,
+        "Fifties": 28
+      },
+      {
+        "Player": "AN Cook and AJ Strauss (ENG)",
+        "Total Partnership Runs": 5253,
+        "Highest Partnership Runs": 229,
+        "Centuries": 14,
+        "Fifties": 21
+      },
+      {
+        "Player": "ML Hayden and RT Ponting (AUS)",
+        "Total Partnership Runs": 4765,
+        "Highest Partnership Runs": 272,
+        "Centuries": 16,
+        "Fifties": 22
+      },
+      {
+        "Player": "MS Atapattu and ST Jayasuriya (SL)",
+        "Total Partnership Runs": 4533,
+        "Highest Partnership Runs": 335,
+        "Centuries": 9,
+        "Fifties": 24
+      },
+      {
+        "Player": "G Gambhir and V Sehwag (IND)",
+        "Total Partnership Runs": 4412,
+        "Highest Partnership Runs": 233,
+        "Centuries": 11,
+        "Fifties": 25
+      },
+      {
+        "Player": "SC Ganguly and SR Tendulkar (IND)",
+        "Total Partnership Runs": 4173,
+        "Highest Partnership Runs": 281,
+        "Centuries": 12,
+        "Fifties": 16
+      },
+      {
+        "Player": "R Dravid and VVS Laxman (IND)",
+        "Total Partnership Runs": 4065,
+        "Highest Partnership Runs": 376,
+        "Centuries": 12,
+        "Fifties": 14
+      },
+      {
+        "Player": "HM Amla and JH Kallis (SA)",
+        "Total Partnership Runs": 3923,
+        "Highest Partnership Runs": 377,
+        "Centuries": 11,
+        "Fifties": 10
+      },
+      {
+        "Player": "MJ Slater and MA Taylor (AUS)",
+        "Total Partnership Runs": 3887,
+        "Highest Partnership Runs": 260,
+        "Centuries": 10,
+        "Fifties": 16
+      },
+      {
+        "Player": "LRPL Taylor and KS Williamson (NZ)",
+        "Total Partnership Runs": 3882,
+        "Highest Partnership Runs": 265,
+        "Centuries": 10,
+        "Fifties": 19
+      },
+      {
+        "Player": "MA Atherton and AJ Stewart (ENG)",
+        "Total Partnership Runs": 3687,
+        "Highest Partnership Runs": 226,
+        "Centuries": 9,
+        "Fifties": 20
+      },
+      {
+        "Player": "V Kohli and AM Rahane (IND)",
+        "Total Partnership Runs": 3661,
+        "Highest Partnership Runs": 365,
+        "Centuries": 10,
+        "Fifties": 17
+      },
+      {
+        "Player": "HM Amla and GC Smith (SA)",
+        "Total Partnership Runs": 3658,
+        "Highest Partnership Runs": 259,
+        "Centuries": 10,
+        "Fifties": 12
+      },
+      {
+        "Player": "DL Haynes and RB Richardson (WI)",
+        "Total Partnership Runs": 3650,
+        "Highest Partnership Runs": 297,
+        "Centuries": 11,
+        "Fifties": 16
+      },
+      {
+        "Player": "WM Lawry and RB Simpson (AUS)",
+        "Total Partnership Runs": 3600,
+        "Highest Partnership Runs": 382,
+        "Centuries": 9,
+        "Fifties": 18
+      },
+      {
+        "Player": "JH Kallis and G Kirsten (SA)",
+        "Total Partnership Runs": 3592,
+        "Highest Partnership Runs": 249,
+        "Centuries": 9,
+        "Fifties": 17
+      },
+      {
+        "Player": "DC Boon and MA Taylor (AUS)",
+        "Total Partnership Runs": 3583,
+        "Highest Partnership Runs": 221,
+        "Centuries": 8,
+        "Fifties": 20
+      },
+      {
+        "Player": "AN Cook and KP Pietersen (ENG)",
+        "Total Partnership Runs": 3558,
+        "Highest Partnership Runs": 206,
+        "Centuries": 13,
+        "Fifties": 15
+      },
+      {
+        "Player": "ME Trescothick and MP Vaughan (ENG)",
+        "Total Partnership Runs": 3529,
+        "Highest Partnership Runs": 255,
+        "Centuries": 10,
+        "Fifties": 19
+      },
+      {
+        "Player": "VVS Laxman and SR Tendulkar (IND)",
+        "Total Partnership Runs": 3523,
+        "Highest Partnership Runs": 353,
+        "Centuries": 9,
+        "Fifties": 19
+      },
+      {
+        "Player": "V Kohli and CA Pujara (IND)",
+        "Total Partnership Runs": 3513,
+        "Highest Partnership Runs": 226,
+        "Centuries": 7,
+        "Fifties": 18
+      },
+      {
+        "Player": "JL Langer and RT Ponting (AUS)",
+        "Total Partnership Runs": 3451,
+        "Highest Partnership Runs": 327,
+        "Centuries": 14,
+        "Fifties": 12
+      },
+      {
+        "Player": "ME Waugh and SR Waugh (AUS)",
+        "Total Partnership Runs": 3435,
+        "Highest Partnership Runs": 231,
+        "Centuries": 9,
+        "Fifties": 19
+      },
+      {
+        "Player": "R Dravid and V Sehwag (ICC/IND)",
+        "Total Partnership Runs": 3405,
+        "Highest Partnership Runs": 410,
+        "Centuries": 10,
+        "Fifties": 11
+      },
+      {
+        "Player": "MJ Clarke and MEK Hussey (AUS)",
+        "Total Partnership Runs": 3372,
+        "Highest Partnership Runs": 334,
+        "Centuries": 9,
+        "Fifties": 13
+      },
+      {
+        "Player": "JB Hobbs and H Sutcliffe (ENG)",
+        "Total Partnership Runs": 3339,
+        "Highest Partnership Runs": 283,
+        "Centuries": 15,
+        "Fifties": 11
+      },
+      {
+        "Player": "R Dravid and SC Ganguly (IND)",
+        "Total Partnership Runs": 3294,
+        "Highest Partnership Runs": 194,
+        "Centuries": 10,
+        "Fifties": 12
+      },
+      {
+        "Player": "HH Gibbs and GC Smith (SA)",
+        "Total Partnership Runs": 3274,
+        "Highest Partnership Runs": 368,
+        "Centuries": 7,
+        "Fifties": 13
+      },
+      {
+        "Player": "SM Gavaskar and DB Vengsarkar (IND)",
+        "Total Partnership Runs": 3272,
+        "Highest Partnership Runs": 344,
+        "Centuries": 10,
+        "Fifties": 12
+      },
+      {
+        "Player": "DPMD Jayawardene and TT Samaraweera (SL)",
+        "Total Partnership Runs": 3247,
+        "Highest Partnership Runs": 437,
+        "Centuries": 11,
+        "Fifties": 9
+      },
+      {
+        "Player": "Misbah-ul-Haq and Younis Khan (PAK)",
+        "Total Partnership Runs": 3213,
+        "Highest Partnership Runs": 218,
+        "Centuries": 15,
+        "Fifties": 7
+      },
+      {
+        "Player": "BC Lara and RR Sarwan (WI)",
+        "Total Partnership Runs": 3198,
+        "Highest Partnership Runs": 232,
+        "Centuries": 12,
+        "Fifties": 8
+      },
+      {
+        "Player": "Mohammad Yousuf and Younis Khan (PAK)",
+        "Total Partnership Runs": 3137,
+        "Highest Partnership Runs": 363,
+        "Centuries": 9,
+        "Fifties": 12
+      },
+      {
+        "Player": "CPS Chauhan and SM Gavaskar (IND)",
+        "Total Partnership Runs": 3127,
+        "Highest Partnership Runs": 213,
+        "Centuries": 11,
+        "Fifties": 10
+      },
+      {
+        "Player": "AB de Villiers and JH Kallis (SA)",
+        "Total Partnership Runs": 3108,
+        "Highest Partnership Runs": 256,
+        "Centuries": 13,
+        "Fifties": 7
+      },
+      {
+        "Player": "MA Atherton and GA Gooch (ENG)",
+        "Total Partnership Runs": 3048,
+        "Highest Partnership Runs": 263,
+        "Centuries": 9,
+        "Fifties": 12
+      },
+      {
+        "Player": "IR Bell and KP Pietersen (ENG)",
+        "Total Partnership Runs": 3028,
+        "Highest Partnership Runs": 350,
+        "Centuries": 10,
+        "Fifties": 8
+      },
+      {
+        "Player": "Inzamam-ul-Haq and Mohammad Yousuf (PAK)",
+        "Total Partnership Runs": 3013,
+        "Highest Partnership Runs": 259,
+        "Centuries": 10,
+        "Fifties": 13
+      },
+      {
+        "Player": "HH Gibbs and G Kirsten (SA)",
+        "Total Partnership Runs": 2949,
+        "Highest Partnership Runs": 256,
+        "Centuries": 8,
+        "Fifties": 11
+      },
+      {
+        "Player": "L Hutton and C Washbrook (ENG)",
+        "Total Partnership Runs": 2900,
+        "Highest Partnership Runs": 359,
+        "Centuries": 8,
+        "Fifties": 13
+      },
+      {
+        "Player": "CA Pujara and M Vijay (IND)",
+        "Total Partnership Runs": 2813,
+        "Highest Partnership Runs": 370,
+        "Centuries": 10,
+        "Fifties": 9
+      },
+      {
+        "Player": "PA de Silva and A Ranatunga (SL)",
+        "Total Partnership Runs": 2812,
+        "Highest Partnership Runs": 189,
+        "Centuries": 11,
+        "Fifties": 11
+      },
+      {
+        "Player": "Mushfiqur Rahim and Shakib Al Hasan (BAN)",
+        "Total Partnership Runs": 2802,
+        "Highest Partnership Runs": 359,
+        "Centuries": 5,
+        "Fifties": 17
+      },
+      {
+        "Player": "TWM Latham and KS Williamson (NZ)",
+        "Total Partnership Runs": 2794,
+        "Highest Partnership Runs": 165,
+        "Centuries": 9,
+        "Fifties": 12
+      },
+      {
+        "Player": "AN Cook and IJL Trott (ENG)",
+        "Total Partnership Runs": 2711,
+        "Highest Partnership Runs": 329,
+        "Centuries": 10,
+        "Fifties": 6
+      },
+      {
+        "Player": "AJ Strauss and ME Trescothick (ENG)",
+        "Total Partnership Runs": 2670,
+        "Highest Partnership Runs": 273,
+        "Centuries": 8,
+        "Fifties": 12
+      },
+      {
+        "Player": "PD Collingwood and KP Pietersen (ENG)",
+        "Total Partnership Runs": 2642,
+        "Highest Partnership Runs": 310,
+        "Centuries": 9,
+        "Fifties": 10
+      },
+      {
+        "Player": "HM Amla and AB de Villiers (SA)",
+        "Total Partnership Runs": 2632,
+        "Highest Partnership Runs": 308,
+        "Centuries": 7,
+        "Fifties": 13
+      },
+      {
+        "Player": "Azhar Ali and Younis Khan (PAK)",
+        "Total Partnership Runs": 2628,
+        "Highest Partnership Runs": 250,
+        "Centuries": 8,
+        "Fifties": 9
+      },
+      {
+        "Player": "JM Bairstow and JE Root (ENG)",
+        "Total Partnership Runs": 2623,
+        "Highest Partnership Runs": 269,
+        "Centuries": 12,
+        "Fifties": 6
+      },
+      {
+        "Player": "S Chanderpaul and BC Lara (WI)",
+        "Total Partnership Runs": 2621,
+        "Highest Partnership Runs": 219,
+        "Centuries": 9,
+        "Fifties": 9
+      },
+      {
+        "Player": "MA Butcher and N Hussain (ENG)",
+        "Total Partnership Runs": 2610,
+        "Highest Partnership Runs": 189,
+        "Centuries": 9,
+        "Fifties": 7
+      },
+      {
+        "Player": "UT Khawaja and DA Warner (AUS)",
+        "Total Partnership Runs": 2555,
+        "Highest Partnership Runs": 302,
+        "Centuries": 5,
+        "Fifties": 14
+      },
+      {
+        "Player": "JM Bairstow and BA Stokes (ENG)",
+        "Total Partnership Runs": 2554,
+        "Highest Partnership Runs": 399,
+        "Centuries": 5,
+        "Fifties": 11
+      },
+      {
+        "Player": "LD Chandimal and AD Mathews (SL)",
+        "Total Partnership Runs": 2531,
+        "Highest Partnership Runs": 199,
+        "Centuries": 7,
+        "Fifties": 12
+      },
+      {
+        "Player": "R Dravid and G Gambhir (IND)",
+        "Total Partnership Runs": 2530,
+        "Highest Partnership Runs": 314,
+        "Centuries": 7,
+        "Fifties": 9
+      },
+      {
+        "Player": "AN Cook and JE Root (ENG)",
+        "Total Partnership Runs": 2513,
+        "Highest Partnership Runs": 259,
+        "Centuries": 9,
+        "Fifties": 6
+      },
+      {
+        "Player": "DC Boon and GR Marsh (AUS)",
+        "Total Partnership Runs": 2500,
+        "Highest Partnership Runs": 217,
+        "Centuries": 6,
+        "Fifties": 12
+      },
+      {
+        "Player": "Imrul Kayes and Tamim Iqbal (BAN)",
+        "Total Partnership Runs": 2433,
+        "Highest Partnership Runs": 312,
+        "Centuries": 4,
+        "Fifties": 11
+      },
+      {
+        "Player": "DC Boon and AR Border (AUS)",
+        "Total Partnership Runs": 2397,
+        "Highest Partnership Runs": 170,
+        "Centuries": 8,
+        "Fifties": 8
+      },
+      {
+        "Player": "UT Khawaja and SPD Smith (AUS)",
+        "Total Partnership Runs": 2388,
+        "Highest Partnership Runs": 209,
+        "Centuries": 10,
+        "Fifties": 9
+      },
+      {
+        "Player": "M Azharuddin and SR Tendulkar (IND)",
+        "Total Partnership Runs": 2385,
+        "Highest Partnership Runs": 222,
+        "Centuries": 9,
+        "Fifties": 5
+      },
+      {
+        "Player": "M Amarnath and SM Gavaskar (IND)",
+        "Total Partnership Runs": 2366,
+        "Highest Partnership Runs": 224,
+        "Centuries": 10,
+        "Fifties": 7
+      },
+      {
+        "Player": "GA Gooch and DI Gower (ENG)",
+        "Total Partnership Runs": 2355,
+        "Highest Partnership Runs": 351,
+        "Centuries": 8,
+        "Fifties": 8
+      },
+      {
+        "Player": "JH Kallis and AG Prince (SA)",
+        "Total Partnership Runs": 2344,
+        "Highest Partnership Runs": 267,
+        "Centuries": 6,
+        "Fifties": 11
+      },
+      {
+        "Player": "MJ Clarke and RT Ponting (AUS)",
+        "Total Partnership Runs": 2330,
+        "Highest Partnership Runs": 386,
+        "Centuries": 5,
+        "Fifties": 9
+      },
+      {
+        "Player": "Majid Khan and Sadiq Mohammad (PAK)",
+        "Total Partnership Runs": 2325,
+        "Highest Partnership Runs": 195,
+        "Centuries": 6,
+        "Fifties": 14
+      },
+      {
+        "Player": "AR Border and DM Jones (AUS)",
+        "Total Partnership Runs": 2304,
+        "Highest Partnership Runs": 214,
+        "Centuries": 9,
+        "Fifties": 8
+      },
+      {
+        "Player": "JB Hobbs and W Rhodes (ENG)",
+        "Total Partnership Runs": 2294,
+        "Highest Partnership Runs": 323,
+        "Centuries": 8,
+        "Fifties": 6
+      },
+      {
+        "Player": "MS Atapattu and KC Sangakkara (SL)",
+        "Total Partnership Runs": 2290,
+        "Highest Partnership Runs": 438,
+        "Centuries": 6,
+        "Fifties": 9
+      },
+      {
+        "Player": "HH Gibbs and JH Kallis (SA)",
+        "Total Partnership Runs": 2270,
+        "Highest Partnership Runs": 315,
+        "Centuries": 5,
+        "Fifties": 11
+      },
+      {
+        "Player": "KF Barrington and ER Dexter (ENG)",
+        "Total Partnership Runs": 2265,
+        "Highest Partnership Runs": 246,
+        "Centuries": 6,
+        "Fifties": 11
+      },
+      {
+        "Player": "N Hussain and GP Thorpe (ENG)",
+        "Total Partnership Runs": 2258,
+        "Highest Partnership Runs": 288,
+        "Centuries": 8,
+        "Fifties": 5
+      },
+      {
+        "Player": "IA Healy and SR Waugh (AUS)",
+        "Total Partnership Runs": 2250,
+        "Highest Partnership Runs": 187,
+        "Centuries": 6,
+        "Fifties": 6
+      },
+      {
+        "Player": "JE Root and BA Stokes (ENG)",
+        "Total Partnership Runs": 2214,
+        "Highest Partnership Runs": 161,
+        "Centuries": 7,
+        "Fifties": 10
+      },
+      {
+        "Player": "AB de Villiers and GC Smith (SA)",
+        "Total Partnership Runs": 2213,
+        "Highest Partnership Runs": 338,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "MEK Hussey and RT Ponting (AUS)",
+        "Total Partnership Runs": 2206,
+        "Highest Partnership Runs": 209,
+        "Centuries": 7,
+        "Fifties": 11
+      },
+      {
+        "Player": "KF Barrington and MC Cowdrey (ENG)",
+        "Total Partnership Runs": 2203,
+        "Highest Partnership Runs": 193,
+        "Centuries": 8,
+        "Fifties": 9
+      },
+      {
+        "Player": "Mohsin Khan and Mudassar Nazar (PAK)",
+        "Total Partnership Runs": 2189,
+        "Highest Partnership Runs": 157,
+        "Centuries": 3,
+        "Fifties": 17
+      },
+      {
+        "Player": "CC Hunte and RB Kanhai (WI)",
+        "Total Partnership Runs": 2176,
+        "Highest Partnership Runs": 163,
+        "Centuries": 5,
+        "Fifties": 14
+      },
+      {
+        "Player": "AR Border and KJ Hughes (AUS)",
+        "Total Partnership Runs": 2175,
+        "Highest Partnership Runs": 222,
+        "Centuries": 6,
+        "Fifties": 10
+      },
+      {
+        "Player": "G Boycott and GA Gooch (ENG)",
+        "Total Partnership Runs": 2150,
+        "Highest Partnership Runs": 145,
+        "Centuries": 5,
+        "Fifties": 12
+      },
+      {
+        "Player": "FDM Karunaratne and BKG Mendis (SL)",
+        "Total Partnership Runs": 2144,
+        "Highest Partnership Runs": 281,
+        "Centuries": 4,
+        "Fifties": 10
+      },
+      {
+        "Player": "RT Ponting and SR Waugh (AUS)",
+        "Total Partnership Runs": 2136,
+        "Highest Partnership Runs": 281,
+        "Centuries": 7,
+        "Fifties": 8
+      },
+      {
+        "Player": "Javed Miandad and Mudassar Nazar (PAK)",
+        "Total Partnership Runs": 2117,
+        "Highest Partnership Runs": 451,
+        "Centuries": 10,
+        "Fifties": 3
+      },
+      {
+        "Player": "AN Petersen and GC Smith (SA)",
+        "Total Partnership Runs": 2113,
+        "Highest Partnership Runs": 153,
+        "Centuries": 6,
+        "Fifties": 9
+      },
+      {
+        "Player": "Javed Miandad and Shoaib Mohammad (PAK)",
+        "Total Partnership Runs": 2112,
+        "Highest Partnership Runs": 248,
+        "Centuries": 8,
+        "Fifties": 7
+      },
+      {
+        "Player": "M Labuschagne and SPD Smith (AUS)",
+        "Total Partnership Runs": 2107,
+        "Highest Partnership Runs": 251,
+        "Centuries": 9,
+        "Fifties": 9
+      },
+      {
+        "Player": "Asad Shafiq and Misbah-ul-Haq (PAK)",
+        "Total Partnership Runs": 2093,
+        "Highest Partnership Runs": 197,
+        "Centuries": 7,
+        "Fifties": 10
+      },
+      {
+        "Player": "S Chanderpaul and CL Hooper (WI)",
+        "Total Partnership Runs": 2083,
+        "Highest Partnership Runs": 293,
+        "Centuries": 6,
+        "Fifties": 5
+      },
+      {
+        "Player": "G Boycott and JH Edrich (ENG)",
+        "Total Partnership Runs": 2082,
+        "Highest Partnership Runs": 172,
+        "Centuries": 6,
+        "Fifties": 12
+      },
+      {
+        "Player": "DC Boon and ME Waugh (AUS)",
+        "Total Partnership Runs": 2067,
+        "Highest Partnership Runs": 175,
+        "Centuries": 11,
+        "Fifties": 6
+      },
+      {
+        "Player": "CJL Rogers and DA Warner (AUS)",
+        "Total Partnership Runs": 2053,
+        "Highest Partnership Runs": 200,
+        "Centuries": 9,
+        "Fifties": 7
+      },
+      {
+        "Player": "Javed Miandad and Zaheer Abbas (PAK)",
+        "Total Partnership Runs": 2042,
+        "Highest Partnership Runs": 287,
+        "Centuries": 6,
+        "Fifties": 9
+      },
+      {
+        "Player": "MS Atapattu and DPMD Jayawardene (SL)",
+        "Total Partnership Runs": 2025,
+        "Highest Partnership Runs": 206,
+        "Centuries": 8,
+        "Fifties": 6
+      },
+      {
+        "Player": "TM Dilshan and KC Sangakkara (SL)",
+        "Total Partnership Runs": 2002,
+        "Highest Partnership Runs": 225,
+        "Centuries": 7,
+        "Fifties": 6
+      },
+      {
+        "Player": "SM Katich and RT Ponting (AUS)",
+        "Total Partnership Runs": 1996,
+        "Highest Partnership Runs": 239,
+        "Centuries": 7,
+        "Fifties": 5
+      },
+      {
+        "Player": "GR Marsh and MA Taylor (AUS)",
+        "Total Partnership Runs": 1980,
+        "Highest Partnership Runs": 329,
+        "Centuries": 4,
+        "Fifties": 9
+      },
+      {
+        "Player": "CL Hooper and BC Lara (WI)",
+        "Total Partnership Runs": 1979,
+        "Highest Partnership Runs": 153,
+        "Centuries": 7,
+        "Fifties": 6
+      },
+      {
+        "Player": "D Ganga and CH Gayle (WI)",
+        "Total Partnership Runs": 1978,
+        "Highest Partnership Runs": 214,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "CG Greenidge and IVA Richards (WI)",
+        "Total Partnership Runs": 1961,
+        "Highest Partnership Runs": 136,
+        "Centuries": 7,
+        "Fifties": 10
+      },
+      {
+        "Player": "NJ Astle and SP Fleming (NZ)",
+        "Total Partnership Runs": 1951,
+        "Highest Partnership Runs": 106,
+        "Centuries": 2,
+        "Fifties": 15
+      },
+      {
+        "Player": "S Chanderpaul and RR Sarwan (WI)",
+        "Total Partnership Runs": 1947,
+        "Highest Partnership Runs": 262,
+        "Centuries": 7,
+        "Fifties": 5
+      },
+      {
+        "Player": "CG Greenidge and RB Richardson (WI)",
+        "Total Partnership Runs": 1929,
+        "Highest Partnership Runs": 199,
+        "Centuries": 6,
+        "Fifties": 9
+      },
+      {
+        "Player": "CH Gayle and RR Sarwan (WI)",
+        "Total Partnership Runs": 1918,
+        "Highest Partnership Runs": 331,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "IM Chappell and IR Redpath (AUS)",
+        "Total Partnership Runs": 1915,
+        "Highest Partnership Runs": 180,
+        "Centuries": 4,
+        "Fifties": 10
+      },
+      {
+        "Player": "D Elgar and AK Markram (SA)",
+        "Total Partnership Runs": 1904,
+        "Highest Partnership Runs": 243,
+        "Centuries": 4,
+        "Fifties": 8
+      },
+      {
+        "Player": "RB Kanhai and GS Sobers (WI)",
+        "Total Partnership Runs": 1899,
+        "Highest Partnership Runs": 250,
+        "Centuries": 6,
+        "Fifties": 8
+      },
+      {
+        "Player": "Javed Miandad and Saleem Malik (PAK)",
+        "Total Partnership Runs": 1879,
+        "Highest Partnership Runs": 322,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "MA Butcher and ME Trescothick (ENG)",
+        "Total Partnership Runs": 1870,
+        "Highest Partnership Runs": 202,
+        "Centuries": 6,
+        "Fifties": 7
+      },
+      {
+        "Player": "DJ Bravo and S Chanderpaul (WI)",
+        "Total Partnership Runs": 1864,
+        "Highest Partnership Runs": 157,
+        "Centuries": 7,
+        "Fifties": 10
+      },
+      {
+        "Player": "IR Bell and AN Cook (ENG)",
+        "Total Partnership Runs": 1859,
+        "Highest Partnership Runs": 170,
+        "Centuries": 5,
+        "Fifties": 9
+      },
+      {
+        "Player": "DG Bradman and WM Woodfull (AUS)",
+        "Total Partnership Runs": 1850,
+        "Highest Partnership Runs": 274,
+        "Centuries": 7,
+        "Fifties": 7
+      },
+      {
+        "Player": "FDM Karunaratne and JK Silva (SL)",
+        "Total Partnership Runs": 1848,
+        "Highest Partnership Runs": 124,
+        "Centuries": 4,
+        "Fifties": 8
+      },
+      {
+        "Player": "TM Dilshan and DPMD Jayawardene (SL)",
+        "Total Partnership Runs": 1847,
+        "Highest Partnership Runs": 178,
+        "Centuries": 7,
+        "Fifties": 7
+      },
+      {
+        "Player": "AR Border and SR Waugh (AUS)",
+        "Total Partnership Runs": 1841,
+        "Highest Partnership Runs": 332,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "EJ Barlow and TL Goddard (SA)",
+        "Total Partnership Runs": 1806,
+        "Highest Partnership Runs": 134,
+        "Centuries": 6,
+        "Fifties": 11
+      },
+      {
+        "Player": "MD Crowe and AH Jones (NZ)",
+        "Total Partnership Runs": 1803,
+        "Highest Partnership Runs": 467,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "JH Kallis and GC Smith (SA)",
+        "Total Partnership Runs": 1793,
+        "Highest Partnership Runs": 207,
+        "Centuries": 3,
+        "Fifties": 12
+      },
+      {
+        "Player": "AC Gilchrist and DR Martyn (AUS)",
+        "Total Partnership Runs": 1786,
+        "Highest Partnership Runs": 317,
+        "Centuries": 6,
+        "Fifties": 3
+      },
+      {
+        "Player": "AD Gaekwad and SM Gavaskar (IND)",
+        "Total Partnership Runs": 1780,
+        "Highest Partnership Runs": 176,
+        "Centuries": 4,
+        "Fifties": 9
+      },
+      {
+        "Player": "N Hussain and AJ Stewart (ENG)",
+        "Total Partnership Runs": 1774,
+        "Highest Partnership Runs": 156,
+        "Centuries": 4,
+        "Fifties": 10
+      },
+      {
+        "Player": "GS Chappell and IM Chappell (AUS)",
+        "Total Partnership Runs": 1773,
+        "Highest Partnership Runs": 264,
+        "Centuries": 6,
+        "Fifties": 7
+      },
+      {
+        "Player": "JC Adams and BC Lara (WI)",
+        "Total Partnership Runs": 1762,
+        "Highest Partnership Runs": 322,
+        "Centuries": 7,
+        "Fifties": 3
+      },
+      {
+        "Player": "BA Edgar and JG Wright (NZ)",
+        "Total Partnership Runs": 1760,
+        "Highest Partnership Runs": 100,
+        "Centuries": 1,
+        "Fifties": 12
+      },
+      {
+        "Player": "SPD Smith and DA Warner (AUS)",
+        "Total Partnership Runs": 1752,
+        "Highest Partnership Runs": 239,
+        "Centuries": 5,
+        "Fifties": 9
+      },
+      {
+        "Player": "S Dhawan and M Vijay (IND)",
+        "Total Partnership Runs": 1748,
+        "Highest Partnership Runs": 289,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "AB de Villiers and AG Prince (SA)",
+        "Total Partnership Runs": 1745,
+        "Highest Partnership Runs": 212,
+        "Centuries": 6,
+        "Fifties": 4
+      },
+      {
+        "Player": "SM Gavaskar and GR Viswanath (IND)",
+        "Total Partnership Runs": 1737,
+        "Highest Partnership Runs": 159,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "ST Jayasuriya and KC Sangakkara (SL)",
+        "Total Partnership Runs": 1726,
+        "Highest Partnership Runs": 203,
+        "Centuries": 3,
+        "Fifties": 13
+      },
+      {
+        "Player": "TT Samaraweera and KC Sangakkara (SL)",
+        "Total Partnership Runs": 1720,
+        "Highest Partnership Runs": 204,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "Ijaz Ahmed and Inzamam-ul-Haq (PAK)",
+        "Total Partnership Runs": 1717,
+        "Highest Partnership Runs": 352,
+        "Centuries": 7,
+        "Fifties": 4
+      },
+      {
+        "Player": "S Chanderpaul and MN Samuels (WI)",
+        "Total Partnership Runs": 1713,
+        "Highest Partnership Runs": 195,
+        "Centuries": 6,
+        "Fifties": 6
+      },
+      {
+        "Player": "AI Kallicharran and IVA Richards (WI)",
+        "Total Partnership Runs": 1705,
+        "Highest Partnership Runs": 303,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "DL Haynes and IVA Richards (WI)",
+        "Total Partnership Runs": 1693,
+        "Highest Partnership Runs": 223,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "RJ Shastri and DB Vengsarkar (IND)",
+        "Total Partnership Runs": 1690,
+        "Highest Partnership Runs": 298,
+        "Centuries": 3,
+        "Fifties": 10
+      },
+      {
+        "Player": "MC Cowdrey and PBH May (ENG)",
+        "Total Partnership Runs": 1687,
+        "Highest Partnership Runs": 411,
+        "Centuries": 6,
+        "Fifties": 4
+      },
+      {
+        "Player": "S Chanderpaul and D Ramdin (WI)",
+        "Total Partnership Runs": 1681,
+        "Highest Partnership Runs": 296,
+        "Centuries": 3,
+        "Fifties": 7
+      },
+      {
+        "Player": "SC Ganguly and VVS Laxman (IND)",
+        "Total Partnership Runs": 1681,
+        "Highest Partnership Runs": 163,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "HM Nicholls and KS Williamson (NZ)",
+        "Total Partnership Runs": 1680,
+        "Highest Partnership Runs": 369,
+        "Centuries": 5,
+        "Fifties": 4
+      },
+      {
+        "Player": "CA Pujara and AM Rahane (IND)",
+        "Total Partnership Runs": 1673,
+        "Highest Partnership Runs": 217,
+        "Centuries": 6,
+        "Fifties": 3
+      },
+      {
+        "Player": "DR Martyn and RT Ponting (AUS)",
+        "Total Partnership Runs": 1666,
+        "Highest Partnership Runs": 242,
+        "Centuries": 4,
+        "Fifties": 10
+      },
+      {
+        "Player": "ND McKenzie and GC Smith (SA)",
+        "Total Partnership Runs": 1664,
+        "Highest Partnership Runs": 415,
+        "Centuries": 5,
+        "Fifties": 8
+      },
+      {
+        "Player": "Inzamam-ul-Haq and Younis Khan (PAK)",
+        "Total Partnership Runs": 1652,
+        "Highest Partnership Runs": 324,
+        "Centuries": 4,
+        "Fifties": 8
+      },
+      {
+        "Player": "M Amarnath and DB Vengsarkar (IND)",
+        "Total Partnership Runs": 1643,
+        "Highest Partnership Runs": 185,
+        "Centuries": 2,
+        "Fifties": 11
+      },
+      {
+        "Player": "IVA Richards and RB Richardson (WI)",
+        "Total Partnership Runs": 1643,
+        "Highest Partnership Runs": 308,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "DB Vengsarkar and GR Viswanath (IND)",
+        "Total Partnership Runs": 1638,
+        "Highest Partnership Runs": 210,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "ED Weekes and FMM Worrell (WI)",
+        "Total Partnership Runs": 1636,
+        "Highest Partnership Runs": 338,
+        "Centuries": 3,
+        "Fifties": 8
+      },
+      {
+        "Player": "Aamer Sohail and Saeed Anwar (PAK)",
+        "Total Partnership Runs": 1631,
+        "Highest Partnership Runs": 128,
+        "Centuries": 4,
+        "Fifties": 9
+      },
+      {
+        "Player": "MJ Guptill and BB McCullum (NZ)",
+        "Total Partnership Runs": 1629,
+        "Highest Partnership Runs": 339,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "DCS Compton and L Hutton (ENG)",
+        "Total Partnership Runs": 1605,
+        "Highest Partnership Runs": 248,
+        "Centuries": 6,
+        "Fifties": 6
+      },
+      {
+        "Player": "Hanif Mohammad and Saeed Ahmed (PAK)",
+        "Total Partnership Runs": 1603,
+        "Highest Partnership Runs": 246,
+        "Centuries": 6,
+        "Fifties": 6
+      },
+      {
+        "Player": "F du Plessis and D Elgar (SA)",
+        "Total Partnership Runs": 1601,
+        "Highest Partnership Runs": 179,
+        "Centuries": 7,
+        "Fifties": 4
+      },
+      {
+        "Player": "AI Kallicharran and CH Lloyd (WI)",
+        "Total Partnership Runs": 1596,
+        "Highest Partnership Runs": 208,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "RC Fredericks and CG Greenidge (WI)",
+        "Total Partnership Runs": 1593,
+        "Highest Partnership Runs": 192,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "Mominul Haque and Mushfiqur Rahim (BAN)",
+        "Total Partnership Runs": 1580,
+        "Highest Partnership Runs": 266,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "IR Bell and PD Collingwood (ENG)",
+        "Total Partnership Runs": 1564,
+        "Highest Partnership Runs": 184,
+        "Centuries": 6,
+        "Fifties": 5
+      },
+      {
+        "Player": "V Sehwag and SR Tendulkar (IND)",
+        "Total Partnership Runs": 1560,
+        "Highest Partnership Runs": 336,
+        "Centuries": 4,
+        "Fifties": 5
+      },
+      {
+        "Player": "Asif Iqbal and Mushtaq Mohammad (PAK)",
+        "Total Partnership Runs": 1558,
+        "Highest Partnership Runs": 350,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "R Dravid and W Jaffer (IND)",
+        "Total Partnership Runs": 1555,
+        "Highest Partnership Runs": 203,
+        "Centuries": 6,
+        "Fifties": 3
+      },
+      {
+        "Player": "Azhar Ali and Mohammad Hafeez (PAK)",
+        "Total Partnership Runs": 1554,
+        "Highest Partnership Runs": 287,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "HM Amla and D Elgar (SA)",
+        "Total Partnership Runs": 1553,
+        "Highest Partnership Runs": 215,
+        "Centuries": 4,
+        "Fifties": 8
+      },
+      {
+        "Player": "IR Bell and MJ Prior (ENG)",
+        "Total Partnership Runs": 1548,
+        "Highest Partnership Runs": 190,
+        "Centuries": 5,
+        "Fifties": 6
+      },
+      {
+        "Player": "TJ Franklin and JG Wright (NZ)",
+        "Total Partnership Runs": 1543,
+        "Highest Partnership Runs": 185,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "MW Gatting and DI Gower (ENG)",
+        "Total Partnership Runs": 1537,
+        "Highest Partnership Runs": 223,
+        "Centuries": 3,
+        "Fifties": 7
+      },
+      {
+        "Player": "M Labuschagne and DA Warner (AUS)",
+        "Total Partnership Runs": 1537,
+        "Highest Partnership Runs": 361,
+        "Centuries": 6,
+        "Fifties": 5
+      },
+      {
+        "Player": "HM Amla and F du Plessis (SA)",
+        "Total Partnership Runs": 1534,
+        "Highest Partnership Runs": 247,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "SM Katich and SR Watson (AUS)",
+        "Total Partnership Runs": 1529,
+        "Highest Partnership Runs": 182,
+        "Centuries": 3,
+        "Fifties": 10
+      },
+      {
+        "Player": "GS Chappell and KJ Hughes (AUS)",
+        "Total Partnership Runs": 1517,
+        "Highest Partnership Runs": 179,
+        "Centuries": 7,
+        "Fifties": 4
+      },
+      {
+        "Player": "DJ Cullinan and G Kirsten (SA)",
+        "Total Partnership Runs": 1510,
+        "Highest Partnership Runs": 212,
+        "Centuries": 6,
+        "Fifties": 3
+      },
+      {
+        "Player": "RC Fredericks and LG Rowe (WI)",
+        "Total Partnership Runs": 1510,
+        "Highest Partnership Runs": 269,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "TM Dilshan and NT Paranavitana (SL)",
+        "Total Partnership Runs": 1509,
+        "Highest Partnership Runs": 207,
+        "Centuries": 2,
+        "Fifties": 12
+      },
+      {
+        "Player": "BF Butcher and GS Sobers (WI)",
+        "Total Partnership Runs": 1506,
+        "Highest Partnership Runs": 173,
+        "Centuries": 4,
+        "Fifties": 8
+      },
+      {
+        "Player": "B Mitchell and AD Nourse (SA)",
+        "Total Partnership Runs": 1505,
+        "Highest Partnership Runs": 190,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "TM Dilshan and TT Samaraweera (SL)",
+        "Total Partnership Runs": 1491,
+        "Highest Partnership Runs": 280,
+        "Centuries": 3,
+        "Fifties": 5
+      },
+      {
+        "Player": "AH Jones and JG Wright (NZ)",
+        "Total Partnership Runs": 1490,
+        "Highest Partnership Runs": 241,
+        "Centuries": 6,
+        "Fifties": 4
+      },
+      {
+        "Player": "OJ Pope and JE Root (ENG)",
+        "Total Partnership Runs": 1489,
+        "Highest Partnership Runs": 193,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "DI Gower and AJ Lamb (ENG)",
+        "Total Partnership Runs": 1483,
+        "Highest Partnership Runs": 129,
+        "Centuries": 3,
+        "Fifties": 7
+      },
+      {
+        "Player": "CL Walcott and ED Weekes (WI)",
+        "Total Partnership Runs": 1483,
+        "Highest Partnership Runs": 242,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "Asad Shafiq and Azhar Ali (PAK)",
+        "Total Partnership Runs": 1477,
+        "Highest Partnership Runs": 207,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "Asad Shafiq and Younis Khan (PAK)",
+        "Total Partnership Runs": 1476,
+        "Highest Partnership Runs": 259,
+        "Centuries": 6,
+        "Fifties": 4
+      },
+      {
+        "Player": "WR Hammond and H Sutcliffe (ENG)",
+        "Total Partnership Runs": 1471,
+        "Highest Partnership Runs": 221,
+        "Centuries": 5,
+        "Fifties": 4
+      },
+      {
+        "Player": "BB McCullum and LRPL Taylor (NZ)",
+        "Total Partnership Runs": 1471,
+        "Highest Partnership Runs": 195,
+        "Centuries": 3,
+        "Fifties": 9
+      },
+      {
+        "Player": "SM Gavaskar and K Srikkanth (IND)",
+        "Total Partnership Runs": 1469,
+        "Highest Partnership Runs": 200,
+        "Centuries": 3,
+        "Fifties": 9
+      },
+      {
+        "Player": "KJ Hughes and GN Yallop (AUS)",
+        "Total Partnership Runs": 1451,
+        "Highest Partnership Runs": 206,
+        "Centuries": 4,
+        "Fifties": 5
+      },
+      {
+        "Player": "KC Brathwaite and SD Hope (WI)",
+        "Total Partnership Runs": 1444,
+        "Highest Partnership Runs": 246,
+        "Centuries": 2,
+        "Fifties": 9
+      },
+      {
+        "Player": "WJ Cronje and DJ Cullinan (SA)",
+        "Total Partnership Runs": 1442,
+        "Highest Partnership Runs": 145,
+        "Centuries": 3,
+        "Fifties": 9
+      },
+      {
+        "Player": "Mohammad Hafeez and Taufeeq Umar (PAK)",
+        "Total Partnership Runs": 1438,
+        "Highest Partnership Runs": 164,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "JH Kallis and ND McKenzie (SA)",
+        "Total Partnership Runs": 1436,
+        "Highest Partnership Runs": 181,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "CH Lloyd and IVA Richards (WI)",
+        "Total Partnership Runs": 1435,
+        "Highest Partnership Runs": 174,
+        "Centuries": 6,
+        "Fifties": 4
+      },
+      {
+        "Player": "A Ranatunga and HP Tillakaratne (SL)",
+        "Total Partnership Runs": 1427,
+        "Highest Partnership Runs": 125,
+        "Centuries": 5,
+        "Fifties": 7
+      },
+      {
+        "Player": "AW Greig and APE Knott (ENG)",
+        "Total Partnership Runs": 1424,
+        "Highest Partnership Runs": 163,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "GS Blewett and SR Waugh (AUS)",
+        "Total Partnership Runs": 1420,
+        "Highest Partnership Runs": 385,
+        "Centuries": 5,
+        "Fifties": 2
+      },
+      {
+        "Player": "FDM Karunaratne and HDRL Thirimanne (SL)",
+        "Total Partnership Runs": 1419,
+        "Highest Partnership Runs": 209,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "AC Hudson and G Kirsten (SA)",
+        "Total Partnership Runs": 1416,
+        "Highest Partnership Runs": 236,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "TM Head and M Labuschagne (AUS)",
+        "Total Partnership Runs": 1404,
+        "Highest Partnership Runs": 297,
+        "Centuries": 3,
+        "Fifties": 7
+      },
+      {
+        "Player": "BB McCullum and KS Williamson (NZ)",
+        "Total Partnership Runs": 1388,
+        "Highest Partnership Runs": 297,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "Mominul Haque and Tamim Iqbal (BAN)",
+        "Total Partnership Runs": 1386,
+        "Highest Partnership Runs": 170,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "MA Atherton and N Hussain (ENG)",
+        "Total Partnership Runs": 1384,
+        "Highest Partnership Runs": 192,
+        "Centuries": 4,
+        "Fifties": 5
+      },
+      {
+        "Player": "IT Botham and DI Gower (ENG)",
+        "Total Partnership Runs": 1384,
+        "Highest Partnership Runs": 127,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "WM Lawry and KR Stackpole (AUS)",
+        "Total Partnership Runs": 1379,
+        "Highest Partnership Runs": 95,
+        "Centuries": 0,
+        "Fifties": 13
+      },
+      {
+        "Player": "DJ Cullinan and JH Kallis (SA)",
+        "Total Partnership Runs": 1368,
+        "Highest Partnership Runs": 235,
+        "Centuries": 2,
+        "Fifties": 7
+      },
+      {
+        "Player": "HA Gomes and CH Lloyd (WI)",
+        "Total Partnership Runs": 1367,
+        "Highest Partnership Runs": 237,
+        "Centuries": 6,
+        "Fifties": 5
+      },
+      {
+        "Player": "S Chanderpaul and CH Gayle (WI)",
+        "Total Partnership Runs": 1366,
+        "Highest Partnership Runs": 149,
+        "Centuries": 2,
+        "Fifties": 11
+      },
+      {
+        "Player": "JA Burns and DA Warner (AUS)",
+        "Total Partnership Runs": 1365,
+        "Highest Partnership Runs": 237,
+        "Centuries": 6,
+        "Fifties": 2
+      },
+      {
+        "Player": "BB McCullum and DL Vettori (NZ)",
+        "Total Partnership Runs": 1363,
+        "Highest Partnership Runs": 176,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "MC Cowdrey and ER Dexter (ENG)",
+        "Total Partnership Runs": 1362,
+        "Highest Partnership Runs": 248,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "MS Dhoni and VVS Laxman (IND)",
+        "Total Partnership Runs": 1361,
+        "Highest Partnership Runs": 259,
+        "Centuries": 3,
+        "Fifties": 8
+      },
+      {
+        "Player": "RN Harvey and KR Miller (AUS)",
+        "Total Partnership Runs": 1361,
+        "Highest Partnership Runs": 224,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "AL Hassett and AR Morris (AUS)",
+        "Total Partnership Runs": 1354,
+        "Highest Partnership Runs": 189,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "MJ Clarke and BJ Haddin (AUS)",
+        "Total Partnership Runs": 1353,
+        "Highest Partnership Runs": 200,
+        "Centuries": 4,
+        "Fifties": 7
+      },
+      {
+        "Player": "SL Campbell and BC Lara (WI)",
+        "Total Partnership Runs": 1351,
+        "Highest Partnership Runs": 140,
+        "Centuries": 2,
+        "Fifties": 9
+      },
+      {
+        "Player": "AF Rae and JB Stollmeyer (WI)",
+        "Total Partnership Runs": 1349,
+        "Highest Partnership Runs": 239,
+        "Centuries": 5,
+        "Fifties": 3
+      },
+      {
+        "Player": "CH Gayle and WW Hinds (WI)",
+        "Total Partnership Runs": 1348,
+        "Highest Partnership Runs": 172,
+        "Centuries": 3,
+        "Fifties": 8
+      },
+      {
+        "Player": "MA Atherton and RA Smith (ENG)",
+        "Total Partnership Runs": 1347,
+        "Highest Partnership Runs": 303,
+        "Centuries": 2,
+        "Fifties": 7
+      },
+      {
+        "Player": "WM Lawry and IR Redpath (AUS)",
+        "Total Partnership Runs": 1347,
+        "Highest Partnership Runs": 219,
+        "Centuries": 3,
+        "Fifties": 8
+      },
+      {
+        "Player": "AD Mathews and BKG Mendis (SL)",
+        "Total Partnership Runs": 1343,
+        "Highest Partnership Runs": 274,
+        "Centuries": 2,
+        "Fifties": 6
+      },
+      {
+        "Player": "CH Gayle and DS Smith (WI)",
+        "Total Partnership Runs": 1336,
+        "Highest Partnership Runs": 139,
+        "Centuries": 4,
+        "Fifties": 4
+      },
+      {
+        "Player": "RN Harvey and CC McDonald (AUS)",
+        "Total Partnership Runs": 1336,
+        "Highest Partnership Runs": 295,
+        "Centuries": 3,
+        "Fifties": 7
+      },
+      {
+        "Player": "MA Taylor and ME Waugh (AUS)",
+        "Total Partnership Runs": 1333,
+        "Highest Partnership Runs": 169,
+        "Centuries": 4,
+        "Fifties": 3
+      },
+      {
+        "Player": "DG Bradman and SJ McCabe (AUS)",
+        "Total Partnership Runs": 1326,
+        "Highest Partnership Runs": 249,
+        "Centuries": 3,
+        "Fifties": 9
+      },
+      {
+        "Player": "MA Atherton and MA Butcher (ENG)",
+        "Total Partnership Runs": 1322,
+        "Highest Partnership Runs": 179,
+        "Centuries": 5,
+        "Fifties": 0
+      },
+      {
+        "Player": "KWR Fletcher and AW Greig (ENG)",
+        "Total Partnership Runs": 1322,
+        "Highest Partnership Runs": 254,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "Habibul Bashar and Javed Omar (BAN)",
+        "Total Partnership Runs": 1321,
+        "Highest Partnership Runs": 167,
+        "Centuries": 5,
+        "Fifties": 5
+      },
+      {
+        "Player": "NJ Astle and CD McMillan (NZ)",
+        "Total Partnership Runs": 1319,
+        "Highest Partnership Runs": 222,
+        "Centuries": 2,
+        "Fifties": 10
+      },
+      {
+        "Player": "DJ Malan and JE Root (ENG)",
+        "Total Partnership Runs": 1314,
+        "Highest Partnership Runs": 162,
+        "Centuries": 5,
+        "Fifties": 4
+      },
+      {
+        "Player": "TM Head and SPD Smith (AUS)",
+        "Total Partnership Runs": 1313,
+        "Highest Partnership Runs": 285,
+        "Centuries": 5,
+        "Fifties": 4
+      },
+      {
+        "Player": "Azhar Ali and Babar Azam (PAK)",
+        "Total Partnership Runs": 1307,
+        "Highest Partnership Runs": 165,
+        "Centuries": 5,
+        "Fifties": 3
+      },
+      {
+        "Player": "MV Boucher and SM Pollock (SA)",
+        "Total Partnership Runs": 1306,
+        "Highest Partnership Runs": 148,
+        "Centuries": 2,
+        "Fifties": 5
+      },
+      {
+        "Player": "SE Marsh and SPD Smith (AUS)",
+        "Total Partnership Runs": 1304,
+        "Highest Partnership Runs": 246,
+        "Centuries": 3,
+        "Fifties": 5
+      },
+      {
+        "Player": "Azhar Ali and Misbah-ul-Haq (PAK)",
+        "Total Partnership Runs": 1299,
+        "Highest Partnership Runs": 141,
+        "Centuries": 2,
+        "Fifties": 12
+      },
+      {
+        "Player": "MA Atherton and ME Trescothick (ENG)",
+        "Total Partnership Runs": 1297,
+        "Highest Partnership Runs": 159,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "GP Howarth and JG Wright (NZ)",
+        "Total Partnership Runs": 1296,
+        "Highest Partnership Runs": 195,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "DCS Compton and WJ Edrich (ENG)",
+        "Total Partnership Runs": 1294,
+        "Highest Partnership Runs": 370,
+        "Centuries": 5,
+        "Fifties": 1
+      },
+      {
+        "Player": "EJM Cowan and DA Warner (AUS)",
+        "Total Partnership Runs": 1291,
+        "Highest Partnership Runs": 214,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "Litton Das and Mushfiqur Rahim (BAN)",
+        "Total Partnership Runs": 1290,
+        "Highest Partnership Runs": 272,
+        "Centuries": 4,
+        "Fifties": 5
+      },
+      {
+        "Player": "SP Fleming and MH Richardson (NZ)",
+        "Total Partnership Runs": 1289,
+        "Highest Partnership Runs": 172,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "DG Bradman and WH Ponsford (AUS)",
+        "Total Partnership Runs": 1284,
+        "Highest Partnership Runs": 451,
+        "Centuries": 3,
+        "Fifties": 1
+      },
+      {
+        "Player": "C Hill and VT Trumper (AUS)",
+        "Total Partnership Runs": 1284,
+        "Highest Partnership Runs": 143,
+        "Centuries": 3,
+        "Fifties": 5
+      },
+      {
+        "Player": "MJ Slater and ME Waugh (AUS)",
+        "Total Partnership Runs": 1281,
+        "Highest Partnership Runs": 183,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "DM de Silva and FDM Karunaratne (SL)",
+        "Total Partnership Runs": 1277,
+        "Highest Partnership Runs": 345,
+        "Centuries": 4,
+        "Fifties": 3
+      },
+      {
+        "Player": "Asad Shafiq and Sarfaraz Ahmed (PAK)",
+        "Total Partnership Runs": 1275,
+        "Highest Partnership Runs": 173,
+        "Centuries": 4,
+        "Fifties": 6
+      },
+      {
+        "Player": "NT Paranavitana and KC Sangakkara (SL)",
+        "Total Partnership Runs": 1272,
+        "Highest Partnership Runs": 181,
+        "Centuries": 2,
+        "Fifties": 7
+      },
+      {
+        "Player": "HA Gomes and IVA Richards (WI)",
+        "Total Partnership Runs": 1270,
+        "Highest Partnership Runs": 206,
+        "Centuries": 2,
+        "Fifties": 6
+      },
+      {
+        "Player": "TWM Latham and JA Raval (NZ)",
+        "Total Partnership Runs": 1270,
+        "Highest Partnership Runs": 254,
+        "Centuries": 2,
+        "Fifties": 8
+      },
+      {
+        "Player": "CH Lloyd and DL Murray (WI)",
+        "Total Partnership Runs": 1269,
+        "Highest Partnership Runs": 250,
+        "Centuries": 3,
+        "Fifties": 6
+      },
+      {
+        "Player": "Majid Khan and Zaheer Abbas (PAK)",
+        "Total Partnership Runs": 1264,
+        "Highest Partnership Runs": 159,
+        "Centuries": 4,
+        "Fifties": 5
+      }
+    ]
+}

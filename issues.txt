@@ -1,0 +1,7 @@
+dissmissals photo not correctly rendered done
+
+innings in ODI matches same issue done
+
+partnership alignment issue in odi 50 done
+
+BBI calculation issue

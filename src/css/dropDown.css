@@ -1,0 +1,25 @@
+.dropDown{
+    position: absolute;
+    top:1%;
+    right: 1%;
+    z-index: 1;
+    color: white;
+    font-family: 'rooney-sans', cursive;
+}
+
+.select{
+    /* width: 80px; */
+    border-radius: 30px;
+    border-color: transparent;
+    color: white;
+    background: transparent;
+}
+
+.option{
+    color: black;
+    background: gray;
+}
+
+label{
+    font-size: large;
+}
