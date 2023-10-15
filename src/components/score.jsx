@@ -21,13 +21,13 @@ const Score = (props) => {
               // Trigger your animation here
               return (
                   <div>
-                      <h2 className='score'>Score:{props.score}</h2>
+                      <h3 className='score term-keyword__keyword'>Score:{props.score}</h3>
                   </div>
               );
             }else{
                 return (
                     <div>
-                        <h2 className='score'>Score:{props.score}</h2>
+                        <h3 className='score  term-keyword__keyword'>Score:{props.score}</h3>
                     </div>
                 );
 

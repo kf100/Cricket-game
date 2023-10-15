@@ -26,7 +26,7 @@ const NonPartnership = ({player1, pvalue1,p1img, player2, pvalue2,p2img,msg1_1,m
                     </div>
                     ):(<div className='player1' style={{ backgroundImage: `url(${p1img})` }}></div>)}
                    
-                    <div className='text left'>
+                    <div className='text left top'>
                             <h3 className='weight'>{msg1_1}</h3>
                             <h3 className='weight'><span className='text_value'>{msg1_2}</span></h3>
                             <h3 className='weight'>{msg1_3}</h3>
@@ -41,7 +41,7 @@ const NonPartnership = ({player1, pvalue1,p1img, player2, pvalue2,p2img,msg1_1,m
                     </div>
                     ):(<div className='player2' style={{ backgroundImage: `url(${p2img})` }}></div>)}
                         
-                    <div className='text right'>
+                    <div className='text right bottom'>
                             <h3 className='weight'>{msg2}</h3>
                             <div>
                                 {clicked ? (<h3 className='message weight'><span className='text_value'>{pvalue2}</span></h3>) : (<div>
