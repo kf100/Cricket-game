@@ -21,7 +21,7 @@ const NonPartnership = ({player1, pvalue1,p1img, player2, pvalue2,p2img,msg1_1,m
                 {p1imagflag ? (
                 <div className='player1'>
                         <div className='banner weight'>
-                            <h3>{player1}</h3>
+                            <h3 className='banner-text'>{player1}</h3>
                         </div>
                     </div>
                     ):(<div className='player1' style={{ backgroundImage: `url(${p1img})` }}></div>)}
@@ -36,7 +36,7 @@ const NonPartnership = ({player1, pvalue1,p1img, player2, pvalue2,p2img,msg1_1,m
                     {p2imagflag ? (
                 <div className='player2'>
                         <div className='banner weight'>
-                            <h3>{player2}</h3>
+                            <h3 className='banner-text'>{player2}</h3>
                         </div>
                     </div>
                     ):(<div className='player2' style={{ backgroundImage: `url(${p2img})` }}></div>)}

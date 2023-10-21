@@ -143,7 +143,7 @@ h3,.textstyle{
     /* color: #fff989; */
     position:absolute;
     top:50%;
-    /* left:50%; */
+    left:0%;
     color: white;
     border-top: 3px solid white;
     /* left: 20%; */
@@ -202,6 +202,10 @@ h3,.textstyle{
     left: 30%;
     padding-top: 10%;
   }
+  .banner-text{
+    /* top:100% */
+    padding-top: 10%;
+  }
   @media screen and (min-width: 28.75em) {
     h3 {
       font-size: 30px; } }
@@ -220,7 +224,7 @@ h3,.textstyle{
     width:50%;
     height:100vh;
     flex:1;
-    background-repeat: no-rep eat;
+    background-repeat: no-repeat;
     background-size: 98%;
     background-position: center;
     filter:opacity(55%);
