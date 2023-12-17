@@ -49,20 +49,16 @@ function App() {
 
   // let ssetplayer1=setplayer1
   // const demo={"hello world":"Hi"}
-  // console.log(demo["hello world"])
 
   // var data1=test[0].batting[1]['50s']
   // var ap="batting"
   // var data1=test[ap]
   // var data2=data1[1]['player']
-  // console.log(data2)
 
   // getplayer(test,"batting", setplayer1)
   // setplayer1("hello")
-  // console.log(player1)
 
   // var type=Math.floor(Math.random()*9)
-  // console.log(type)
 
   // function demo(){
   //   setplayer1("next")
@@ -104,11 +100,8 @@ function App() {
   }
 
   function Test() {
-    console.log("Type:Test")
     let i = interest()
-    console.log("interet:", i)
     let obj = test[i[0]]
-    // console.log(obj)
     let players_info = getplayer(obj, i[1])
 
     // setplayer1(players[0])
@@ -121,9 +114,7 @@ function App() {
     setpvalue2(players_info[3])
     // setpmatches2(players_info[5])
 
-    console.log("players_info:", players_info)
     getplayer(obj, i[0], i[1])
-    //  console.log("condition:",i[0]==="partnership")
     switch (i[0]) {
       case "partnership":
         getpartnershipimage(players_info[0], 1, "Test")
@@ -137,10 +128,8 @@ function App() {
     get_message("Test Matches", players_info, i)
     // let players_info=getplayer(obj,i[1])
     // let p=String(players_info[0])
-    // console.log(typeof(p))
     // let message1=players_info[0]+" has "+players_info[1]+" "+i[1]+" in Test"
     // setmsg1(message1)
-    // console.log("in Test")
     // let message2=players_info[2]+" has "
     // setmsg2(message2)
 
@@ -151,11 +140,8 @@ function App() {
   }
 
   function ODI() {
-    console.log("Type:ODI")
     let i = interest()
-    console.log("interet:", i)
     let obj = odi[i[0]]
-    // console.log(obj)
     let players_info = getplayer(obj, i[1])
     setplayer1(String(players_info[0]))
     setpvalue1(players_info[1])
@@ -165,7 +151,6 @@ function App() {
     setpvalue2(players_info[3])
     // setpmatches2(players_info[5])
 
-    console.log("player_info", players_info)
     getplayer(obj, i[0], i[1])
 
     switch (i[0]) {
@@ -181,18 +166,13 @@ function App() {
     // setplayer1(players[0])
     // setplayer1(players[1])
     get_message("ODI Matches", players_info, i)
-    // console.log("player1 image:",pimage1)
-    // console.log("player2 image:",pimage2)
   }
 
 
   //Changes to be made yet
   function T20() {
-    console.log("Type:T20")
     let i = interest()
-    console.log("interet:", i)
     let obj = t20[i[0]]
-    // console.log(obj)
     let players_info = getplayer(obj, i[1])
 
     // setplayer1(players[0])
@@ -205,9 +185,7 @@ function App() {
     setpvalue2(players_info[3])
     // setpmatches2(players_info[5])
 
-    console.log("players_info:", players_info)
     getplayer(obj, i[0], i[1])
-    //  console.log("condition:",i[0]==="partnership")
     switch (i[0]) {
       case "partnership":
         getpartnershipimage(players_info[0], 1, "T20")
@@ -217,8 +195,6 @@ function App() {
         getimage(String(players_info[0]), 1, i[0], "T20")
         getimage(String(players_info[2]), 2, i[0], "T20")
     }
-    console.log(pimage1)
-    console.log(pimage2)
     get_message("T20 Matches", players_info, i)
   }
 
@@ -237,7 +213,6 @@ function App() {
             var message1_3 = " " + Game_Type
             setmsg1_3(message1_3)
 
-            // console.log(msg1)
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -250,12 +225,10 @@ function App() {
 
             var message1_3 = " " + interest[1] + " in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log(msg1)
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
           case "Runs":
-            console.log("in Runs")
             var message1_1 = players_info[0] + " scored "
             setmsg1_1(message1_1)
 
@@ -277,7 +250,6 @@ function App() {
 
             var message1_3 = " in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log(msg1)
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -291,7 +263,6 @@ function App() {
 
             var message1_3 = " " + interest[1] + " in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log(msg1)
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -309,8 +280,6 @@ function App() {
             var message1_3 = " " + Game_Type
             setmsg1_3(message1_3)
 
-            // console.log("in 5 and 10")
-            // console.log(msg1)
             var message2 = players_info[2] + " has taken " + interest[1] + " wickets in"
             setmsg2(message2)
             break
@@ -322,7 +291,6 @@ function App() {
             setmsg1_2(message1_2)
             var message1_3 = " " + Game_Type
             setmsg1_3(message1_3)
-            // console.log("in Test")
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -334,7 +302,6 @@ function App() {
             setmsg1_2(message1_2)
             var message1_3 = " total wickets in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log("in Test")
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -348,7 +315,6 @@ function App() {
 
             var message1_3 = " Best Bowling in Innings " + interest[1] + " in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log("in Test")
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -359,7 +325,6 @@ function App() {
             setmsg1_2(message1_2)
             var message1_3 = " in " + Game_Type
             setmsg1_3(message1_3)
-            // console.log("in Test")
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
@@ -373,7 +338,6 @@ function App() {
         setmsg1_2(message1_2)
         var message1_3 = " Total Catches in " + Game_Type
         setmsg1_3(message1_3)
-        // console.log(message1)
         var message2 = players_info[2] + " has "
         setmsg2(message2)
         break
@@ -384,7 +348,6 @@ function App() {
         setmsg1_2(message1_2)
         var message1_3 = " " + interest[1] + " in " + Game_Type
         setmsg1_3(message1_3)
-        // console.log(message1)
         var message2 = players_info[2] + " has "
         setmsg2(message2)
         break
@@ -392,14 +355,12 @@ function App() {
       //   case "High":
       //   var message1=players_info[0]+" has made Together "+players_info[1]+" Highest Partnership runs in "+Game_Type
       //   setmsg1(message1)
-      //   console.log(message1)
       //   var message2=players_info[3]+" has "
       //   setmsg2(message2)
       //   break
       //   default:
       //     var message1=players_info[0]+" has made Together "+players_info[1]+" "+interest[1]+" in "+Game_Type
       //   setmsg1(message1)
-      //   console.log(message1)
       //   var message2=players_info[3]+" has "
       //   setmsg2(message2)
       //   break
@@ -413,13 +374,11 @@ function App() {
       case 1:
         let batm = batmap()
         setinterest("batting")
-        console.log("in batting interest")
         return ["batting", batm]
         break;
       case 2:
         let ballm = ballmap()
         setinterest("bowling")
-        console.log("in bowling interest")
         return ["bowling", ballm]
         break;
       case 3:
@@ -436,12 +395,9 @@ function App() {
 
 
   function getplayer(obj, achievment) {
-    // console.log(obj[interest][1]['player'])
     var p1 = Math.floor(Math.random() * obj.length)
-    console.log("player1 random", p1)
     // setplayer1(obj[p1]['player'])
     // setpvalue1(obj[p1][achievment])
-    // console.log("player1 in getplayer:"+obj[p1]['player'])
     let flag = true
     while (flag) {
       var p2 = Math.floor(Math.random() * obj.length)
@@ -454,13 +410,9 @@ function App() {
       }
     }
 
-    // console.log("player2 in getplayer:"+obj[p2]['player'])
   }
 
   function getimage(player, player_no, interest, Type) {
-    // console.log("interest:",interest)
-    // console.log("Type:",Type)
-    // console.log("Type:",Type)
     switch (Type) {
       case "Test":
         switch (interest) {
@@ -473,13 +425,11 @@ function App() {
                       setPimage1(data.image)
                     }
                     break
-                  // console.log("p1image:",pimage1) //dont give correct answer because of async
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
                     break
-                  // console.log("p2image:",pimage2) //dont give correct answer because of async
                 }
               }
             })
@@ -493,13 +443,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -514,13 +462,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -540,13 +486,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -560,13 +504,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -580,13 +522,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -604,13 +544,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -624,13 +562,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -644,13 +580,11 @@ function App() {
                     if (!data.image.includes(".jpg")) {
                       setPimage1(data.image)
                     }
-                    // console.log("p1image:",pimage1) //dont give correct answer because of async
                     break
                   case 2:
                     if (!data.image.includes(".jpg")) {
                       setPimage2(data.image)
                     }
-                    // console.log("p2image:",pimage2) //dont give correct answer because of async
                     break
                 }
               }
@@ -661,9 +595,7 @@ function App() {
   }
 
   function getpartnershipimage(player, player_no, Type) {
-    console.log("in getpartnership")
     var splitdata = player.split(" and ")
-    // console.log(splitdata)
     // splitdata[1].replace(/\s, '')
 
     let symb = splitdata[1].split(" ")
@@ -674,23 +606,16 @@ function App() {
     splitdata[0] = splitdata[0].trim()
     splitdata[1] = splitdata[1].trim()
 
-    console.log("splitdata", splitdata)
     var img = []
-    console.log("type:", Type)
     switch (Type) {
       case "Test":
-        console.log("in partnership test")
         splitdata.forEach(element => {
-          console.log("element", element)
           Test_partnership_image.filter((data) => {
             if (element === data.player && !img.includes(data.image)) {
-              console.log(img.includes(data.image))
-              console.log("name:", data.player)
               if (data.image !== undefined && !data.image.includes(".jpg")) {
 
                 img.push(data.image)
               }
-              console.log("img[]:", img)
             }
           });
           if (img.length === 0) {
@@ -701,16 +626,12 @@ function App() {
 
       case "ODI":
         splitdata.forEach(element => {
-          console.log("element", element)
           ODI_partnership_image.filter((data) => {
             if (element === data.player && !img.includes(data.image)) {
-              console.log(img.includes(data.image))
-              console.log("name:", data.player)
               if (data.image !== undefined && !data.image.includes(".jpg")) {
 
                 img.push(data.image)
               }
-              console.log("img[]:", img)
             }
           });
           if (img.length === 0) {
@@ -721,16 +642,12 @@ function App() {
 
       case "T20":
         splitdata.forEach(element => {
-          console.log("element", element)
           T20_partnership_image.filter((data) => {
             if (element === data.player && !img.includes(data.image)) {
-              console.log(img.includes(data.image))
-              console.log("name:", data.player)
               if (data.image !== undefined && !data.image.includes(".jpg")) {
 
                 img.push(data.image)
               }
-              console.log("img[]:", img)
             }
           });
           if (img.length === 0) {
@@ -740,22 +657,17 @@ function App() {
         break;
 
     }
-    console.log("img[]:", img)
     switch (player_no) {
       case 1:
         setPimage1(img)
-      // console.log("p1image:",pimage1) //dont give correct answer because of async
       case 2:
         setPimage2(img)
-      // console.log("p2image:",pimage2) //dont give correct answer because of async
     }
   }
 
   function checkscore(answer) {
-    // console.log(answer)
     if (pvalue1 === pvalue2) {
       // setscore((score)=>score+1)
-      // console.log(score)
       setStatus("Success")
       setclicked(true)
       setTimeout(() => { reset(); setStatus("inProgress"); setclicked(false) }, 3000)
@@ -764,7 +676,6 @@ function App() {
     } else {
       let right_answer = eval(pvalue1) < eval(pvalue2)
       if (right_answer === answer) {
-        // console.log(score)
         setStatus("Success")
         setclicked(true)
         // setTimeout(()=>{reset();},2800)
@@ -772,7 +683,6 @@ function App() {
         setTimeout(() => { start(Type); }, 3200)
         setscore((score) => score = score + 1)
       } else {
-        console.log(score)
         setStatus("Fail")
         setclicked(true)
       }
@@ -782,7 +692,6 @@ function App() {
   function restart() {
     reset()
     setscore((0))
-    console.log("type in restart:", Type)
     start(Type)
   }
   function reset() {
@@ -800,7 +709,6 @@ function App() {
   function change(t) {
     setType(t)
     // Call()
-    // console.log(t)
     // setTimeout(()=>{Call()},5000)
     // restart()
     // reset()
@@ -814,7 +722,6 @@ function App() {
   }, []);
 
   // function outside(){
-  //   console.log("clicked")
   // }
 
   return (

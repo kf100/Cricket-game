@@ -6,14 +6,6 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import "../css/partnership.css";
 
 const Partnership = ({ player1, pvalue1, p1img, player2, pvalue2, p2img, msg1_1, msg1_2, msg1_3, msg2, status, checkscore, score, clicked, restart }) => {
-    console.log("p1img", p1img)
-    console.log("p2img", p2img)
-    console.log("p1img[0]", p1img[0])
-    console.log("p2img[0]", p2img[0])
-    console.log("pvalue1", pvalue1)
-    console.log("pvalue2", pvalue2)
-    // console.log("partner value:",msg1_2)
-
 
     let p1_1imagflag = false
     let p1_2imagflag = false
@@ -92,14 +84,7 @@ const Partnership = ({ player1, pvalue1, p1img, player2, pvalue2, p2img, msg1_1,
                                     </div>
                                 </div>
                             ) : (<div className="col-6 col-md-12 mx-0 p-0 partnership_player1" style={{ backgroundImage: `url(${p1img[0]})` }}> </div>)}
-                            {/* <div className="col-6 col-md-12 mx-0 p-0 partnership_player1">
-                        <div className='banner-partnership'>
-                            <h5 className='weight'>{player2}</h5>
-                        </div>
-                    </div> */}
-
-
-                            {/* <div className="col-6 col-md-12 mx-0 p-0 partnership_player1 zindex" style={{backgroundImage: `url(${p1img[1]})`}}></div> */}
+                           
                             {p1_2imagflag ? (
                                 <div className='col-6 col-md-12 mx-0 p-0 partnership_player1'>
                                     <div className='banner-partnership weight'>
@@ -112,9 +97,6 @@ const Partnership = ({ player1, pvalue1, p1img, player2, pvalue2, p2img, msg1_1,
 
                     <div className="col-md-6">
                         <div className="row alignment">
-                            {/* <div className="col-6 col-md-12 mx-0 p-0 partnership_player2" style={{backgroundImage:`url(${p2img[0]})`}}>
-                            
-                        </div> */}
                             {p2_1imagflag ? (
                                 <div className='col-6 col-md-12 mx-0 p-0 partnership_player2'>
                                     <div className='banner-partnership weight'>
@@ -133,9 +115,6 @@ const Partnership = ({ player1, pvalue1, p1img, player2, pvalue2, p2img, msg1_1,
                         </div>
                     </div>
                 </div>
-                {/* <div id='split-pane-or'>
-                <img style="border-radius:100%;width: 60px;height: 60px;" src="versus.png" />
-            </div> */}
                 <div className='indicator'>
                     <RightWrong status={status} restart={restart} />
                 </div>
