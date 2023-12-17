@@ -241,6 +241,19 @@ function App() {
             var message2 = players_info[2] + " has "
             setmsg2(message2)
             break
+          case "Highest Runs":
+            var message1_1 = players_info[0] + " has highest score of "
+            setmsg1_1(message1_1)
+
+            var message1_2 = players_info[1]
+            setmsg1_2(message1_2)
+
+            var message1_3 = " in " + Game_Type
+            setmsg1_3(message1_3)
+
+            var message2 = players_info[2] + " has "
+            setmsg2(message2)
+            break
           case "Average":
             var message1_1 = players_info[0] + " has an " + interest[1] + " of "
             setmsg1_1(message1_1)
